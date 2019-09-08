@@ -55,10 +55,8 @@
                         <div class="col-md-6 col-sm-6 hidden-xs text-right">
                             <div class="social">
                                 <a class="facebook" href="https://www.facebook.com/Lolicon.Knight" data-tooltip="tooltip" data-placement="bottom" title="Facebook"><i class="fa fa-facebook"></i></a>              
-                                <a class="twitter" href="#" data-tooltip="tooltip" data-placement="bottom" title="Twitter"><i class="fa fa-twitter"></i></a>
-                                <a class="google" href="#" data-tooltip="tooltip" data-placement="bottom" title="Google Plus"><i class="fa fa-google-plus"></i></a>
-                                <a class="linkedin" href="#" data-tooltip="tooltip" data-placement="bottom" title="Linkedin"><i class="fa fa-linkedin"></i></a>
-                                <a class="pinterest" href="#" data-tooltip="tooltip" data-placement="bottom" title="Pinterest"><i class="fa fa-pinterest"></i></a>
+                                <a class="youtube" href="https://www.facebook.com/ChifuyuGaming" data-tooltip="tooltip" data-placement="bottom" title="youtube"><i class="fa fa-youtube"></i></a>
+                                <a class="linkedin" href="https://www.linkedin.com/in/paul-anthony-ragsac-1b735a15b/" data-tooltip="tooltip" data-placement="bottom" title="Linkedin"><i class="fa fa-linkedin"></i></a>
                             </div><!-- end social -->
                         </div><!-- end left -->
                     </div><!-- end row -->
@@ -75,8 +73,7 @@
                             <span class="icon-bar"></span>
                         </button>
                         <div class="logo-normal">
-						
-                            <a class="navbar-brand" href="index.html"><img src="https://images.vexels.com/media/users/3/127525/isolated/preview/d79fa485e112044702de7470c8a48fc6-cute-meow-emoji-icon-by-vexels.png" alt=""><h4>Websy</h4></a>
+                            <a class="navbar-brand" href="index.html"><img src="https://images.vexels.com/media/users/3/127525/isolated/preview/d79fa485e112044702de7470c8a48fc6-cute-meow-emoji-icon-by-vexels.png" alt=""><h4>Ragsac</h4></a>
                         </div>
                     </div>
 
@@ -137,7 +134,6 @@
                 </nav><!-- end navbar -->
             </div><!-- end container -->
         </header>
-
         <section id="home" class="video-section js-height-full">
             <div class="overlay"></div>
             <div class="home-text-wrapper relative container">
@@ -146,10 +142,13 @@
                     <small>This website was created for me to learn how to create and make my own. </br>Which can be used for future purposes</small>
                     <div class="btn-wrapper">
                         <div class="text-center">
-                            <a href="#" class="btn btn-primary wow slideInLeft">Read More</a> &nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/learning/bootstrap-4-essential-training/welcome?u=35279340" class="btn btn-default wow slideInRight">Learn How</a>
-                        </div>
+                            <a href="#" class="btn btn-primary wow slideInLeft">Read More</a><a href="https://www.linkedin.com/learning/bootstrap-4-essential-training/welcome?u=35279340" class="btn btn-default wow slideInRight">Learn How</a>
+						</div>
                     </div><!-- end row -->
                 </div>
+            </div>
+			<div class="slider-bottom">
+                <span>Explore <i class="fa fa-angle-down"></i></span>
             </div>
         </section>
 
@@ -214,7 +213,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="tagline-message text-center">
-                            <h3>Howdy, we are Edulogy, we have brought together the best quality services, offers, projects for you!</h3>
+                            <h3>Tootsie roll jelly jelly dessert candy. Sweet roll sweet roll carrot cake chocolate bar lollipop toffee toffee gingerbread halvah. </h3>
                         </div>
                     </div><!-- end col -->
                 </div><!-- end row -->
@@ -227,8 +226,8 @@
                     <div class="col-md-3">
                         <div class="box m30">
                             <i class="flaticon-computer-tool-for-education"></i>
-                            <h4>Learning system</h4>
-                            <p>All sections required for online training are included to Edulogy.</p>
+                            <h4>Tootsie roll.</h4>
+                            <p>Candy canes pastry cake tart bonbon carrot cake apple pie sweet roll.</p>
                             <a href="#" class="readmore">Read more</a>
                         </div>
                     </div><!-- end col -->
@@ -237,7 +236,7 @@
                         <div class="box m30">
                             <i class="flaticon-monitor-tablet-and-smartohone"></i>
                             <h4>Works all mobile devices</h4>
-                            <p>The most important feature of this template is that it is compatible with all mobile devices. Your customers can also visit your site easily from tablets and phones.</p>
+                            <p>Topping dessert candy. Sweet roll sesame snaps fruitcake sugar plum gingerbread cupcake..</p>
                             <a href="#" class="readmore">Read more</a>
                         </div>
                     </div><!-- end col -->
@@ -246,7 +245,7 @@
                         <div class="box m30">
                             <i class="flaticon-download-business-statistics-symbol-of-a-graphic"></i>
                             <h4>User Dashboard</h4>
-                            <p>We designed the design of all the sub-pages needed for the users.</p>
+                            <p>Cupcake icing biscuit. Candy soufflé macaroon sesame snaps toffee biscuit sweet marzipan. </p>
                             <a href="#" class="readmore">Read more</a>
                         </div>
                     </div><!-- end col -->
@@ -290,16 +289,15 @@
                                         <button type="submit" class="btn btn-primary"><i class="fa fa-paper-plane-o"></i></button>
                                     </div>
                                 </form>
-                                <img src="images/payments.png" alt="" class="img-responsive">
                             </div><!-- end newsletter -->
                         </div><!-- end widget -->
                     </div><!-- end col -->
 
                     <div class="col-lg-3 col-md-3">
                         <div class="widget clearfix">
-                            <h3 class="widget-title">Join us today</h3>
-                            <p>Would you like to earn your profits by joining our team? Join us without losing time.</p>
-                            <a href="#" class="readmore">Became a Teacher</a>
+                            <h3 class="widget-title">Learn More Today</h3>
+                            <p>Would you like to learn more? Click this link</p>
+                            <a href="https://www.facebook.com/ChifuyuGaming" class="readmore">Become a follower</a>
                         </div><!-- end widget -->
                     </div><!-- end col -->
 
@@ -328,12 +326,12 @@
                             <h3 class="widget-title">Support</h3>
                             <div class="list-widget">   
                                 <ul>
-                                    <li><a href="#">Terms of Use</a></li>
-                                    <li><a href="#">Copyrights</a></li>
-                                    <li><a href="#">Create a Ticket</a></li>
-                                    <li><a href="#">Pricing & Plans</a></li>
-                                    <li><a href="#">Carrier</a></li>
-                                    <li><a href="#">Trademark</a></li>
+                                    <li><a href="#">Service</a></li>
+                                    <li><a href="#">Smile</a></li>
+                                    <li><a href="#">Sweet</a></li>
+                                    <li><a href="#">Sister</a></li>
+                                    <li><a href="#">Sadistic</a></li>
+                                    <li><a href="#">Surprise</a></li>
                                 </ul>
                             </div><!-- end list-widget -->
                         </div><!-- end widget -->
@@ -346,8 +344,8 @@
             <div class="container">
                 <div class="clearfix">
                     <div class="pull-left">
-                        <div class="cop-logo">
-                            <a href="#"><img src="images/logo.png" alt=""></a>
+                         <div class="logo-normal">
+                            <a class="navbar-brand" href="index.html"><img src="https://images.vexels.com/media/users/3/127525/isolated/preview/d79fa485e112044702de7470c8a48fc6-cute-meow-emoji-icon-by-vexels.png" alt=""></a>
                         </div>
                     </div>
 
@@ -369,5 +367,6 @@
     <script src="js/carousel.js"></script>
     <script src="js/animate.js"></script>
     <script src="js/custom.js"></script>
+	<script src="js/videobg.js"></script>
 </body>
 </html>
