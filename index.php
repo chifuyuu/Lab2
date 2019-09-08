@@ -128,11 +128,27 @@
                                 </ul>
                             </li>
                             <li><a href="page-contact.php">Contact</a></li>
-                            <li><form class="example" action="#" style="margin:auto;max-width:300px">
-  <input type="text" placeholder="Search.." name="search2">
-  <button type="submit"><i class="fa fa-search"></i></button>
-</form>
-</li>
+                            <li class="dropdown yamm-fw yamm-half"><a href="#" data-toggle="dropdown" class="dropdown-toggle active">Reflections<b class="fa fa-angle-down"></b></a>
+                                <ul class="dropdown-menu">
+                                    <li>
+                                        <div class="yamm-content clearfix">
+                                            <div class="row-fluid">
+                                                <div class="col-md-6 col-sm-6">
+                                                    <h4>Reflections</h4>
+                                                    <ul>
+                                                        <li><a href="#">Reflection01</a></li>
+                                                        <li><a href="#">Reflection02</a></li>
+                                                        <li><a href="#">Reflection03</a></li>
+                                                        <li><a href="#">Reflection04</a></li>
+                                                        <li><a href="#">Reflection05</a></li>
+                                                        <li><a href="#">Reflection06</a></li>
+                                                        <li><a href="#">Reflection07</a></li>
+                                                        <li><a href="#">Reflection08</a></li>
+                                                        <li><a href="#">Reflection09</a></li>
+                                                    </ul>
+                                                </div>
+                                        </div>
+                                    </li>
                         </ul>
                     </div>
                 </nav><!-- end navbar -->
