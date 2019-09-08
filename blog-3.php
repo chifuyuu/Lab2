@@ -79,7 +79,7 @@
 
                     <div id="navbar" class="navbar-collapse collapse">
                         <ul class="nav navbar-nav navbar-right">
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li class="dropdown yamm-fw yamm-half"><a href="#" data-toggle="dropdown" class="dropdown-toggle active">Activities <b class="fa fa-angle-down"></b></a>
                                 <ul class="dropdown-menu">
                                     <li>
@@ -127,7 +127,7 @@
                                     </li>
                                 </ul>
                             </li>
-                            <li><a href="page-contact.html">Contact</a></li>
+                            <li><a href="page-contact.php">Contact</a></li>
                            <li><form class="example" action="/action_page.php" style="margin:auto;max-width:300px">
   <input type="text" placeholder="Search.." name="search2">
   <button type="submit"><i class="fa fa-search"></i></button>
@@ -245,7 +245,7 @@
                                 <div class="course-details">
                                     <h4>
                                         <small>Tips & Tricks</small>
-                                        <a href="blog-single.html" title="">Activity06</a>
+                                        <a href="blog-single.php" title="">Activity06</a>
                                     </h4>
                                     <p>Quisque ultrices quam vitae dolor eleifend iaculis. Vivamus ut pretium arcu. Phasellus ut tellus eu... </p>
                                 </div><!-- end details -->
@@ -257,13 +257,13 @@
                                 <div class="image-wrap entry">
                                     <img src="upload/blog_07.jpg" alt="" class="img-responsive">
                                     <div class="magnifier">
-                                         <a href="blog-single.html" title=""><i class="flaticon-add"></i></a>
+                                         <a href="blog-single.php" title=""><i class="flaticon-add"></i></a>
                                     </div>
                                 </div><!-- end image-wrap -->
                                 <div class="course-details">
                                     <h4>
                                         <small>Coding</small>
-                                        <a href="blog-single.html" title="">Activity07</a>
+                                        <a href="blog-single.php" title="">Activity07</a>
                                     </h4>
                                     <p>Nunc in elementum ex. Quisque lorem augue,  atquis, eleifend eget diam. Nunc fermentum, ... </p>
                                 </div><!-- end details -->
@@ -275,13 +275,13 @@
                                 <div class="image-wrap entry">
                                     <img src="upload/blog_08.jpg" alt="" class="img-responsive">
                                     <div class="magnifier">
-                                         <a href="blog-single.html" title=""><i class="flaticon-add"></i></a>
+                                         <a href="blog-single.php" title=""><i class="flaticon-add"></i></a>
                                     </div>
                                 </div><!-- end image-wrap -->
                                 <div class="course-details">
                                     <h4>
                                         <small>Meet-up</small>
-                                        <a href="blog-single.html" title="">Activity08</a>
+                                        <a href="blog-single.php" title="">Activity08</a>
                                     </h4>
                                     <p>Phasellus ut tristique augue, dictum pharetra felis. Nam ut blandit nulla. Proin sit amet nisi nec nulla ultricies... </p>
                                 </div><!-- end details -->
@@ -299,7 +299,7 @@
                                 <div class="course-details">
                                     <h4>
                                         <small>Tips & Tricks</small>
-                                        <a href="blog-single.html" title="">Activity09</a>
+                                        <a href="blog-single.php" title="">Activity09</a>
                                     </h4>
                                     <p>Suspendisse vehicula tincidunt justo eu vehicula. Praesent placera leo, ac pulvinar lectus scelerisque nec... </p>
                                 </div><!-- end details -->
@@ -312,9 +312,9 @@
                     <div class="row">
                         <div class="col-md-12 text-center">
                             <ul class="pagination ">
-                                <li class="active"><a href="blog-3">1</a></li>
-                                <li><a href="blog-3-2.html">2</a></li>
-                                <li><a href="blog-3-3.html">3</a></li>
+                                <li class="active"><a href="blog-3.php">1</a></li>
+                                <li><a href="blog-3-2.php">2</a></li>
+                                <li><a href="blog-3-3.php">3</a></li>
                                 <!-- <li><a href="javascript:void(0)">...</a></li>
                                 <li><a href="javascript:void(0)">&raquo;</a></li> -->
                             </ul>
@@ -394,7 +394,7 @@
                 <div class="clearfix">
                     <div class="pull-left">
                          <div class="logo-normal">
-                            <a class="navbar-brand" href="index.html"><img src="https://images.vexels.com/media/users/3/127525/isolated/preview/d79fa485e112044702de7470c8a48fc6-cute-meow-emoji-icon-by-vexels.png" alt=""></a>
+                            <a class="navbar-brand" href="index.php"><img src="https://images.vexels.com/media/users/3/127525/isolated/preview/d79fa485e112044702de7470c8a48fc6-cute-meow-emoji-icon-by-vexels.png" alt=""></a>
                         </div>
                     </div>
 
