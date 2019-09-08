@@ -88,16 +88,16 @@
                                                 <div class="col-md-6 col-sm-6">
                                                     <h4>Activities</h4>
                                                     <ul>
-                                                        <li><a href="#">Activity01</a></li>
-                                                        <li><a href="#">Activity02</a></li>
-                                                        <li><a href="#">Activity03</a></li>
-                                                        <li><a href="#">Activity04</a></li>
-                                                        <li><a href="#">Activity05</a></li>
-                                                        <li><a href="#">Activity06</a></li>
-                                                        <li><a href="#">Activity07</a></li>
-                                                        <li><a href="#">Activity08</a></li>
-                                                        <li><a href="#">Activity09</a></li>
-														<li><a href="#">Activity10</a></li>
+                                                        <li><a href="Activity01.html">Activity01</a></li>
+                                                        <li><a href="Activity02.html">Activity02</a></li>
+                                                        <li><a href="Activity03.html">Activity03</a></li>
+                                                        <li><a href="Activity04.html">Activity04</a></li>
+                                                        <li><a href="Activity05.html">Activity05</a></li>
+                                                        <li><a href="Activity06.html">Activity06</a></li>
+                                                        <li><a href="Activity07.html">Activity07</a></li>
+                                                        <li><a href="Activity08.html">Activity08</a></li>
+                                                        <li><a href="Activity09.html">Activity09</a></li>
+														<li><a href="Activity10.html">Activity10</a></li>
                                                     </ul>
                                                 </div>
                                         </div>
@@ -127,8 +127,12 @@
                                     </li>
                                 </ul>
                             </li>
-                            <li><a href="page-contact.php">Contact</a></li>
-                            <li class="iconitem"><a href="#" data-toggle="modal" data-target="#login-modal"><i class="fa fa-search"></i></a></li>
+                            <li><a href="page-contact.html">Contact</a></li>
+                            <li><form class="example" action="/action_page.php" style="margin:auto;max-width:300px">
+  <input type="text" placeholder="Search.." name="search2">
+  <button type="submit"><i class="fa fa-search"></i></button>
+</form>
+</li>
                         </ul>
                     </div>
                 </nav><!-- end navbar -->
@@ -142,7 +146,7 @@
                     <small>This website was created for me to learn how to create and make my own. </br>Which can be used for future purposes</small>
                     <div class="btn-wrapper">
                         <div class="text-center">
-                            <a href="#" class="btn btn-primary wow slideInLeft">Read More</a><a href="https://www.linkedin.com/learning/bootstrap-4-essential-training/welcome?u=35279340" class="btn btn-default wow slideInRight">Learn How</a>
+                            <a href="blog-3.html" class="btn btn-primary wow slideInLeft">Read More</a><a href="https://www.linkedin.com/learning/bootstrap-4-essential-training/welcome?u=35279340" class="btn btn-default wow slideInRight">Learn How</a>
 						</div>
                     </div><!-- end row -->
                 </div>
