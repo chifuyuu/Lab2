@@ -127,7 +127,7 @@
                                     </li>
                                 </ul>
                             </li>
-                            <li><a href="page-contact.php">Contact</a></li>
+                            
                             <li class="dropdown yamm-fw yamm-half"><a href="#" data-toggle="dropdown" class="dropdown-toggle active">Reflections<b class="fa fa-angle-down"></b></a>
                                 <ul class="dropdown-menu">
                                     <li>
@@ -149,6 +149,7 @@
                                                 </div>
                                         </div>
                                     </li>
+					    <li><a href="page-contact.php">Contact</a></li>
                         </ul>
                     </div>
                 </nav><!-- end navbar -->
