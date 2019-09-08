@@ -61,6 +61,15 @@ IMPORT
     content: "\f108";
 }
 
+form.example input[type=text] {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid grey;
+  float: left;
+  width: 80%;
+  background: white;
+}
+
 .flaticon-css-3:before {
     content: "\f109";
 }
