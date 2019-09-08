@@ -73,7 +73,7 @@
                             <span class="icon-bar"></span>
                         </button>
                         <div class="logo-normal">
-                            <a class="navbar-brand" href="index.html"><img src="https://images.vexels.com/media/users/3/127525/isolated/preview/d79fa485e112044702de7470c8a48fc6-cute-meow-emoji-icon-by-vexels.png" alt=""><h4>Ragsac</h4></a>
+                            <a class="navbar-brand" href="index.php"><img src="https://images.vexels.com/media/users/3/127525/isolated/preview/d79fa485e112044702de7470c8a48fc6-cute-meow-emoji-icon-by-vexels.png" alt=""><h4>Ragsac</h4></a>
                         </div>
                     </div>
 
@@ -239,7 +239,7 @@
                                 <div class="image-wrap entry">
                                     <img src="upload/blog_06.jpg" alt="" class="img-responsive">
                                     <div class="magnifier">
-                                         <a href="blog-single.html" title=""><i class="flaticon-add"></i></a>
+                                         <a href="blog-single.php" title=""><i class="flaticon-add"></i></a>
                                     </div>
                                 </div><!-- end image-wrap -->
                                 <div class="course-details">
@@ -293,7 +293,7 @@
                                 <div class="image-wrap entry">
                                     <img src="upload/blog_09.jpg" alt="" class="img-responsive">
                                     <div class="magnifier">
-                                         <a href="blog-single.html" title=""><i class="flaticon-add"></i></a>
+                                         <a href="blog-single.php" title=""><i class="flaticon-add"></i></a>
                                     </div>
                                 </div><!-- end image-wrap -->
                                 <div class="course-details">
