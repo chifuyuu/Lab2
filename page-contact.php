@@ -144,7 +144,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="tagline-message page-title text-center">
-                            <h3>Get In Touch</h3>
+                            </br></br><h3>Get In Touch</h3>
                             <ul class="breadcrumb">
                                 <li><a href="javascript:void(0)">Ragsac</a></li>
                                 <li class="active">Get in touch</li>
