@@ -279,7 +279,7 @@
                 <div class="clearfix">
                     <div class="pull-left">
                          <div class="logo-normal">
-                            <a class="navbar-brand" href="index.html"><img src="https://images.vexels.com/media/users/3/127525/isolated/preview/d79fa485e112044702de7470c8a48fc6-cute-meow-emoji-icon-by-vexels.png" alt=""></a>
+                            <a class="navbar-brand" href="index.php"><img src="https://images.vexels.com/media/users/3/127525/isolated/preview/d79fa485e112044702de7470c8a48fc6-cute-meow-emoji-icon-by-vexels.png" alt=""></a>
                         </div>
                     </div>
 
