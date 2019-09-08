@@ -73,13 +73,13 @@
                             <span class="icon-bar"></span>
                         </button>
                         <div class="logo-normal">
-                            <a class="navbar-brand" href="index.html"><img src="https://images.vexels.com/media/users/3/127525/isolated/preview/d79fa485e112044702de7470c8a48fc6-cute-meow-emoji-icon-by-vexels.png" alt=""><h4>Ragsac</h4></a>
+                            <a class="navbar-brand" href="index.php"><img src="https://images.vexels.com/media/users/3/127525/isolated/preview/d79fa485e112044702de7470c8a48fc6-cute-meow-emoji-icon-by-vexels.png" alt=""><h4>Ragsac</h4></a>
                         </div>
                     </div>
 
                     <div id="navbar" class="navbar-collapse collapse">
                         <ul class="nav navbar-nav navbar-right">
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li class="dropdown yamm-fw yamm-half"><a href="#" data-toggle="dropdown" class="dropdown-toggle active">Activities <b class="fa fa-angle-down"></b></a>
                                 <ul class="dropdown-menu">
                                     <li>
