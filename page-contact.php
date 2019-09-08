@@ -127,7 +127,11 @@
                                     </li>
                                 </ul>
                             </li>
-                            <li><a href="page-contact.html">Contact</a></li>
+                            <li><a href="page-contact.html">Contact</a>                 <li><a href="page-contact.php">Contact</a></li>
+                            <li><form class="example" action="#" style="margin:auto;max-width:300px">
+  <input type="text" placeholder="Search.." name="search2">
+  <button type="submit"><i class="fa fa-search"></i></button>
+</form></li>
                         </ul>
                     </div>
                 </nav><!-- end navbar -->
