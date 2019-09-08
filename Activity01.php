@@ -146,8 +146,8 @@
                         <div class="tagline-message page-title text-center">
                             <h3></br></br>Activity01</h3>
                             <ul class="breadcrumb">
-                                <li><a href="javascript:void(0)">Edulogy</a></li>
-                                <li class="active">Blog</li>
+                                <li><a href="javascript:void(0)">Ragsac</a></li>
+                                <li class="active">Activity</li>
                             </ul>
                         </div>
                     </div><!-- end col -->
