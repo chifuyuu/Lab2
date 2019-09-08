@@ -14,7 +14,6 @@
     <title>Lab2-Ragsac</title>
     
     <!-- Site Icons -->
-    <link rel="icon" href="https://images.vexels.com/media/users/3/127525/isolated/preview/d79fa485e112044702de7470c8a48fc6-cute-meow-emoji-icon-by-vexels.png">
 
 	<!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500,700,900" rel="stylesheet"> 
@@ -144,8 +143,9 @@
                                                 </div>
                                         </div>
                                     </li>
-					    <li><a href="page-contact.php">Contact</a></li>
+					    
                         </ul>
+				    <li><a href="page-contact.php">Contact</a></li>
                     </div>
                 </nav><!-- end navbar -->
             </div><!-- end container -->
