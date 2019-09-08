@@ -140,6 +140,54 @@ a {
     top: 2px;
 }
 
+input[type=text] {
+  width: 100px;
+  height: 50px;
+  font-size: 16px;
+  background-repeat: no-repeat;
+  padding: 12px 10px 12px 10px;
+  background-color: white;
+  box-sizing: border-box;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
+}
+
+form.example input[type=text] {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid grey;
+  float: left;
+  width: 80%;
+  background: white;
+}
+
+form.example button {
+  float: left;
+  width: 20%;
+  padding: 10px;
+  background: #000000;
+  color: white;
+  font-size: 17px;
+  border: 1px solid #000000;
+  border-left: none;
+  cursor: pointer;
+}
+
+form.example button:hover {
+  background: #0b7dda;
+}
+
+form.example::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* When the input field gets focus, change its width to 100% */
+input[type=text]:focus {
+  width: 80%;
+}
+
 .check li {
     list-style: none;
     margin-bottom: 8px;
@@ -1491,7 +1539,9 @@ BLOG
 }
 
 .image-wrap img {
-    width: 100%;
+    width: 570px;
+	height: 350px;
+	
 }
 
 .image-wrap:after {
