@@ -184,7 +184,7 @@
                                     </div><!-- end blog-meta -->
 
                                     <div class="blog-media">
-                                        <img src="https://amp.businessinsider.com/images/5a6f8e347e7a351e008b4712-750-562.png" alt="" class="img-responsive img-rounded">
+                                        <img src="https://scontent.fcrk1-1.fna.fbcdn.net/v/t31.0-8/p960x960/15994835_885984614870492_6893341064443369026_o.jpg?_nc_cat=108&_nc_oc=AQlwQ_Uw71ilL02S7SBWqxfPT-Pqvdu4cXoVRXOn5tvQB1QZlykTTCKrhUQtXEo0Jlk&_nc_ht=scontent.fcrk1-1.fna&oh=d8b6c2bf6516ee9f5c34ac57c9e54119&oe=5DFFA447" alt="" class="img-responsive img-rounded">
                                     </div><!-- end media -->
 
                                     <div class="blog-desc-big">
@@ -200,7 +200,7 @@ I love browsing the internet.</strong></br></br>
  <div class="image_image"><img src="https://i.imgur.com/ioNHA3A.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
  
  
-</br><strong>This a finance app.</strong></br></br> The next app that I really loved to use is coinmarketcap it’s available in the app store or in the google play store and also in their website www.coinmarketcap.com. Why do I love this app? And what is this app anyway? This app serves like a price tracker for all of the crypto currency that available in the market. It is hard to keep track of the prices of crypto currency because it always updates every minute and unlike the regular foreign exchange market, crypto currency market is much more changing. This application already gives you the average price of the crypto currencies out there from any other exchanges because this currency varies in prices at any other exchanges that listed on the app.</br></br>
+This a finance app. The next app that I really loved to use is coinmarketcap it’s available in the app store or in the google play store and also in their website www.coinmarketcap.com. Why do I love this app? And what is this app anyway? This app serves like a price tracker for all of the crypto currency that available in the market. It is hard to keep track of the prices of crypto currency because it always updates every minute and unlike the regular foreign exchange market, crypto currency market is much more changing. This application already gives you the average price of the crypto currencies out there from any other exchanges because this currency varies in prices at any other exchanges that listed on the app.</br></br>
  <div class="image_image"><img src="https://i.imgur.com/9K1BpyA.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
 </p>
 
@@ -230,8 +230,10 @@ I love browsing the internet.</strong></br></br>
                             <div class="widget clearfix">
                                 <div class="banner-widget">
 								</br></br></br></br></br></br></br></br>
+								<div class="image_image_r">
                                     <img src="https://images.vexels.com/media/users/3/127525/isolated/preview/d79fa485e112044702de7470c8a48fc6-cute-meow-emoji-icon-by-vexels.png" alt="" class="img-responsive img-rounded"><h4><center>Lab2-Ragsac</center></h4>
                                 </div>
+								</div>
                             </div>
 
                             <div class="widget clearfix">
