@@ -1521,7 +1521,7 @@ BLOG
 
 .blog-media img {
     width: 350px;
-	height: 400px;
+	height: 500px;
 	
 }
 
@@ -1536,6 +1536,11 @@ BLOG
 	height: 350px;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+.image_image_r img{
+	width: 200px;
+	height: 200px;
 }
 
 .image_image {
@@ -2089,6 +2094,7 @@ FOOTER
 .absolute-widget textarea.form-control {
     height: 100px;
 }
+
 
 .absolute-widget .form-control::-moz-placeholder {
     color: rgba(255, 255, 255, 0.6);
