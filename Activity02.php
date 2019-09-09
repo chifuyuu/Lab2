@@ -229,6 +229,7 @@ This a finance app. The next app that I really loved to use is coinmarketcap itâ
                         <div class="sidebar col-md-4">
                             <div class="widget clearfix">
                                 <div class="banner-widget">
+					</br></br>
 								<div class="image_image_r">
                                     <img src="https://images.vexels.com/media/users/3/127525/isolated/preview/d79fa485e112044702de7470c8a48fc6-cute-meow-emoji-icon-by-vexels.png" alt="" class="img-responsive img-rounded"><h4><center>Lab2-Ragsac</center></h4>
                                 </div>
