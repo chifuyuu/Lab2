@@ -150,86 +150,17 @@
                 </nav><!-- end navbar -->
             </div><!-- end container -->
         </header>
-        <section id="home" class="video-section js-height-full">
-            <div class="overlay"></div>
-            <div class="home-text-wrapper relative container">
-                <div class="home-message">
-                    <p>Welcome to my Website</p>
-                    <small>This website was created for me to learn how to create and make my own. </br>Which can be used for future purposes</small>
-                    <div class="btn-wrapper">
-                        <div class="text-center">
-                            <a href="blog-3.php" class="btn btn-primary wow slideInLeft">Read More</a><a href="https://www.linkedin.com/learning/bootstrap-4-essential-training/welcome?u=35279340" class="btn btn-default wow slideInRight">Learn How</a>
-						</div>
-                    </div><!-- end row -->
-                </div>
-            </div>
-			<div class="slider-bottom">
-                <span>Explore <i class="fa fa-angle-down"></i></span>
-            </div>
-        </section>
 
-        <section class="section">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-4 hidden-sm hidden-xs">
-                        <div class="custom-module">
-                            <img src="https://scontent.fcrk1-1.fna.fbcdn.net/v/t31.0-8/p960x960/15994835_885984614870492_6893341064443369026_o.jpg?_nc_cat=108&_nc_oc=AQlwQ_Uw71ilL02S7SBWqxfPT-Pqvdu4cXoVRXOn5tvQB1QZlykTTCKrhUQtXEo0Jlk&_nc_ht=scontent.fcrk1-1.fna&oh=d8b6c2bf6516ee9f5c34ac57c9e54119&oe=5DFFA447" alt="" class="img-responsive wow slideInLeft">
-                        </div><!-- end module -->
-                    </div><!-- end col -->
-                    <div class="col-md-8">
-                        <div class="custom-module p40l">
-                            <h2>I am passionate enough to <mark>learn new things</mark>aside from<br>
-                            programming. I also trying to learn photography, drawing, design & web development</h2>
-
-                            <p>You can also learn a lot from watching videos and doing it by yourself. From simple DIYs to very useful projects. I will be posting here some of the projects I made in the future</p>
-
-                            <hr class="invis">
-
-                            <div class="row">
-                                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 first">
-                                    <ul class="check">
-                                        <li>HTML Code</li>
-                                        <li>CSS Style</li>
-                                        <li>Python Basics</li>
-                                        <li>Java Basics</li>
-
-                                    </ul><!-- end check -->
-                                </div><!-- end col-lg-4 -->
-                                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12">
-                                    <ul class="check">
-                                        <li>C++ Basics</li>
-                                        <li>Machine Learning</li>
-                                        <li>Keras</li>
-                                        <li>Introduction to BlockChain</li>
-                                    </ul><!-- end check -->    
-                                </div><!-- end col-lg-4 -->
-                                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 last">
-                                    <ul class="check">
-                                        <li>Open CV</li>
-                                        <li>Bootstrap</li>
-                                        <li>Basic Photography</li>
-                                        <li>Basic SQL</li>
-                                    </ul><!-- end check -->
-                                </div><!-- end col-lg-4 --> 
-                            </div><!-- end row -->   
-
-                            <hr class="invis">
-
-                            <div class="btn-wrapper">
-                                <a href="#" class="btn btn-primary">Learn More Here</a>
-                            </div>
-
-                        </div><!-- end module -->
-                    </div><!-- end col -->
-                </div><!-- end row -->
-            </div><!-- end container -->
-        </section>
         <section class="section db p120">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <div class="tagline-message text-center">
-                            <h3>Tootsie roll jelly jelly dessert candy. Sweet roll sweet roll carrot cake chocolate bar lollipop toffee toffee gingerbread halvah. </h3>
+                        <div class="tagline-message page-title text-center">
+                            <h3></br></br>Reflection03</h3>
+                            <ul class="breadcrumb">
+                                <li><a href="javascript:void(0)">Ragsac</a></li>
+                                <li class="active">Reflection</li>
+                            </ul>
                         </div>
                     </div><!-- end col -->
                 </div><!-- end row -->
@@ -238,60 +169,126 @@
 
         <section class="section gb nopadtop">
             <div class="container">
-                <div class="row">
-                    <div class="col-md-3">
-                        <div class="box m30">
-                            <i class="flaticon-computer-tool-for-education"></i>
-                            <h4>Tootsie roll.</h4>
-                            <p>Candy canes pastry cake tart bonbon carrot cake apple pie sweet roll.</p>
-                            <a href="#" class="readmore">Read more</a>
-                        </div>
-                    </div><!-- end col -->
+                <div class="boxed">
+                    <div class="row">
+                        <div class="col-md-8">
+                            <div class="content blog-list">
+                                <div class="blog-wrapper clearfix">
+                                    <div class="blog-meta">
+                                        <small><a href="#">Tips & Tricks</a></small>
+                                        <h3>Reflection03</h3>
+                                        <ul class="list-inline">
+                                            <li>6 hours ago</li>
+                                            <li><span>written by</span> <a href="#">Paul Anthony Ragsac</a></li>
+                                        </ul>
+                                    </div><!-- end blog-meta -->
 
-                    <div class="col-md-6">
-                        <div class="box m30">
-                            <i class="flaticon-monitor-tablet-and-smartohone"></i>
-                            <h4>Works all mobile devices</h4>
-                            <p>Topping dessert candy. Sweet roll sesame snaps fruitcake sugar plum gingerbread cupcake..</p>
-                            <a href="#" class="readmore">Read more</a>
-                        </div>
-                    </div><!-- end col -->
+                                    <div class="blog-media">
+                                        <img src="https://scontent.fcrk1-1.fna.fbcdn.net/v/t31.0-8/p960x960/15994835_885984614870492_6893341064443369026_o.jpg?_nc_cat=108&_nc_oc=AQlwQ_Uw71ilL02S7SBWqxfPT-Pqvdu4cXoVRXOn5tvQB1QZlykTTCKrhUQtXEo0Jlk&_nc_ht=scontent.fcrk1-1.fna&oh=d8b6c2bf6516ee9f5c34ac57c9e54119&oe=5DFFA447" alt="" class="img-responsive img-rounded">
+                                    </div><!-- end media -->
 
-                    <div class="col-md-3">
-                        <div class="box m30">
-                            <i class="flaticon-download-business-statistics-symbol-of-a-graphic"></i>
-                            <h4>User Dashboard</h4>
-                            <p>Cupcake icing biscuit. Candy soufflé macaroon sesame snaps toffee biscuit sweet marzipan. </p>
-                            <a href="#" class="readmore">Read more</a>
-                        </div>
-                    </div><!-- end col -->
-                </div><!-- end row -->
+                                    <div class="blog-desc-big">
+                                        <p class="lead">What I can say is things are great, they've never been better! </p>
+                                        <p>I am Paul Anthony C. Ragsac. I am now 19 years old as of now. I am from Las Piñas City.
 
-                <hr class="invis">
 
-                <div class="row">
-                    <div class="col-md-6">
-                        <div class="box">
-                            <i class="flaticon-html5"></i> <i class="flaticon-css-3"></i>
-                            <h4>Compatible HTML5 & CSS3</h4>
-                            <p>HTML5 is a markup language used for structuring and presenting content on the World Wide Web. It is the fifth and current version of the HTML standard.</p>
-                            <a href="#" class="readmore">Read more</a>
-                        </div>
-                    </div><!-- end col -->
 
-                    <div class="col-md-6">
-                        <div class="box">
-                            <i class="flaticon-html-coding"></i>
-                            <h4>Bootstrap Framework</h4>
-                            <p>Bootstrap is a technique of loading a program into a computer by means of a few initial instructions which enable the introduction of the rest of the program from an input device.</p>
-                            <a href="#" class="readmore">Read more</a>
-                        </div>
-                    </div><!-- end col -->
-                </div><!-- end row -->
+
+</p></br><strong>
+Seek stories.</strong></br></br>
+
+I first traveled by myself to Morong, Rizal because I had a special someone to meet and find it quite exciting travelling by myself because you really need to focus on where you are and not to pass over the exact place you want to get off. That day was kind of exhausting in my part but overall it was an experience that I will never forget.</br></br>
+ 
+When I started studying in College it was an unexpected adventure for me since there are many things to learn and there are many challenges waiting ahead. The adventure is still on going and as I go along, there are many people I met some stayed and some already left the adventure. For me this adventure is just getting started and I am ready to face my next year in college. Hello 2nd Year!!!</br></br>
+
+“What would I find surprising about how you . . .
+First year was quite alarming for me since I don't have any background in programming and other computer related knowledge which some of my classmates already know. What I did was I studied them on my own and hoping that I will catch up and never left behind in every class I take. Now I am already in 2nd year and the fruit of my hard work paid but it was just getting started.</br></br>
+ 
+My summer is a mess. I could not describe it in any fine way since I did not do any good this summer. Well I enjoyed my summer, but it was not a productive summer since I did not learn any new things. What I did? I just played ML and watch Netflix all summer :) 
+</p>
+
+                                        <p></br><strong>Talk about feelings.</br></br></strong> Dig deeper by following up.
+I feel so sleepy most of the time because I can't sleep early, and the class starts at 7:30 in the morning and I need to wake up again early my body can’t comprehend but it is what it is. Well in class I still try to be awake all the time, so I don't miss anything important</p>
+
+                                        <hr class="invis">
+							<div class="content boxed-comment clearfix">
+                                <div class="comments-list">
+                                        <div class="tags-widget">   
+                                            <ul class="list-inline">
+                                                <li><a href="#">course</a></li>
+                                                <li><a href="#">web design</a></li>
+                                                <li><a href="#">development</a></li>
+                                                <li><a href="#">language</a></li>
+                                            </ul>
+                                        </div><!-- end list-widget -->
+
+                                    </div><!-- end desc -->
+                                </div><!-- end blog -->
+                            </div><!-- end content -->
+                            
+                                    <div class="media">
+                                    </div>
+                                </div>
+                            </div><!-- end content -->
+                        </div><!-- end col -->
+
+                        <div class="sidebar col-md-4">
+                            <div class="widget clearfix">
+                                <div class="banner-widget">
+								</br></br></br></br></br></br></br></br>
+                                    <img src="https://images.vexels.com/media/users/3/127525/isolated/preview/d79fa485e112044702de7470c8a48fc6-cute-meow-emoji-icon-by-vexels.png" alt="" class="img-responsive img-rounded"><h4><center>Lab2-Ragsac</center></h4>
+                                </div>
+                            </div>
+
+                            <div class="widget clearfix">
+                                <h3 class="widget-title">Up Next</h3>
+                                <div class="post-widget">
+                                    <div class="media">
+                                        <img src="upload/blog_small_01.jpg" alt="" class="img-responsive alignleft img-rounded">
+                                        <div class="media-body">
+                                            <h5 class="mt-0"><a href="blog-single.php">Reflection04</a></h5>
+                                            <div class="blog-meta">
+                                                <ul class="list-inline">
+                                                    <li><span>by</span> <a href="#">Yours Truly</a></li>
+                                                </ul>
+                                            </div><!-- end blog-meta -->
+                                        </div>
+                                    </div>
+
+                                    <div class="media">
+                                        <img src="upload/blog_small_02.jpg" alt="" class="img-responsive alignleft img-rounded">
+                                        <div class="media-body">
+                                            <h5 class="mt-0"><a href="blog-single.php">Reflection05</a></h5>
+                                            <div class="blog-meta">
+                                                <ul class="list-inline">
+                                                    <li>5 days ago</li>
+                                                    <li><span>by</span> <a href="#">Yours Truly</a></li>
+                                                </ul>
+                                            </div><!-- end blog-meta -->
+                                        </div>
+                                    </div>
+
+                                    <div class="media">
+                                        <img src="upload/blog_small_03.jpg" alt="" class="img-responsive alignleft img-rounded">
+                                        <div class="media-body">
+                                            <h5 class="mt-0"><a href="blog-single.php">Reflection06</a></h5>
+                                            <div class="blog-meta">
+                                                <ul class="list-inline">
+                                                    <li>6 days ago</li>
+                                                    <li><span>by</span> <a href="#">Yours Truly</a></li>
+                                                </ul>
+                                            </div><!-- end blog-meta -->
+                                        </div>
+                                    </div>
+                                </div><!-- end post-widget -->
+                            </div><!-- end widget -->
+                        </div><!-- end sidebar -->
+                    </div><!-- end row -->
+                </div><!-- end boxed -->
             </div><!-- end container -->
         </section>
 
-        <footer class="section footer noover">
+         <footer class="section footer noover">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-4 col-md-4">
