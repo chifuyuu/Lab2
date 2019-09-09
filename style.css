@@ -1532,11 +1532,15 @@ BLOG
 .image_image img {
     width: 350px;
 	height: 350px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .image_image {
    display: block;
    margin: 25px 0;
+   margin-left: auto;
+   margin-right: auto;
 }
 
 .blog-media {
