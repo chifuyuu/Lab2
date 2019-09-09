@@ -1541,6 +1541,8 @@ BLOG
 .image_image_r img{
 	width: 200px;
 	height: 200px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .image_image {
