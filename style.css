@@ -1528,6 +1528,25 @@ BLOG
     margin: 25px 0;
 }
 
+
+.image_image img {
+    width: 350px;
+	height: 350px;
+}
+
+.image_image {
+   display: block;
+   margin: 25px 0;
+}
+
+.blog-media {
+    display: block;
+    margin: 25px 0;
+}
+
+
+
+
 .blog-desc-big .lead {
     color: #000000;
     font-weight: 600;
