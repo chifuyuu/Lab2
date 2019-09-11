@@ -195,14 +195,7 @@
 
 
 </p></br>
-<p>
-To start, our first quiz was unexpected, and I thought it was a good way to pointing on how important it is for a website having a very well-designed UI and UX.
-Taking this quiz, makes me realize that as an end user, we sometimes don’t read what we click on a website. We just click what we think is common or already experienced before on navigating through websites.
-In the first few minutes of the quiz, I really don’t know what is happening. I just became pressured when everyone is already done and know what the steps navigating through it.
-I can’t even past the first part of the quiz so I was already nervous if I will be the last one to pass the quiz. In the mid part, we already have insights on what to do to finish the quiz in a good time. It was to read every single word that is being required to proceed on to the next parts.</br></br>
-So, overall having this kind of interface in a website will mess someone’s time up and most importantly, it would give a lot of headaches to those who would be using it.
-May even give inconsistent data since, end users cannot understand what they are doing in the website. We experienced that, creating a good UI and UX is important so that end users would not be bothered and had a lot of hard time as we did in our quiz you need to put your all focus and mind into it and then you’ll get it.
-</p>
+<p> The speakers shared their own experiences on how they started from what they were before to now. The speakers were CEO’s of their own company which kind of make it for me interesting because you can really see how much effort they do in building it up. </br></br>I still hoped that the SOCIT fest next time would hold gaming tournament like DOTA 2 or LOL not only mobile legends and Tekken because it’s a downer because some people, like me does not play much console games. We could’ve joined the mobile legends tournament, but we had some things to do so in our other subjects so we couldn’t join anyways. Overall it was okay for some but for me it’s kind of not good, so I’m hoping for a better fest next year. </br></br> <div class="image_image"><img src="https://i.imgur.com/35VcVaF.png" alt="" class="img-responsive img-rounded"> </br></br> <div class="image_image"><img src="https://i.imgur.com/yJe7XrC.png" alt="" class="img-responsive img-rounded"> </br></br> <div class="image_image"><img src="https://i.imgur.com/DuciOjK.png" alt="" class="img-responsive img-rounded"> </br></br></p>
 
                                         <hr class="invis">
 							<div class="content boxed-comment clearfix">
