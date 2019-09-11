@@ -15,22 +15,22 @@
     
     <!-- Site Icons -->
 
-	<!-- Google Fonts -->
+    <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500,700,900" rel="stylesheet"> 
     <link href="https://fonts.googleapis.com/css?family=Droid+Serif:400,400i,700,700i" rel="stylesheet"> 
-	
+    
     <!-- Custom & Default Styles -->
-	<link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/font-awesome.min.css">
     <link rel="stylesheet" href="css/carousel.css">
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="style.css">
 
 
-	<!--[if lt IE 9]>
-		<script src="js/vendor/html5shiv.min.js"></script>
-		<script src="js/vendor/respond.min.js"></script>
-	<![endif]-->
+    <!--[if lt IE 9]>
+        <script src="js/vendor/html5shiv.min.js"></script>
+        <script src="js/vendor/respond.min.js"></script>
+    <![endif]-->
 
 </head>
 <body>  
@@ -39,8 +39,8 @@
     <div id="preloader">
         <img class="preloader" src="images/loader.gif" alt="">
     </div><!-- end loader -->
-    <!-- END LOADER -->	
-	
+    <!-- END LOADER --> 
+    
         <header class="header">
             <div class="topbar clearfix">
                 <div class="container">
@@ -96,14 +96,14 @@
                                                         <li><a href="Activity07.php">Activity07</a></li>
                                                         <li><a href="Activity08.php">Activity08</a></li>
                                                         <li><a href="Activity09.php">Activity09</a></li>
-														<li><a href="Activity10.php">Activity10</a></li>
+                                                        <li><a href="Activity10.php">Activity10</a></li>
                                                     </ul>
                                                 </div>
                                         </div>
                                     </li>
                                 </ul>
                             </li>
-							<li class="dropdown yamm-fw yamm-half"><a href="#" data-toggle="dropdown" class="dropdown-toggle active">Reflections<b class="fa fa-angle-down"></b></a>
+                            <li class="dropdown yamm-fw yamm-half"><a href="#" data-toggle="dropdown" class="dropdown-toggle active">Reflections<b class="fa fa-angle-down"></b></a>
                                 <ul class="dropdown-menu">
                                     <li>
                                         <div class="yamm-content clearfix">
@@ -143,9 +143,9 @@
                                                 </div>
                                         </div>
                                     </li>
-					    
+                        
                         </ul>
-				    <li><a href="page-contact.php">Contact</a></li>
+                    <li><a href="page-contact.php">Contact</a></li>
                     </div>
                 </nav><!-- end navbar -->
             </div><!-- end container -->
@@ -188,30 +188,93 @@
                                     </div><!-- end media -->
 
                                     <div class="blog-desc-big">
-                                        <p class="lead">What I can say is things are great, they've never been better! </p>
-                                        <p>I am Paul Anthony C. Ragsac. I am now 19 years old as of now. I am from Las Piñas City.
+                                        <p class="lead">Project Prototype</p>
+                                        <p>Initial designs for our website</p></br></br>
 
+<p>LOG IN PAGE
+</br></br>
+<div class="image_image"><img src="https://i.imgur.com/nqcHoa0.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
 
-
-
-</p></br><strong>
-Seek stories.</strong></br></br>
-
-I first traveled by myself to Morong, Rizal because I had a special someone to meet and find it quite exciting travelling by myself because you really need to focus on where you are and not to pass over the exact place you want to get off. That day was kind of exhausting in my part but overall it was an experience that I will never forget.</br></br>
+Input boxes: 
+</br></br>
+<strong>Email/username</strong> – to log-in, the user have to input his/her email or username which is used when she/he registered for Petagram. 
+</br></br>
+<strong>Password</strong> – along with the email/username, the user also have to input his/her password for verification and account security.  
+</br></br>
+Links: 
+</br></br>
+<strong>forgot password </strong>– incase the user forgot his/her password, this link can be clicked to send a verification code to the user’s mobile number and/or email, so she can change her password.  
+</br></br>
+<strong>log-in with Gmail </strong>– if the user doesn’t want to create a new account and want to use her/his gmail account to be connected, the user can click this link to log-in his/her Gmail account.  
+</br></br>
  
-When I started studying in College it was an unexpected adventure for me since there are many things to learn and there are many challenges waiting ahead. The adventure is still on going and as I go along, there are many people I met some stayed and some already left the adventure. For me this adventure is just getting started and I am ready to face my next year in college. Hello 2nd Year!!!</br></br>
 
-“What would I find surprising about how you . . .
-First year was quite alarming for me since I don't have any background in programming and other computer related knowledge which some of my classmates already know. What I did was I studied them on my own and hoping that I will catch up and never left behind in every class I take. Now I am already in 2nd year and the fruit of my hard work paid but it was just getting started.</br></br>
+Buttons: 
+</br></br>
+<strong>log in</strong> – after providing the primary data (email/username and password), the user can click the log-in button so the provided data can be verified and the user can log-in to his/her account.  
+</br></br>
+<strong>sign up </strong>– incase the user is a first time user of petagram and wanted to have an own account, he/she can click this button to go to the sign-up page and fill-out the needed information.   
+</br></br>
+
+ <div class="image_image"><img src="https://i.imgur.com/8qhxzGo.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
+
+<strong>Input boxes:</strong> </br></br>
+
+<strong>Full name / Organization name: </strong>To register, the user needs to provide full name (if for personal use) or Organization name (if for organizational use).  </br></br>
+
+<strong>Username: </strong>the user will choose an available username to be use whenever he/she will log-in, username will also be displayed to their posts instead of their name for security. 
+</br></br>
+<strong>Email / mobile number: </strong>This will be use for the user’s security and retrieval of account.  
+</br></br>
+<strong>Password: </strong>for security, password is required. Chosen password must be 8 characters and above to make sure that the password is strong.  
+</br></br>
  
-My summer is a mess. I could not describe it in any fine way since I did not do any good this summer. Well I enjoyed my summer, but it was not a productive summer since I did not learn any new things. What I did? I just played ML and watch Netflix all summer :) 
+
+Check box: 
+</br></br>
+<strong>Check if for organization: </strong>this will check if the account that will be created is for personal use or organizational use.  
+</br></br>
+ 
+
+<strong>*If the user checked the box or specify that the account that will be created is for organization, the following field will be required to be filled out.  </strong>
+</br></br>
+<strong>Organization Head: </strong>This will ask for the name of the current head of the organization as a reference person and also for background checking.   
+</br></br>
+<strong>>>First name 
+</br></br>
+>>Last name 
+</br></br>
+>>Address: </strong>This will ask for the organization’s address as a proof and reference of the organization. To be specific this will include the following: 
+</br></br>
+<strong>>>Street Address
+</br></br>
+>>City 
+</br></br>
+>>State / Province
+</br></br>
+>>Postal Code 
+</br></br>
+>>Country (drop down button) </strong>
+</br></br>
+<strong>oMessage: </strong>This field is for describing the organization process and their importance for the animals. This will also be one of the basis if the organization is fitted for the petagram’s advocacy for animals.  
+</br></br>
+Links: 
+</br></br>
+<strong>oRequirements: </strong>when clicked, this link will show a page that contains all the requirements needed for the verification and confirmation of the organizational account.  
+</br></br>
+<strong>oPetagram@email.com :</strong> this link will be use for the submission of the requirements.  
+</br></br>
+<strong>oTerms and conditions: </strong>when clicked, this link will provide a pop-out box that contains the terms and condition of the petagram website.  
+</br></br>
+<strong>oLog-in: </strong>this will link the user to the Log-in page, incase that he/she already have an account. 
+</br></br>
+<strong>Buttons: </strong>
+</br></br>
+<strong>oCreate account: </strong>after filling out the required fields, this button will be clicked to submit all the information and to proceed to verification and creation of the new account.  
 </p>
 
-                                        <p></br><strong>Talk about feelings.</br></br></strong> Dig deeper by following up.
-I feel so sleepy most of the time because I can't sleep early, and the class starts at 7:30 in the morning and I need to wake up again early my body can’t comprehend but it is what it is. Well in class I still try to be awake all the time, so I don't miss anything important</p>
-
                                         <hr class="invis">
-							<div class="content boxed-comment clearfix">
+                            <div class="content boxed-comment clearfix">
                                 <div class="comments-list">
                                         <div class="tags-widget">   
                                             <ul class="list-inline">
@@ -235,8 +298,10 @@ I feel so sleepy most of the time because I can't sleep early, and the class sta
                         <div class="sidebar col-md-4">
                             <div class="widget clearfix">
                                 <div class="banner-widget">
-								</br></br></br></br></br></br></br></br>
+                    </br></br>
+                                <div class="image_image_r">
                                     <img src="https://images.vexels.com/media/users/3/127525/isolated/preview/d79fa485e112044702de7470c8a48fc6-cute-meow-emoji-icon-by-vexels.png" alt="" class="img-responsive img-rounded"><h4><center>Lab2-Ragsac</center></h4>
+                                </div>
                                 </div>
                             </div>
 
@@ -380,6 +445,6 @@ I feel so sleepy most of the time because I can't sleep early, and the class sta
     <script src="js/carousel.js"></script>
     <script src="js/animate.js"></script>
     <script src="js/custom.js"></script>
-	<script src="js/videobg.js"></script>
+    <script src="js/videobg.js"></script>
 </body>
 </html>
