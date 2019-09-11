@@ -188,27 +188,24 @@
                                     </div><!-- end media -->
 
                                     <div class="blog-desc-big">
-                                        <p class="lead">What I can say is things are great, they've never been better! </p>
-                                        <p>I am Paul Anthony C. Ragsac. I am now 19 years old as of now. I am from Las Piñas City.
+                                        <p class="lead">Third Week</p>
+                                        <p>My first web application.
 
 
 
 
 </p></br><strong>
-Seek stories.</strong></br></br>
-
-I first traveled by myself to Morong, Rizal because I had a special someone to meet and find it quite exciting travelling by myself because you really need to focus on where you are and not to pass over the exact place you want to get off. That day was kind of exhausting in my part but overall it was an experience that I will never forget.</br></br>
- 
-When I started studying in College it was an unexpected adventure for me since there are many things to learn and there are many challenges waiting ahead. The adventure is still on going and as I go along, there are many people I met some stayed and some already left the adventure. For me this adventure is just getting started and I am ready to face my next year in college. Hello 2nd Year!!!</br></br>
-
-“What would I find surprising about how you . . .
-First year was quite alarming for me since I don't have any background in programming and other computer related knowledge which some of my classmates already know. What I did was I studied them on my own and hoping that I will catch up and never left behind in every class I take. Now I am already in 2nd year and the fruit of my hard work paid but it was just getting started.</br></br>
- 
-My summer is a mess. I could not describe it in any fine way since I did not do any good this summer. Well I enjoyed my summer, but it was not a productive summer since I did not learn any new things. What I did? I just played ML and watch Netflix all summer :) 
+<p>
+ GitHub and Heroku was very exciting and hard at the same time. It was my first time also using GitHub.</strong></br></br>
+So, I think it was normal to encounter so many problems, like I was not able to push my work from a different computer.
+Another thing is that it is hard to commit, push, and upload files to GitHub for me because I don’t know what commands to use and I needed to consult YouTube on how to do it.</br></br>
+Starting this webpage task is challenging since everything is new for me.
+This is my first time to use php, css, html. So, I consulted YouTube for tutorials on how to create web pages and how to create a good one.
+Since, I don’t know much what the YouTuber is telling me about, so I also tried searching on the internet on the terms or codes to use for a specific thing.
+I also like Heroku since I can easily visit the website I make and can also be accessed on my phone’s browser as well, which is somehow satisfying because I can share my website to my friends as well though, my webpage is not yet that good when seen in the phone but I think we will get to that.
+</br></br>
+Overall, the use of GitHub and Heroku in our first webpage/website was a fun experience because we learned new things which I think is really needed in the field of IT/CS. I’m looking forward to creating more better webpage in the future, since it is beneficial for us overall and can express creativity.
 </p>
-
-                                        <p></br><strong>Talk about feelings.</br></br></strong> Dig deeper by following up.
-I feel so sleepy most of the time because I can't sleep early, and the class starts at 7:30 in the morning and I need to wake up again early my body can’t comprehend but it is what it is. Well in class I still try to be awake all the time, so I don't miss anything important</p>
 
                                         <hr class="invis">
 							<div class="content boxed-comment clearfix">
@@ -235,9 +232,11 @@ I feel so sleepy most of the time because I can't sleep early, and the class sta
                         <div class="sidebar col-md-4">
                             <div class="widget clearfix">
                                 <div class="banner-widget">
-								</br></br></br></br></br></br></br></br>
+					</br></br>
+								<div class="image_image_r">
                                     <img src="https://images.vexels.com/media/users/3/127525/isolated/preview/d79fa485e112044702de7470c8a48fc6-cute-meow-emoji-icon-by-vexels.png" alt="" class="img-responsive img-rounded"><h4><center>Lab2-Ragsac</center></h4>
                                 </div>
+								</div>
                             </div>
 
                             <div class="widget clearfix">
