@@ -195,13 +195,41 @@
 
 
 </p></br><strong>
-I love browsing the internet.</strong></br></br>
- I don’t want to get outdated in news or updates specially the things I wanted to follow. So, for me, the best app in my phone right now is Chrome browser. Chrome offers a simple user’s interface. This means there is not a lot of complicated stuffs when you opened it up. I recommend this app rather than any other browser because it’s a lot faster in the sense that if you really need it just type the word even just a keyword you can find what you search for. I also used this app when finding something that I can make out of. </br></br>
- <div class="image_image"><img src="https://i.imgur.com/ioNHA3A.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
+So far in the previous topics we had, need finding is pretty much how it sounds;</strong></br></br>
+finding a need that you will solve using your innovative strategies. This involves a lot of group work, group design and functionalities that maybe a solution or to identify the problem you are dealing with. </br></br>
  
  
-This a finance app. The next app that I really loved to use is coinmarketcap it’s available in the app store or in the google play store and also in their website www.coinmarketcap.com. Why do I love this app? And what is this app anyway? This app serves like a price tracker for all of the crypto currency that available in the market. It is hard to keep track of the prices of crypto currency because it always updates every minute and unlike the regular foreign exchange market, crypto currency market is much more changing. This application already gives you the average price of the crypto currencies out there from any other exchanges because this currency varies in prices at any other exchanges that listed on the app.</br></br>
- <div class="image_image"><img src="https://i.imgur.com/9K1BpyA.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
+TSo far in the previous topics we had, need finding is pretty much how it sounds;</br></br>
+
+So far in the previous topics we had, need finding is pretty much how it sounds;</br></br>
+
+<strong>These are some of the problems we saw:</strong></br></br>
+o many people show great interest in surfing, watching and even posting about their pets but don’t have an isolated platform for them</br>
+
+o not enough help for animal shelters</br>
+
+o pets are mostly bought not adopted</br>
+
+o there is a great number of mistreated animals</br></br>
+
+</strong>To address problems</strong>, we created some goals which our app needs to attain:</br>
+o a social media site to be named: PETagram</br>
+
+o build a social platform PETagram specially just for pets where:</br>
+1. They can build a community and support group for pet owners.</br>
+
+2. People can share anything about their pets and share ideas for other pet owners.</br>
+
+3. People can easily donate to animal shelters and organizations.</br>
+
+4. It promotes adopting of pet instead of buying.</br>
+
+5. Promotes different animal shelters for them to be notice and receive help.</br>
+
+6. It gathers possible volunteers for animal shelters and organization.</br>
+
+7. Allows people to buy and sell products for pets.</br>
+
 </p>
 
                                         <hr class="invis">
