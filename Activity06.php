@@ -196,11 +196,11 @@
 <strong>
 Anon </strong>
 </br></br>
-<strong>Archetype</strong> - The person who love web surfing 
+<strong>>>Archetype</strong> - The person who love web surfing 
 </br></br>
-<strong>Job title </strong>- student  
+<strong>>>Job title </strong>- student  
 </br></br>
-<strong>Task/Bio </strong>- Just love to surf the web all time for funny and cute things  
+<strong>>>Task/Bio </strong>- Just love to surf the web all time for funny and cute things  
 </br></br>
 </br></br>
 
@@ -208,11 +208,11 @@ Anon </strong>
 
 <strong>Anima </strong>
 </br></br>
-<strong>Archetype </strong>- The animal lover and a pet owner 
+<strong>>>Archetype </strong>- The animal lover and a pet owner 
 </br></br>
-<strong>Job title </strong>- office worker 
+<strong>>>Job title </strong>- office worker 
 </br></br>
-<strong>Task/Bio </strong>- Very concern to animals and always give advices to other people. Donating and being a volunteer is what she do in her free time. 
+<strong>>>Task/Bio </strong>- Very concern to animals and always give advices to other people. Donating and being a volunteer is what she do in her free time. 
   </br></br>
 </br></br>
  
