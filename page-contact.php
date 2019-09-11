@@ -14,7 +14,6 @@
     <title>Lab2-Ragsac</title>
     
     <!-- Site Icons -->
-    <link rel="icon" href="https://images.vexels.com/media/users/3/127525/isolated/preview/d79fa485e112044702de7470c8a48fc6-cute-meow-emoji-icon-by-vexels.png">
 
 	<!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500,700,900" rel="stylesheet"> 
@@ -88,17 +87,15 @@
                                                 <div class="col-md-6 col-sm-6">
                                                     <h4>Activities</h4>
                                                     <ul>
-                                                        <li><a href="#">Activity01</a></li>
-                                                        <li><a href="#">Activity02</a></li>
-                                                        <li><a href="#">Activity03</a></li>
-                                                        <li><a href="#">Activity04</a></li>
-                                                        <li><a href="#">Activity05</a></li>
-                                                        <li><a href="#">Activity06</a></li>
-                                                        <li><a href="#">Activity07</a></li>
-                                                        <li><a href="#">Activity08</a></li>
-                                                        <li><a href="#">Activity09</a></li>
-														<li><a href="#">Activity10</a></li>
-                                                    </ul>
+                                                        <li><a href="Activity01.php">Activity01</a></li>
+                                                        <li><a href="Activity02.php">Activity02</a></li>
+                                                        <li><a href="Activity03.php">Activity03</a></li>
+                                                        <li><a href="Activity04.php">Activity04</a></li>
+                                                        <li><a href="Activity05.php">Activity05</a></li>
+                                                        <li><a href="Activity06.php">Activity06</a></li>
+                                                        <li><a href="Activity07.php">Activity07</a></li>
+                                                        <li><a href="Activity08.php">Activity08</a></li>
+							</ul>
                                                 </div>
                                         </div>
                                     </li>
@@ -112,28 +109,38 @@
                                                 <div class="col-md-6 col-sm-6">
                                                     <h4>Reflections</h4>
                                                     <ul>
-                                                        <li><a href="#">Reflection01</a></li>
-                                                        <li><a href="#">Reflection02</a></li>
-                                                        <li><a href="#">Reflection03</a></li>
-                                                        <li><a href="#">Reflection04</a></li>
-                                                        <li><a href="#">Reflection05</a></li>
-                                                        <li><a href="#">Reflection06</a></li>
-                                                        <li><a href="#">Reflection07</a></li>
-                                                        <li><a href="#">Reflection08</a></li>
-                                                        <li><a href="#">Reflection09</a></li>
+                                                        <li><a href="Reflection01.php">Reflection01</a></li>
+                                                        <li><a href="Reflection02.php">Reflection02</a></li>
+                                                        <li><a href="Reflection03.php">Reflection03</a></li>
+                                                        <li><a href="Reflection04.php">Reflection04</a></li>
+                                                        <li><a href="Reflection05.php">Reflection05</a></li>
+                                                        <li><a href="Reflection06.php">Reflection06</a></li>
                                                     </ul>
                                                 </div>
                                         </div>
                                     </li>
                                 </ul>
                             </li>
-                              <li><a href="page-contact.php">Contact</a></li>
-                            <li><form class="example" action="#" style="margin:auto;max-width:300px">
-  <input type="text" placeholder="Search.." name="search2">
-  <button type="submit"><i class="fa fa-search"></i></button>
-</form>
-</li>
+                            
+                            <li class="dropdown yamm-fw yamm-half"><a href="#" data-toggle="dropdown" class="dropdown-toggle active">Learnings<b class="fa fa-angle-down"></b></a>
+                                <ul class="dropdown-menu">
+                                    <li>
+                                        <div class="yamm-content clearfix">
+                                            <div class="row-fluid">
+                                                <div class="col-md-6 col-sm-6">
+                                                    <h4>Learnings</h4>
+                                                    <ul>
+                                                        <li><a href="#">Learning01</a></li>
+                                                        <li><a href="#">Learning02</a></li>
+                                                        <li><a href="#">Learning03</a></li>
+                                                        <li><a href="#">Learning04</a></li>
+                                                    </ul>
+                                                </div>
+                                        </div>
+                                    </li>
+					    
                         </ul>
+				    <li><a href="page-contact.php">Contact</a></li>
                     </div>
                 </nav><!-- end navbar -->
             </div><!-- end container -->
