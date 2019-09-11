@@ -219,11 +219,11 @@ Anon </strong>
 
 <strong>Shell </strong> 
 </br></br>
-<strong>Archetype </strong>- The animal concerned person who’s willing to spend time 
+<strong>>>Archetype </strong>- The animal concerned person who’s willing to spend time 
 </br></br>
-<strong>Job title </strong>– Organization head and manager 
+<strong>>>Job title </strong>– Organization head and manager 
 </br></br>
-<strong>Task/Bio </strong>- Putting all his effort and` money to give care to animals  				    </p>
+<strong>>>Task/Bio </strong>- Putting all his effort and` money to give care to animals  				    </p>
 
                                         <hr class="invis">
                             <div class="content boxed-comment clearfix">
