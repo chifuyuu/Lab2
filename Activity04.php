@@ -262,7 +262,7 @@ o build a social platform PETagram specially just for pets where:</br></br></br>
                                     <div class="media">
                                         <img src="upload/blog_small_01.jpg" alt="" class="img-responsive alignleft img-rounded">
                                         <div class="media-body">
-                                            <h5 class="mt-0"><a href="blog-single.php">Activity05</a></h5>
+                                            <h5 class="mt-0"><a href="Activity05.php">Activity05</a></h5>
                                             <div class="blog-meta">
                                                 <ul class="list-inline">
                                                     <li><span>by</span> <a href="#">Yours Truly</a></li>
@@ -274,7 +274,7 @@ o build a social platform PETagram specially just for pets where:</br></br></br>
                                     <div class="media">
                                         <img src="upload/blog_small_02.jpg" alt="" class="img-responsive alignleft img-rounded">
                                         <div class="media-body">
-                                            <h5 class="mt-0"><a href="blog-single.php">Activity06</a></h5>
+                                            <h5 class="mt-0"><a href="Activity06.php">Activity06</a></h5>
                                             <div class="blog-meta">
                                                 <ul class="list-inline">
                                                     <li>5 days ago</li>
@@ -287,7 +287,7 @@ o build a social platform PETagram specially just for pets where:</br></br></br>
                                     <div class="media">
                                         <img src="upload/blog_small_03.jpg" alt="" class="img-responsive alignleft img-rounded">
                                         <div class="media-body">
-                                            <h5 class="mt-0"><a href="blog-single.php">Activity07</a></h5>
+                                            <h5 class="mt-0"><a href="Activity07.php">Activity07</a></h5>
                                             <div class="blog-meta">
                                                 <ul class="list-inline">
                                                     <li>6 days ago</li>
