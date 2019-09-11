@@ -95,8 +95,6 @@
                                                         <li><a href="Activity06.php">Activity06</a></li>
                                                         <li><a href="Activity07.php">Activity07</a></li>
                                                         <li><a href="Activity08.php">Activity08</a></li>
-                                                        <li><a href="Activity09.php">Activity09</a></li>
-                                                        <li><a href="Activity10.php">Activity10</a></li>
                                                     </ul>
                                                 </div>
                                         </div>
@@ -111,15 +109,12 @@
                                                 <div class="col-md-6 col-sm-6">
                                                     <h4>Reflections</h4>
                                                     <ul>
-                                                        <li><a href="#">Reflection01</a></li>
-                                                        <li><a href="#">Reflection02</a></li>
-                                                        <li><a href="#">Reflection03</a></li>
-                                                        <li><a href="#">Reflection04</a></li>
-                                                        <li><a href="#">Reflection05</a></li>
-                                                        <li><a href="#">Reflection06</a></li>
-                                                        <li><a href="#">Reflection07</a></li>
-                                                        <li><a href="#">Reflection08</a></li>
-                                                        <li><a href="#">Reflection09</a></li>
+                                                        <li><a href="Reflection01.php">Reflection01</a></li>
+                                                        <li><a href="Reflection02.php">Reflection02</a></li>
+                                                        <li><a href="Reflection03.php">Reflection03</a></li>
+                                                        <li><a href="Reflection04.php">Reflection04</a></li>
+                                                        <li><a href="Reflection05.php">Reflection05</a></li>
+                                                        <li><a href="Reflection06.php">Reflection06</a></li>
                                                         <li><a href="Quiz01.php">Quiz01</a></li>
                                                     </ul>
                                                 </div>
@@ -242,7 +237,7 @@ DESIGN D
                                     <div class="media">
                                         <img src="upload/blog_small_01.jpg" alt="" class="img-responsive alignleft img-rounded">
                                         <div class="media-body">
-                                            <h5 class="mt-0"><a href="blog-single.php">Activity09</a></h5>
+                                            <h5 class="mt-0"><a href="Activity09.php">Activity09</a></h5>
                                             <div class="blog-meta">
                                                 <ul class="list-inline">
                                                     <li><span>by</span> <a href="#">Yours Truly</a></li>
@@ -254,7 +249,7 @@ DESIGN D
                                     <div class="media">
                                         <img src="upload/blog_small_02.jpg" alt="" class="img-responsive alignleft img-rounded">
                                         <div class="media-body">
-                                            <h5 class="mt-0"><a href="blog-single.php">Activity10</a></h5>
+                                            <h5 class="mt-0"><a href="Activity10.php">Activity10</a></h5>
                                             <div class="blog-meta">
                                                 <ul class="list-inline">
                                                     <li>5 days ago</li>
