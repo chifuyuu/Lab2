@@ -237,7 +237,7 @@ Overall, the use of GitHub and Heroku in our first webpage/website was a fun exp
                                     <div class="media">
                                         <img src="upload/blog_small_01.jpg" alt="" class="img-responsive alignleft img-rounded">
                                         <div class="media-body">
-                                            <h5 class="mt-0"><a href="blog-single.php">Reflection04</a></h5>
+                                            <h5 class="mt-0"><a href="Reflection04.php">Reflection04</a></h5>
                                             <div class="blog-meta">
                                                 <ul class="list-inline">
                                                     <li><span>by</span> <a href="#">Yours Truly</a></li>
@@ -249,7 +249,7 @@ Overall, the use of GitHub and Heroku in our first webpage/website was a fun exp
                                     <div class="media">
                                         <img src="upload/blog_small_02.jpg" alt="" class="img-responsive alignleft img-rounded">
                                         <div class="media-body">
-                                            <h5 class="mt-0"><a href="blog-single.php">Reflection05</a></h5>
+                                            <h5 class="mt-0"><a href="Reflection05.php">Reflection05</a></h5>
                                             <div class="blog-meta">
                                                 <ul class="list-inline">
                                                     <li>5 days ago</li>
@@ -262,7 +262,7 @@ Overall, the use of GitHub and Heroku in our first webpage/website was a fun exp
                                     <div class="media">
                                         <img src="upload/blog_small_03.jpg" alt="" class="img-responsive alignleft img-rounded">
                                         <div class="media-body">
-                                            <h5 class="mt-0"><a href="blog-single.php">Reflection06</a></h5>
+                                            <h5 class="mt-0"><a href="Reflection06.php">Reflection06</a></h5>
                                             <div class="blog-meta">
                                                 <ul class="list-inline">
                                                     <li>6 days ago</li>
