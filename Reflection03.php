@@ -196,7 +196,7 @@
 
 </p></br><strong>
 <p>
- GitHub and Heroku was very exciting and hard at the same time. It was my first time also using GitHub.</strong></br></br>
+ GitHub and Heroku was very exciting and hard at the same time.</strong></br></br>
 So, I think it was normal to encounter so many problems, like I was not able to push my work from a different computer.
 Another thing is that it is hard to commit, push, and upload files to GitHub for me because I don’t know what commands to use and I needed to consult YouTube on how to do it.</br></br>
 Starting this webpage task is challenging since everything is new for me.
