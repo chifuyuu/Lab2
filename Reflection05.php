@@ -190,12 +190,10 @@
 
 
 
-</p></br>
+</p></br></br>
 <p></br></br>
-				This year’s SoCit week was so educational. The speakers shared their own experiences on how they started from what they were before to now. The speakers were CEO’s of their own company which kind of make it for me interesting because you can really see how much effort they do in building it up. </br></br>
-			I still hoped that the SOCIT fest next time would hold gaming tournament like DOTA 2 or LOL not only mobile legends and Tekken because it’s a downer because some people, like me does not play much console games.</br></br> We could’ve joined the mobile legends tournament, but we had some things to do so in our other subjects so we couldn’t join anyways. Overall it was okay for some but for me it’s kind of not good, so I’m hoping for a better fest next year. </br></br>
-			 <div class="image_image"><img src="https://i.imgur.com/35VcVaF.png" alt="" class="img-responsive img-rounded"> </br> <div class="image_image"><img src="https://i.imgur.com/yJe7XrC.png" alt="" class="img-responsive img-rounded"> </br> <div class="image_image"><img src="https://i.imgur.com/DuciOjK.png" alt="" class="img-responsive img-rounded"> </br>
-			</p>
+				This year’s SoCit week was so educational. The speakers shared their own experiences on how they started from what they were before to now. The speakers were CEO’s of their own company which kind of make it for me interesting because you can really see how much effort they do in building it up. </br><div class="image_image"><img src="https://i.imgur.com/35VcVaF.png" alt="" class="img-responsive img-rounded"> </br>
+			I still hoped that the SOCIT fest next time would hold gaming tournament like DOTA 2 or LOL not only mobile legends and Tekken because it’s a downer because some people, like me does not play much console games.</br><div class="image_image"><img src="https://i.imgur.com/DuciOjK.png" alt="" class="img-responsive img-rounded"></br> We could’ve joined the mobile legends tournament, but we had some things to do so in our other subjects so we couldn’t join anyways. Overall it was okay for some but for me it’s kind of not good, so I’m hoping for a better fest next year. </br><div class="image_image"><img src="https://i.imgur.com/yJe7XrC.png" alt="" class="img-responsive img-rounded"></p>
 
                                         <hr class="invis">
 							<div class="content boxed-comment clearfix">
