@@ -200,7 +200,7 @@ I also like how the professor approach us to lighten the atmosphere in the class
 I am not overwhelmed or nervous at all even if I am talking in front of the class and presenting my work.
 The class overall has having a great time in User design class since everyone has the chance to present their work in front and no one is tasked to go there since it’s your choice to either share your ideas in front or not.
 
-I also like the activities given to us because we really are assigned to think and share our thoughts. Like how we created the activity 3 it was a good way to test how can we create a solution to a problem which is not even yet present in the real world. This way we can improve our critical thinking which we really need in the future or in the workplace. Overall it was fun and knowledgeable at the same time. Hoping next week would even enjoyable than I would expect and of course a lot of activities await.</p>
+</br></br>I also like the activities given to us because we really are assigned to think and share our thoughts. Like how we created the activity 3 it was a good way to test how can we create a solution to a problem which is not even yet present in the real world. This way we can improve our critical thinking which we really need in the future or in the workplace. Overall it was fun and knowledgeable at the same time. Hoping next week would even enjoyable than I would expect and of course a lot of activities await.</p>
 
                                         <hr class="invis">
 							<div class="content boxed-comment clearfix">
