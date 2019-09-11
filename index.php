@@ -154,7 +154,7 @@
                     <small>This website was created for me to learn how to create and make my own. </br>Which can be used for future purposes</small>
                     <div class="btn-wrapper">
                         <div class="text-center">
-                            <a href="blog-3.php" class="btn btn-primary wow slideInLeft">Read More</a><a href="https://www.linkedin.com/learning/bootstrap-4-essential-training/welcome?u=35279340" class="btn btn-default wow slideInRight">Learn How</a>
+                            <a href="#" class="btn btn-primary wow slideInLeft">Read More</a><a href="#" class="btn btn-default wow slideInRight">Learn How</a>
 						</div>
                     </div><!-- end row -->
                 </div>
