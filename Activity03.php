@@ -6,7 +6,6 @@
     <!-- Basic -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    
     <!-- Mobile Meta -->
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
     
@@ -95,8 +94,6 @@
                                                         <li><a href="Activity06.php">Activity06</a></li>
                                                         <li><a href="Activity07.php">Activity07</a></li>
                                                         <li><a href="Activity08.php">Activity08</a></li>
-                                                        <li><a href="Activity09.php">Activity09</a></li>
-                                                        <li><a href="Activity10.php">Activity10</a></li>
                                                     </ul>
                                                 </div>
                                         </div>
@@ -111,15 +108,12 @@
                                                 <div class="col-md-6 col-sm-6">
                                                     <h4>Reflections</h4>
                                                     <ul>
-                                                        <li><a href="#">Reflection01</a></li>
-                                                        <li><a href="#">Reflection02</a></li>
-                                                        <li><a href="#">Reflection03</a></li>
-                                                        <li><a href="#">Reflection04</a></li>
-                                                        <li><a href="#">Reflection05</a></li>
-                                                        <li><a href="#">Reflection06</a></li>
-                                                        <li><a href="#">Reflection07</a></li>
-                                                        <li><a href="#">Reflection08</a></li>
-                                                        <li><a href="#">Reflection09</a></li>
+                                                        <li><a href="Reflection01.php">Reflection01</a></li>
+                                                        <li><a href="Reflection02.php">Reflection02</a></li>
+                                                        <li><a href="Reflection03.php">Reflection03</a></li>
+                                                        <li><a href="Reflection04.php">Reflection04</a></li>
+                                                        <li><a href="Reflection05.php">Reflection05</a></li>
+                                                        <li><a href="Reflection06.php">Reflection06</a></li>
                                                     </ul>
                                                 </div>
                                         </div>
