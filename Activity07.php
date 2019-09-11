@@ -115,6 +115,7 @@
                                                         <li><a href="Reflection04.php">Reflection04</a></li>
                                                         <li><a href="Reflection05.php">Reflection05</a></li>
                                                         <li><a href="Reflection06.php">Reflection06</a></li>
+                                                        <li><a href="Quiz01.php">Quiz01</a></li>
                                                     </ul>
                                                 </div>
                                         </div>
