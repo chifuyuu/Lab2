@@ -184,8 +184,8 @@
                                     </div><!-- end blog-meta -->
 
                                     <div class="blog-desc-big">
-                                        <p class="lead">Fourth Week</p>
-                                        <p>First Quiz.
+                                        <p class="lead">SOCIT WEEK</p>
+                                        <p>Kinda Disappointing
 
 
 
