@@ -238,7 +238,7 @@ This a finance app. The next app that I really loved to use is coinmarketcap itâ
                                     <div class="media">
                                         <img src="upload/blog_small_01.jpg" alt="" class="img-responsive alignleft img-rounded">
                                         <div class="media-body">
-                                            <h5 class="mt-0"><a href="blog-single.php">Activity03</a></h5>
+                                            <h5 class="mt-0"><a href="Activity03.php">Activity03</a></h5>
                                             <div class="blog-meta">
                                                 <ul class="list-inline">
                                                     <li><span>by</span> <a href="#">Yours Truly</a></li>
@@ -250,7 +250,7 @@ This a finance app. The next app that I really loved to use is coinmarketcap itâ
                                     <div class="media">
                                         <img src="upload/blog_small_02.jpg" alt="" class="img-responsive alignleft img-rounded">
                                         <div class="media-body">
-                                            <h5 class="mt-0"><a href="blog-single.php">Activity04</a></h5>
+                                            <h5 class="mt-0"><a href="Activity04.php">Activity04</a></h5>
                                             <div class="blog-meta">
                                                 <ul class="list-inline">
                                                     <li>5 days ago</li>
@@ -263,7 +263,7 @@ This a finance app. The next app that I really loved to use is coinmarketcap itâ
                                     <div class="media">
                                         <img src="upload/blog_small_03.jpg" alt="" class="img-responsive alignleft img-rounded">
                                         <div class="media-body">
-                                            <h5 class="mt-0"><a href="blog-single.php">Activity05</a></h5>
+                                            <h5 class="mt-0"><a href="Activity05.php">Activity05</a></h5>
                                             <div class="blog-meta">
                                                 <ul class="list-inline">
                                                     <li>6 days ago</li>
