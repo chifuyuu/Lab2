@@ -234,7 +234,7 @@ May even give inconsistent data since, end users cannot understand what they are
                                     <div class="media">
                                         <img src="upload/blog_small_01.jpg" alt="" class="img-responsive alignleft img-rounded">
                                         <div class="media-body">
-                                            <h5 class="mt-0"><a href="blog-single.php">Reflection05</a></h5>
+                                            <h5 class="mt-0"><a href="Reflection06.php">Reflection05</a></h5>
                                             <div class="blog-meta">
                                                 <ul class="list-inline">
                                                     <li><span>by</span> <a href="#">Yours Truly</a></li>
@@ -246,23 +246,10 @@ May even give inconsistent data since, end users cannot understand what they are
                                     <div class="media">
                                         <img src="upload/blog_small_02.jpg" alt="" class="img-responsive alignleft img-rounded">
                                         <div class="media-body">
-                                            <h5 class="mt-0"><a href="blog-single.php">Reflection06</a></h5>
+                                            <h5 class="mt-0"><a href="Reflection06.php">Reflection06</a></h5>
                                             <div class="blog-meta">
                                                 <ul class="list-inline">
                                                     <li>5 days ago</li>
-                                                    <li><span>by</span> <a href="#">Yours Truly</a></li>
-                                                </ul>
-                                            </div><!-- end blog-meta -->
-                                        </div>
-                                    </div>
-
-                                    <div class="media">
-                                        <img src="upload/blog_small_03.jpg" alt="" class="img-responsive alignleft img-rounded">
-                                        <div class="media-body">
-                                            <h5 class="mt-0"><a href="blog-single.php">Reflection07</a></h5>
-                                            <div class="blog-meta">
-                                                <ul class="list-inline">
-                                                    <li>6 days ago</li>
                                                     <li><span>by</span> <a href="#">Yours Truly</a></li>
                                                 </ul>
                                             </div><!-- end blog-meta -->
