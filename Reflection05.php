@@ -184,7 +184,7 @@
                                     </div><!-- end blog-meta -->
 
                                     <div class="blog-desc-big">
-                                        <p class="lead">Fourth Week</p>
+                                        <p class="lead"></br></br></br>Fourth Week</p>
                                         <p>First Quiz.
 
 
