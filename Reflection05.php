@@ -179,7 +179,7 @@
                                     </div><!-- end blog-meta -->
 
                                     <div class="blog-desc-big">
-                                        <p class="lead">SOCIT WEEK</p>
+                                        <p class="lead"></br></br></br>SOCIT WEEK</p>
                                         <p>Kinda Disappointing
 </p>
 <p></br></br>
