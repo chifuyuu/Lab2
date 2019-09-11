@@ -188,27 +188,21 @@
                                     </div><!-- end media -->
 
                                     <div class="blog-desc-big">
-                                        <p class="lead">What I can say is things are great, they've never been better! </p>
-                                        <p>I am Paul Anthony C. Ragsac. I am now 19 years old as of now. I am from Las Piñas City.
+                                        <p class="lead">Fourth Week</p>
+                                        <p>First Quiz.
 
 
 
 
-</p></br><strong>
-Seek stories.</strong></br></br>
-
-I first traveled by myself to Morong, Rizal because I had a special someone to meet and find it quite exciting travelling by myself because you really need to focus on where you are and not to pass over the exact place you want to get off. That day was kind of exhausting in my part but overall it was an experience that I will never forget.</br></br>
- 
-When I started studying in College it was an unexpected adventure for me since there are many things to learn and there are many challenges waiting ahead. The adventure is still on going and as I go along, there are many people I met some stayed and some already left the adventure. For me this adventure is just getting started and I am ready to face my next year in college. Hello 2nd Year!!!</br></br>
-
-“What would I find surprising about how you . . .
-First year was quite alarming for me since I don't have any background in programming and other computer related knowledge which some of my classmates already know. What I did was I studied them on my own and hoping that I will catch up and never left behind in every class I take. Now I am already in 2nd year and the fruit of my hard work paid but it was just getting started.</br></br>
- 
-My summer is a mess. I could not describe it in any fine way since I did not do any good this summer. Well I enjoyed my summer, but it was not a productive summer since I did not learn any new things. What I did? I just played ML and watch Netflix all summer :) 
+</p></br>
+<p>
+To start, our first quiz was unexpected, and I thought it was a good way to pointing on how important it is for a website having a very well-designed UI and UX.
+Taking this quiz, makes me realize that as an end user, we sometimes don’t read what we click on a website. We just click what we think is common or already experienced before on navigating through websites.
+In the first few minutes of the quiz, I really don’t know what is happening. I just became pressured when everyone is already done and know what the steps navigating through it.
+I can’t even past the first part of the quiz so I was already nervous if I will be the last one to pass the quiz. In the mid part, we already have insights on what to do to finish the quiz in a good time. It was to read every single word that is being required to proceed on to the next parts.</br></br>
+So, overall having this kind of interface in a website will mess someone’s time up and most importantly, it would give a lot of headaches to those who would be using it.
+May even give inconsistent data since, end users cannot understand what they are doing in the website. We experienced that, creating a good UI and UX is important so that end users would not be bothered and had a lot of hard time as we did in our quiz you need to put your all focus and mind into it and then you’ll get it.
 </p>
-
-                                        <p></br><strong>Talk about feelings.</br></br></strong> Dig deeper by following up.
-I feel so sleepy most of the time because I can't sleep early, and the class starts at 7:30 in the morning and I need to wake up again early my body can’t comprehend but it is what it is. Well in class I still try to be awake all the time, so I don't miss anything important</p>
 
                                         <hr class="invis">
 							<div class="content boxed-comment clearfix">
@@ -235,9 +229,11 @@ I feel so sleepy most of the time because I can't sleep early, and the class sta
                         <div class="sidebar col-md-4">
                             <div class="widget clearfix">
                                 <div class="banner-widget">
-								</br></br></br></br></br></br></br></br>
+					</br></br>
+								<div class="image_image_r">
                                     <img src="https://images.vexels.com/media/users/3/127525/isolated/preview/d79fa485e112044702de7470c8a48fc6-cute-meow-emoji-icon-by-vexels.png" alt="" class="img-responsive img-rounded"><h4><center>Lab2-Ragsac</center></h4>
                                 </div>
+								</div>
                             </div>
 
                             <div class="widget clearfix">
