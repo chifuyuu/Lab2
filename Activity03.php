@@ -191,7 +191,7 @@
                                         <p class="lead">Designing a 1000 floor elevators</p>
                                         <p>All have unique designs here's mine.</p></br>
 
-<strong>Problem:</strong></br></br> First, if the building would be an INSTITUTIONAL BUILDING</br></br>
+<strong>Problem:</strong></br></br> First, if the building would be an INSTITUTIONAL BUILDING
 (e.g. Hospital), where in many people would always use the elevator daily. Since there would be a lot of people using these elevators, it would be hard for them to go to a floor they wanted to go to since it has a thousand floors and the elevator could also crash or won’t work because of too many people inside. The space should be big enough wherein it could have a space for people to seat while waiting in the elevator.  </br></br>Second, for the medical practitioners and workers in the Hospital. Since, these people need to be prioritized for them to go to a specific part of the hospital.</br></br>
  
 <strong>Solution and design</strong></br></br>
