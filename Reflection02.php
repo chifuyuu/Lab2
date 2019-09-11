@@ -196,7 +196,7 @@
 
 </p></br><strong>
 <p>
-For our second week, we discussed about the need findings and prototype making.</br></br>
+For our second week, we discussed about the need findings and prototype making.</strong></br></br>
 Since we are already tackling this part of our lecture, I realized that I need to improve my skills in design as well as my creativity in composing it.
 In short this topic made me thought that we should not focus on the problem itself but think of simple ways how we will conquer the problem then combine that simple ideas and that would be the answer.</br></br>
 We don't have shortcuts in everything. We might have done it lightly but not completely, So for us, Future programmers and developers we should always try to make out of all different situations.
