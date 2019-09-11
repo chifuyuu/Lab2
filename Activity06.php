@@ -15,22 +15,22 @@
     
     <!-- Site Icons -->
 
-	<!-- Google Fonts -->
+    <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500,700,900" rel="stylesheet"> 
     <link href="https://fonts.googleapis.com/css?family=Droid+Serif:400,400i,700,700i" rel="stylesheet"> 
-	
+    
     <!-- Custom & Default Styles -->
-	<link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/font-awesome.min.css">
     <link rel="stylesheet" href="css/carousel.css">
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="style.css">
 
 
-	<!--[if lt IE 9]>
-		<script src="js/vendor/html5shiv.min.js"></script>
-		<script src="js/vendor/respond.min.js"></script>
-	<![endif]-->
+    <!--[if lt IE 9]>
+        <script src="js/vendor/html5shiv.min.js"></script>
+        <script src="js/vendor/respond.min.js"></script>
+    <![endif]-->
 
 </head>
 <body>  
@@ -39,8 +39,8 @@
     <div id="preloader">
         <img class="preloader" src="images/loader.gif" alt="">
     </div><!-- end loader -->
-    <!-- END LOADER -->	
-	
+    <!-- END LOADER --> 
+    
         <header class="header">
             <div class="topbar clearfix">
                 <div class="container">
@@ -96,14 +96,14 @@
                                                         <li><a href="Activity07.php">Activity07</a></li>
                                                         <li><a href="Activity08.php">Activity08</a></li>
                                                         <li><a href="Activity09.php">Activity09</a></li>
-														<li><a href="Activity10.php">Activity10</a></li>
+                                                        <li><a href="Activity10.php">Activity10</a></li>
                                                     </ul>
                                                 </div>
                                         </div>
                                     </li>
                                 </ul>
                             </li>
-							<li class="dropdown yamm-fw yamm-half"><a href="#" data-toggle="dropdown" class="dropdown-toggle active">Reflections<b class="fa fa-angle-down"></b></a>
+                            <li class="dropdown yamm-fw yamm-half"><a href="#" data-toggle="dropdown" class="dropdown-toggle active">Reflections<b class="fa fa-angle-down"></b></a>
                                 <ul class="dropdown-menu">
                                     <li>
                                         <div class="yamm-content clearfix">
@@ -143,9 +143,9 @@
                                                 </div>
                                         </div>
                                     </li>
-					    
+                        
                         </ul>
-				    <li><a href="page-contact.php">Contact</a></li>
+                    <li><a href="page-contact.php">Contact</a></li>
                     </div>
                 </nav><!-- end navbar -->
             </div><!-- end container -->
@@ -188,30 +188,45 @@
                                     </div><!-- end media -->
 
                                     <div class="blog-desc-big">
-                                        <p class="lead">What I can say is things are great, they've never been better! </p>
-                                        <p>I am Paul Anthony C. Ragsac. I am now 19 years old as of now. I am from Las Piñas City.
+                                        <p class="lead">Personas </p>
+                                        <p>Different Personas in our Project</p></br></br>
+
+<p>
 
 
+Anon 
+</br></br>
+Archetype - The person who love web surfing 
+</br></br>
+Job title - student  
+</br></br>
+Task/Bio - Just love to surf the web all time for funny and cute things  
+</br></br>
 
-
-</p></br><strong>
-Seek stories.</strong></br></br>
-
-I first traveled by myself to Morong, Rizal because I had a special someone to meet and find it quite exciting travelling by myself because you really need to focus on where you are and not to pass over the exact place you want to get off. That day was kind of exhausting in my part but overall it was an experience that I will never forget.</br></br>
  
-When I started studying in College it was an unexpected adventure for me since there are many things to learn and there are many challenges waiting ahead. The adventure is still on going and as I go along, there are many people I met some stayed and some already left the adventure. For me this adventure is just getting started and I am ready to face my next year in college. Hello 2nd Year!!!</br></br>
 
-“What would I find surprising about how you . . .
-First year was quite alarming for me since I don't have any background in programming and other computer related knowledge which some of my classmates already know. What I did was I studied them on my own and hoping that I will catch up and never left behind in every class I take. Now I am already in 2nd year and the fruit of my hard work paid but it was just getting started.</br></br>
+Anima 
+</br></br>
+Archetype - The animal lover and a pet owner 
+</br></br>
+Job title - office worker 
+</br></br>
+Task/Bio - Very concern to animals and always give advices to other people. Donating and being a volunteer is what she do in her free time. 
+  </br></br>
+
  
-My summer is a mess. I could not describe it in any fine way since I did not do any good this summer. Well I enjoyed my summer, but it was not a productive summer since I did not learn any new things. What I did? I just played ML and watch Netflix all summer :) 
-</p>
 
-                                        <p></br><strong>Talk about feelings.</br></br></strong> Dig deeper by following up.
-I feel so sleepy most of the time because I can't sleep early, and the class starts at 7:30 in the morning and I need to wake up again early my body can’t comprehend but it is what it is. Well in class I still try to be awake all the time, so I don't miss anything important</p>
+Shell  
+</br></br>
+Archetype - The animal concerned person who’s willing to spend time 
+</br></br>
+Job title – Organization head and manager 
+</br></br>
+Task/Bio - Putting all his effort and` money to give care to animals  
+</br></br>				    </p>
 
                                         <hr class="invis">
-							<div class="content boxed-comment clearfix">
+                            <div class="content boxed-comment clearfix">
                                 <div class="comments-list">
                                         <div class="tags-widget">   
                                             <ul class="list-inline">
@@ -235,8 +250,10 @@ I feel so sleepy most of the time because I can't sleep early, and the class sta
                         <div class="sidebar col-md-4">
                             <div class="widget clearfix">
                                 <div class="banner-widget">
-								</br></br></br></br></br></br></br></br>
+                    </br></br>
+                                <div class="image_image_r">
                                     <img src="https://images.vexels.com/media/users/3/127525/isolated/preview/d79fa485e112044702de7470c8a48fc6-cute-meow-emoji-icon-by-vexels.png" alt="" class="img-responsive img-rounded"><h4><center>Lab2-Ragsac</center></h4>
+                                </div>
                                 </div>
                             </div>
 
@@ -246,7 +263,7 @@ I feel so sleepy most of the time because I can't sleep early, and the class sta
                                     <div class="media">
                                         <img src="upload/blog_small_01.jpg" alt="" class="img-responsive alignleft img-rounded">
                                         <div class="media-body">
-                                            <h5 class="mt-0"><a href="blog-single.php">Activity07</a></h5>
+                                            <h5 class="mt-0"><a href="blog-single.php">Activity06</a></h5>
                                             <div class="blog-meta">
                                                 <ul class="list-inline">
                                                     <li><span>by</span> <a href="#">Yours Truly</a></li>
@@ -258,7 +275,7 @@ I feel so sleepy most of the time because I can't sleep early, and the class sta
                                     <div class="media">
                                         <img src="upload/blog_small_02.jpg" alt="" class="img-responsive alignleft img-rounded">
                                         <div class="media-body">
-                                            <h5 class="mt-0"><a href="blog-single.php">Activity08</a></h5>
+                                            <h5 class="mt-0"><a href="blog-single.php">Activity07</a></h5>
                                             <div class="blog-meta">
                                                 <ul class="list-inline">
                                                     <li>5 days ago</li>
@@ -271,7 +288,7 @@ I feel so sleepy most of the time because I can't sleep early, and the class sta
                                     <div class="media">
                                         <img src="upload/blog_small_03.jpg" alt="" class="img-responsive alignleft img-rounded">
                                         <div class="media-body">
-                                            <h5 class="mt-0"><a href="blog-single.php">Activity09</a></h5>
+                                            <h5 class="mt-0"><a href="blog-single.php">Activity08</a></h5>
                                             <div class="blog-meta">
                                                 <ul class="list-inline">
                                                     <li>6 days ago</li>
@@ -380,6 +397,6 @@ I feel so sleepy most of the time because I can't sleep early, and the class sta
     <script src="js/carousel.js"></script>
     <script src="js/animate.js"></script>
     <script src="js/custom.js"></script>
-	<script src="js/videobg.js"></script>
+    <script src="js/videobg.js"></script>
 </body>
 </html>
