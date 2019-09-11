@@ -184,7 +184,7 @@
                                     </div><!-- end blog-meta -->
 
                                     <div class="blog-desc-big">
-                                        <p class="lead">Reflection – First Half of USERDES </p>
+                                        <p class="lead"></br></br></br>Reflection – First Half of USERDES </p>
                                         <p>The whole midterms of attending USERDES.
 
 
