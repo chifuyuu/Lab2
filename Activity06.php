@@ -193,36 +193,36 @@
 
 <p>
 
-
-Anon 
+<strong>
+Anon </strong>
 </br></br>
-Archetype - The person who love web surfing 
+<strong>Archetype</strong> - The person who love web surfing 
 </br></br>
-Job title - student  
+<strong>Job title </strong>- student  
 </br></br>
-Task/Bio - Just love to surf the web all time for funny and cute things  
+<strong>Task/Bio </strong>- Just love to surf the web all time for funny and cute things  
 </br></br>
 
  
 
-Anima 
+<strong>Anima </strong>
 </br></br>
-Archetype - The animal lover and a pet owner 
+<strong>Archetype </strong>- The animal lover and a pet owner 
 </br></br>
-Job title - office worker 
+<strong>Job title </strong>- office worker 
 </br></br>
-Task/Bio - Very concern to animals and always give advices to other people. Donating and being a volunteer is what she do in her free time. 
+<strong>Task/Bio </strong>- Very concern to animals and always give advices to other people. Donating and being a volunteer is what she do in her free time. 
   </br></br>
 
  
 
-Shell  
+<strong>Shell </strong> 
 </br></br>
-Archetype - The animal concerned person who’s willing to spend time 
+<strong>Archetype </strong>- The animal concerned person who’s willing to spend time 
 </br></br>
-Job title – Organization head and manager 
+<strong>Job title </strong>– Organization head and manager 
 </br></br>
-Task/Bio - Putting all his effort and` money to give care to animals  
+<strong>Task/Bio </strong>- Putting all his effort and` money to give care to animals  
 </br></br>				    </p>
 
                                         <hr class="invis">
