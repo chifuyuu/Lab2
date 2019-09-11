@@ -156,7 +156,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="tagline-message page-title text-center">
-                            <h3></br></br>Activity03</h3>
+                            <h3></br></br>Activity02</h3>
                             <ul class="breadcrumb">
                                 <li><a href="javascript:void(0)">Ragsac</a></li>
                                 <li class="active">Activity</li>
@@ -176,7 +176,7 @@
                                 <div class="blog-wrapper clearfix">
                                     <div class="blog-meta">
                                         <small><a href="#">Tips & Tricks</a></small>
-                                        <h3>Activity03</h3>
+                                        <h3>Activity02</h3>
                                         <ul class="list-inline">
                                             <li>6 hours ago</li>
                                             <li><span>written by</span> <a href="#">Paul Anthony Ragsac</a></li>
@@ -188,27 +188,21 @@
                                     </div><!-- end media -->
 
                                     <div class="blog-desc-big">
-                                        <p class="lead">What I can say is things are great, they've never been better! </p>
-                                        <p>I am Paul Anthony C. Ragsac. I am now 19 years old as of now. I am from Las Piñas City.
+                                        <p class="lead">Tell Me About Your Favorite Application</p>
+                                        <p>We all have our own favorite app/s.
 
 
 
 
 </p></br><strong>
-Seek stories.</strong></br></br>
-
-I first traveled by myself to Morong, Rizal because I had a special someone to meet and find it quite exciting travelling by myself because you really need to focus on where you are and not to pass over the exact place you want to get off. That day was kind of exhausting in my part but overall it was an experience that I will never forget.</br></br>
+I love browsing the internet.</strong></br></br>
+ I don’t want to get outdated in news or updates specially the things I wanted to follow. So, for me, the best app in my phone right now is Chrome browser. Chrome offers a simple user’s interface. This means there is not a lot of complicated stuffs when you opened it up. I recommend this app rather than any other browser because it’s a lot faster in the sense that if you really need it just type the word even just a keyword you can find what you search for. I also used this app when finding something that I can make out of. </br></br>
+ <div class="image_image"><img src="https://i.imgur.com/ioNHA3A.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
  
-When I started studying in College it was an unexpected adventure for me since there are many things to learn and there are many challenges waiting ahead. The adventure is still on going and as I go along, there are many people I met some stayed and some already left the adventure. For me this adventure is just getting started and I am ready to face my next year in college. Hello 2nd Year!!!</br></br>
-
-“What would I find surprising about how you . . .
-First year was quite alarming for me since I don't have any background in programming and other computer related knowledge which some of my classmates already know. What I did was I studied them on my own and hoping that I will catch up and never left behind in every class I take. Now I am already in 2nd year and the fruit of my hard work paid but it was just getting started.</br></br>
  
-My summer is a mess. I could not describe it in any fine way since I did not do any good this summer. Well I enjoyed my summer, but it was not a productive summer since I did not learn any new things. What I did? I just played ML and watch Netflix all summer :) 
+This a finance app. The next app that I really loved to use is coinmarketcap it’s available in the app store or in the google play store and also in their website www.coinmarketcap.com. Why do I love this app? And what is this app anyway? This app serves like a price tracker for all of the crypto currency that available in the market. It is hard to keep track of the prices of crypto currency because it always updates every minute and unlike the regular foreign exchange market, crypto currency market is much more changing. This application already gives you the average price of the crypto currencies out there from any other exchanges because this currency varies in prices at any other exchanges that listed on the app.</br></br>
+ <div class="image_image"><img src="https://i.imgur.com/9K1BpyA.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
 </p>
-
-                                        <p></br><strong>Talk about feelings.</br></br></strong> Dig deeper by following up.
-I feel so sleepy most of the time because I can't sleep early, and the class starts at 7:30 in the morning and I need to wake up again early my body can’t comprehend but it is what it is. Well in class I still try to be awake all the time, so I don't miss anything important</p>
 
                                         <hr class="invis">
 							<div class="content boxed-comment clearfix">
@@ -235,9 +229,11 @@ I feel so sleepy most of the time because I can't sleep early, and the class sta
                         <div class="sidebar col-md-4">
                             <div class="widget clearfix">
                                 <div class="banner-widget">
-								</br></br></br></br></br></br></br></br>
+					</br></br>
+								<div class="image_image_r">
                                     <img src="https://images.vexels.com/media/users/3/127525/isolated/preview/d79fa485e112044702de7470c8a48fc6-cute-meow-emoji-icon-by-vexels.png" alt="" class="img-responsive img-rounded"><h4><center>Lab2-Ragsac</center></h4>
                                 </div>
+								</div>
                             </div>
 
                             <div class="widget clearfix">
@@ -246,7 +242,7 @@ I feel so sleepy most of the time because I can't sleep early, and the class sta
                                     <div class="media">
                                         <img src="upload/blog_small_01.jpg" alt="" class="img-responsive alignleft img-rounded">
                                         <div class="media-body">
-                                            <h5 class="mt-0"><a href="blog-single.php">Activity04</a></h5>
+                                            <h5 class="mt-0"><a href="blog-single.php">Activity03</a></h5>
                                             <div class="blog-meta">
                                                 <ul class="list-inline">
                                                     <li><span>by</span> <a href="#">Yours Truly</a></li>
@@ -258,7 +254,7 @@ I feel so sleepy most of the time because I can't sleep early, and the class sta
                                     <div class="media">
                                         <img src="upload/blog_small_02.jpg" alt="" class="img-responsive alignleft img-rounded">
                                         <div class="media-body">
-                                            <h5 class="mt-0"><a href="blog-single.php">Activity05</a></h5>
+                                            <h5 class="mt-0"><a href="blog-single.php">Activity04</a></h5>
                                             <div class="blog-meta">
                                                 <ul class="list-inline">
                                                     <li>5 days ago</li>
@@ -271,7 +267,7 @@ I feel so sleepy most of the time because I can't sleep early, and the class sta
                                     <div class="media">
                                         <img src="upload/blog_small_03.jpg" alt="" class="img-responsive alignleft img-rounded">
                                         <div class="media-body">
-                                            <h5 class="mt-0"><a href="blog-single.php">Activity06</a></h5>
+                                            <h5 class="mt-0"><a href="blog-single.php">Activity05</a></h5>
                                             <div class="blog-meta">
                                                 <ul class="list-inline">
                                                     <li>6 days ago</li>
