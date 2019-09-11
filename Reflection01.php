@@ -3,7 +3,6 @@
 <!--[if gt IE 9]><!--> <html class="no-js " lang="en"> <!--<![endif]-->
 <head>
 
-    <!-- Basic -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     
@@ -95,9 +94,7 @@
                                                         <li><a href="Activity06.php">Activity06</a></li>
                                                         <li><a href="Activity07.php">Activity07</a></li>
                                                         <li><a href="Activity08.php">Activity08</a></li>
-                                                        <li><a href="Activity09.php">Activity09</a></li>
-														<li><a href="Activity10.php">Activity10</a></li>
-                                                    </ul>
+							</ul>
                                                 </div>
                                         </div>
                                     </li>
@@ -173,7 +170,7 @@
                                 <div class="blog-wrapper clearfix">
                                     <div class="blog-meta">
                                         <small><a href="#">Tips & Tricks</a></small>
-                                        <h3>Reflection0101</h3>
+                                        <h3>Reflection01</h3>
                                         <ul class="list-inline">
                                             <li>6 hours ago</li>
                                             <li><span>written by</span> <a href="#">Paul Anthony Ragsac</a></li>
