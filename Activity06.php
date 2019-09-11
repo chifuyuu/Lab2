@@ -202,6 +202,7 @@ Anon </strong>
 </br></br>
 <strong>Task/Bio </strong>- Just love to surf the web all time for funny and cute things  
 </br></br>
+</br></br>
 
  
 
@@ -213,7 +214,7 @@ Anon </strong>
 </br></br>
 <strong>Task/Bio </strong>- Very concern to animals and always give advices to other people. Donating and being a volunteer is what she do in her free time. 
   </br></br>
-
+</br></br>
  
 
 <strong>Shell </strong> 
@@ -222,8 +223,7 @@ Anon </strong>
 </br></br>
 <strong>Job title </strong>– Organization head and manager 
 </br></br>
-<strong>Task/Bio </strong>- Putting all his effort and` money to give care to animals  
-</br></br>				    </p>
+<strong>Task/Bio </strong>- Putting all his effort and` money to give care to animals  				    </p>
 
                                         <hr class="invis">
                             <div class="content boxed-comment clearfix">
