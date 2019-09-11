@@ -176,7 +176,7 @@
                                 <div class="blog-wrapper clearfix">
                                     <div class="blog-meta">
                                         <small><a href="#">Tips & Tricks</a></small>
-                                        <h3>Reflection01</h3>
+                                        <h3>Reflection0101</h3>
                                         <ul class="list-inline">
                                             <li>6 hours ago</li>
                                             <li><span>written by</span> <a href="#">Paul Anthony Ragsac</a></li>
@@ -188,27 +188,19 @@
                                     </div><!-- end media -->
 
                                     <div class="blog-desc-big">
-                                        <p class="lead">What I can say is things are great, they've never been better! </p>
-                                        <p>I am Paul Anthony C. Ragsac. I am now 19 years old as of now. I am from Las Piñas City.
+                                        <p class="lead">I think my experience in our first week of USERDES class was a huge success</p>
+                                        <p>because I think everyone in the class are in the same pace which no one is being left behind.
 
 
 
 
 </p></br><strong>
-Seek stories.</strong></br></br>
+<p>
+I also like how the professor approach us to lighten the atmosphere in the class.
+I am not overwhelmed or nervous at all even if I am talking in front of the class and presenting my work.
+The class overall has having a great time in User design class since everyone has the chance to present their work in front and no one is tasked to go there since it’s your choice to either share your ideas in front or not.
 
-I first traveled by myself to Morong, Rizal because I had a special someone to meet and find it quite exciting travelling by myself because you really need to focus on where you are and not to pass over the exact place you want to get off. That day was kind of exhausting in my part but overall it was an experience that I will never forget.</br></br>
- 
-When I started studying in College it was an unexpected adventure for me since there are many things to learn and there are many challenges waiting ahead. The adventure is still on going and as I go along, there are many people I met some stayed and some already left the adventure. For me this adventure is just getting started and I am ready to face my next year in college. Hello 2nd Year!!!</br></br>
-
-“What would I find surprising about how you . . .
-First year was quite alarming for me since I don't have any background in programming and other computer related knowledge which some of my classmates already know. What I did was I studied them on my own and hoping that I will catch up and never left behind in every class I take. Now I am already in 2nd year and the fruit of my hard work paid but it was just getting started.</br></br>
- 
-My summer is a mess. I could not describe it in any fine way since I did not do any good this summer. Well I enjoyed my summer, but it was not a productive summer since I did not learn any new things. What I did? I just played ML and watch Netflix all summer :) 
-</p>
-
-                                        <p></br><strong>Talk about feelings.</br></br></strong> Dig deeper by following up.
-I feel so sleepy most of the time because I can't sleep early, and the class starts at 7:30 in the morning and I need to wake up again early my body can’t comprehend but it is what it is. Well in class I still try to be awake all the time, so I don't miss anything important</p>
+I also like the activities given to us because we really are assigned to think and share our thoughts. Like how we created the activity 3 it was a good way to test how can we create a solution to a problem which is not even yet present in the real world. This way we can improve our critical thinking which we really need in the future or in the workplace. Overall it was fun and knowledgeable at the same time. Hoping next week would even enjoyable than I would expect and of course a lot of activities await.</p>
 
                                         <hr class="invis">
 							<div class="content boxed-comment clearfix">
@@ -235,9 +227,11 @@ I feel so sleepy most of the time because I can't sleep early, and the class sta
                         <div class="sidebar col-md-4">
                             <div class="widget clearfix">
                                 <div class="banner-widget">
-								</br></br></br></br></br></br></br></br>
+					</br></br>
+								<div class="image_image_r">
                                     <img src="https://images.vexels.com/media/users/3/127525/isolated/preview/d79fa485e112044702de7470c8a48fc6-cute-meow-emoji-icon-by-vexels.png" alt="" class="img-responsive img-rounded"><h4><center>Lab2-Ragsac</center></h4>
                                 </div>
+								</div>
                             </div>
 
                             <div class="widget clearfix">
