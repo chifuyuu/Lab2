@@ -188,27 +188,22 @@
                                     </div><!-- end media -->
 
                                     <div class="blog-desc-big">
-                                        <p class="lead">What I can say is things are great, they've never been better! </p>
-                                        <p>I am Paul Anthony C. Ragsac. I am now 19 years old as of now. I am from Las Piñas City.
+                                        <p class="lead">Second Week</p>
+                                        <p>We discussed about the need findings and prototype making.
 
 
 
 
 </p></br><strong>
-Seek stories.</strong></br></br>
-
-I first traveled by myself to Morong, Rizal because I had a special someone to meet and find it quite exciting travelling by myself because you really need to focus on where you are and not to pass over the exact place you want to get off. That day was kind of exhausting in my part but overall it was an experience that I will never forget.</br></br>
- 
-When I started studying in College it was an unexpected adventure for me since there are many things to learn and there are many challenges waiting ahead. The adventure is still on going and as I go along, there are many people I met some stayed and some already left the adventure. For me this adventure is just getting started and I am ready to face my next year in college. Hello 2nd Year!!!</br></br>
-
-“What would I find surprising about how you . . .
-First year was quite alarming for me since I don't have any background in programming and other computer related knowledge which some of my classmates already know. What I did was I studied them on my own and hoping that I will catch up and never left behind in every class I take. Now I am already in 2nd year and the fruit of my hard work paid but it was just getting started.</br></br>
- 
-My summer is a mess. I could not describe it in any fine way since I did not do any good this summer. Well I enjoyed my summer, but it was not a productive summer since I did not learn any new things. What I did? I just played ML and watch Netflix all summer :) 
-</p>
-
-                                        <p></br><strong>Talk about feelings.</br></br></strong> Dig deeper by following up.
-I feel so sleepy most of the time because I can't sleep early, and the class starts at 7:30 in the morning and I need to wake up again early my body can’t comprehend but it is what it is. Well in class I still try to be awake all the time, so I don't miss anything important</p>
+<p>
+For our second week, we discussed about the need findings and prototype making.</br></br>
+Since we are already tackling this part of our lecture, I realized that I need to improve my skills in design as well as my creativity in composing it.
+In short this topic made me thought that we should not focus on the problem itself but think of simple ways how we will conquer the problem then combine that simple ideas and that would be the answer.</br></br>
+We don't have shortcuts in everything. We might have done it lightly but not completely, So for us, Future programmers and developers we should always try to make out of all different situations.
+We need to learn how to create solutions to our problems.
+In paper prototyping, we had an activity about the interface of our web/app.
+For me I felt a little excited about the topic and the ideas that my co team mate shared with the group.
+The idea of the project was just came out but we and my group mates know that our project is a good place to start to.</p>
 
                                         <hr class="invis">
 							<div class="content boxed-comment clearfix">
@@ -235,9 +230,11 @@ I feel so sleepy most of the time because I can't sleep early, and the class sta
                         <div class="sidebar col-md-4">
                             <div class="widget clearfix">
                                 <div class="banner-widget">
-								</br></br></br></br></br></br></br></br>
+					</br></br>
+								<div class="image_image_r">
                                     <img src="https://images.vexels.com/media/users/3/127525/isolated/preview/d79fa485e112044702de7470c8a48fc6-cute-meow-emoji-icon-by-vexels.png" alt="" class="img-responsive img-rounded"><h4><center>Lab2-Ragsac</center></h4>
                                 </div>
+								</div>
                             </div>
 
                             <div class="widget clearfix">
