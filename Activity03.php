@@ -187,15 +187,11 @@
                                         <img src="https://scontent.fcrk1-1.fna.fbcdn.net/v/t31.0-8/p960x960/15994835_885984614870492_6893341064443369026_o.jpg?_nc_cat=108&_nc_oc=AQlwQ_Uw71ilL02S7SBWqxfPT-Pqvdu4cXoVRXOn5tvQB1QZlykTTCKrhUQtXEo0Jlk&_nc_ht=scontent.fcrk1-1.fna&oh=d8b6c2bf6516ee9f5c34ac57c9e54119&oe=5DFFA447" alt="" class="img-responsive img-rounded">
                                     </div><!-- end media -->
 
-                                    <div class="blog-desc-big">
-                                        <p class="lead">Tell Me About Your Favorite Application</p>
-                                        <p>We all have our own favorite app/s.
-
-
-
-
-</p></br><strong>
-So far in the previous topics we had, need finding is pretty much how it sounds;</strong></br></br>
+                                   <div class="blog-desc-big">
+                                        <p class="lead">Research and Need Findings</p>
+                                        <p>Making our app.</p></br>
+					
+<strong>So far in the previous topics we had, need finding is pretty much how it sounds;</strong></br></br>
 finding a need that you will solve using your innovative strategies. This involves a lot of group work, group design and functionalities that maybe a solution or to identify the problem you are dealing with. </br></br>
  
  
