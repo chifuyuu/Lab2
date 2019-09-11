@@ -232,7 +232,7 @@ The class overall has having a great time in User design class since everyone ha
                                     <div class="media">
                                         <img src="upload/blog_small_01.jpg" alt="" class="img-responsive alignleft img-rounded">
                                         <div class="media-body">
-                                            <h5 class="mt-0"><a href="blog-single.php">Reflection02</a></h5>
+                                            <h5 class="mt-0"><a href="Reflection02.php">Reflection02</a></h5>
                                             <div class="blog-meta">
                                                 <ul class="list-inline">
                                                     <li><span>by</span> <a href="#">Yours Truly</a></li>
@@ -244,7 +244,7 @@ The class overall has having a great time in User design class since everyone ha
                                     <div class="media">
                                         <img src="upload/blog_small_02.jpg" alt="" class="img-responsive alignleft img-rounded">
                                         <div class="media-body">
-                                            <h5 class="mt-0"><a href="blog-single.php">Reflection03</a></h5>
+                                            <h5 class="mt-0"><a href="Reflection03.php">Reflection03</a></h5>
                                             <div class="blog-meta">
                                                 <ul class="list-inline">
                                                     <li>5 days ago</li>
@@ -257,7 +257,7 @@ The class overall has having a great time in User design class since everyone ha
                                     <div class="media">
                                         <img src="upload/blog_small_03.jpg" alt="" class="img-responsive alignleft img-rounded">
                                         <div class="media-body">
-                                            <h5 class="mt-0"><a href="blog-single.php">Reflection04</a></h5>
+                                            <h5 class="mt-0"><a href="Reflection04.php">Reflection04</a></h5>
                                             <div class="blog-meta">
                                                 <ul class="list-inline">
                                                     <li>6 days ago</li>
