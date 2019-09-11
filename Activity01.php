@@ -195,7 +195,7 @@
 
 
 </p></br><strong>
-Seek stories.</strong></br></br>
+<p>Seek stories.</strong></br></br>
 
 I first traveled by myself to Morong, Rizal because I had a special someone to meet and find it quite exciting travelling by myself because you really need to focus on where you are and not to pass over the exact place you want to get off. That day was kind of exhausting in my part but overall it was an experience that I will never forget.</br></br>
  
@@ -235,9 +235,11 @@ I feel so sleepy most of the time because I can't sleep early, and the class sta
                         <div class="sidebar col-md-4">
                             <div class="widget clearfix">
                                 <div class="banner-widget">
-								</br></br></br></br></br></br></br></br>
+					</br></br>
+								<div class="image_image_r">
                                     <img src="https://images.vexels.com/media/users/3/127525/isolated/preview/d79fa485e112044702de7470c8a48fc6-cute-meow-emoji-icon-by-vexels.png" alt="" class="img-responsive img-rounded"><h4><center>Lab2-Ragsac</center></h4>
                                 </div>
+								</div>
                             </div>
 
                             <div class="widget clearfix">
