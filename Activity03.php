@@ -15,22 +15,22 @@
     
     <!-- Site Icons -->
 
-	<!-- Google Fonts -->
+    <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500,700,900" rel="stylesheet"> 
     <link href="https://fonts.googleapis.com/css?family=Droid+Serif:400,400i,700,700i" rel="stylesheet"> 
-	
+    
     <!-- Custom & Default Styles -->
-	<link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/font-awesome.min.css">
     <link rel="stylesheet" href="css/carousel.css">
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="style.css">
 
 
-	<!--[if lt IE 9]>
-		<script src="js/vendor/html5shiv.min.js"></script>
-		<script src="js/vendor/respond.min.js"></script>
-	<![endif]-->
+    <!--[if lt IE 9]>
+        <script src="js/vendor/html5shiv.min.js"></script>
+        <script src="js/vendor/respond.min.js"></script>
+    <![endif]-->
 
 </head>
 <body>  
@@ -39,8 +39,8 @@
     <div id="preloader">
         <img class="preloader" src="images/loader.gif" alt="">
     </div><!-- end loader -->
-    <!-- END LOADER -->	
-	
+    <!-- END LOADER --> 
+    
         <header class="header">
             <div class="topbar clearfix">
                 <div class="container">
@@ -96,14 +96,14 @@
                                                         <li><a href="Activity07.php">Activity07</a></li>
                                                         <li><a href="Activity08.php">Activity08</a></li>
                                                         <li><a href="Activity09.php">Activity09</a></li>
-														<li><a href="Activity10.php">Activity10</a></li>
+                                                        <li><a href="Activity10.php">Activity10</a></li>
                                                     </ul>
                                                 </div>
                                         </div>
                                     </li>
                                 </ul>
                             </li>
-							<li class="dropdown yamm-fw yamm-half"><a href="#" data-toggle="dropdown" class="dropdown-toggle active">Reflections<b class="fa fa-angle-down"></b></a>
+                            <li class="dropdown yamm-fw yamm-half"><a href="#" data-toggle="dropdown" class="dropdown-toggle active">Reflections<b class="fa fa-angle-down"></b></a>
                                 <ul class="dropdown-menu">
                                     <li>
                                         <div class="yamm-content clearfix">
@@ -143,9 +143,9 @@
                                                 </div>
                                         </div>
                                     </li>
-					    
+                        
                         </ul>
-				    <li><a href="page-contact.php">Contact</a></li>
+                    <li><a href="page-contact.php">Contact</a></li>
                     </div>
                 </nav><!-- end navbar -->
             </div><!-- end container -->
@@ -187,49 +187,39 @@
                                         <img src="https://scontent.fcrk1-1.fna.fbcdn.net/v/t31.0-8/p960x960/15994835_885984614870492_6893341064443369026_o.jpg?_nc_cat=108&_nc_oc=AQlwQ_Uw71ilL02S7SBWqxfPT-Pqvdu4cXoVRXOn5tvQB1QZlykTTCKrhUQtXEo0Jlk&_nc_ht=scontent.fcrk1-1.fna&oh=d8b6c2bf6516ee9f5c34ac57c9e54119&oe=5DFFA447" alt="" class="img-responsive img-rounded">
                                     </div><!-- end media -->
 
-                                   <div class="blog-desc-big">
-                                        <p class="lead">Research and Need Findings</p>
-                                        <p>Making our app.</p></br>
-					
-<strong>So far in the previous topics we had, need finding is pretty much how it sounds;</strong></br></br>
-Fnding a need that you will solve using your innovative strategies. This involves a lot of group work, group design and functionalities that maybe a solution or to identify the problem you are dealing with. </br></br>
+                                    <div class="blog-desc-big">
+                                        <p class="lead">Designing a 1000 floor elevators</p>
+                                        <p>All have unique designs here's mine.</p></br>
+
+<strong>First, if the building would be an INSTITUTIONAL BUILDING</strong></br></br>
+<strong>Problem: </strong></br></br>
+(e.g. Hospital), where in many people would always use the elevator daily. Since there would be a lot of people using these elevators, it would be hard for them to go to a floor they wanted to go to since it has a thousand floors and the elevator could also crash or won’t work because of too many people inside. The space should be big enough wherein it could have a space for people to seat while waiting in the elevator.  </br></br>Second, for the medical practitioners and workers in the Hospital. Since, these people need to be prioritized for them to go to a specific part of the hospital.</br></br>
  
- 
-So far in the previous topics we had, need finding is pretty much how it sounds;</br></br>
+<strong>Solution and design</strong></br></br>
+<div class="image_image"><img src="https://i.imgur.com/9K1BpyA.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
 
-So far in the previous topics we had, need finding is pretty much how it sounds;</br></br>
+The interface would look like a keypad in a calculator with an LCD screen which you could just type in the floor number you want and there would also be an add and ‘x’ button. After adding the floor, you would want to go you would likely see the floor of the building on the left LCD screen in light green. 
+</br></br>
+ <div class="image_image"><img src="https://i.imgur.com/9K1BpyA.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
 
-<strong>These are some of the problems we saw:</strong></br></br>
-o many people show great interest in surfing, watching and even posting about their pets but don’t</br> have an isolated platform for them</br>
-</br>
-o not enough help for animal shelters</br>
-</br>
-o pets are mostly bought not adopted</br>
-</br>
-o there is a great number of mistreated animals</br></br>
-</br>
-</strong>To address problems</strong>, we created some goals which our app needs to attain:</br></br>
-o a social media site to be named: PETagram</br>
-</br>
-o build a social platform PETagram specially just for pets where:</br></br></br>
-1. They can build a community and support group for pet owners.</br></br>
+ <strong>Simple Summary:</strong> </br></br>
 
-2. People can share anything about their pets and share ideas for other pet owners.</br></br>
-
-3. People can easily donate to animal shelters and organizations.</br></br>
-
-4. It promotes adopting of pet instead of buying.</br></br>
-
-5. Promotes different animal shelters for them to be notice and receive help.</br></br>
-
-6. It gathers possible volunteers for animal shelters and organization.</br></br>
-
-7. Allows people to buy and sell products for pets.</br></br>
-
+1. 16 button numeric keypad</strong> with an LCD screen above it. Type in the floor number you want to go to, and then press add. 
+</br></br>
+2.<strong>An LCD screen</strong> to the right which shows a visual of the floors the elevator is going. Pressing “add” on the keypad adds your floor to the LCD screen, giving you feedback for your input. Current floor is highlighted in a different colour (light green) and colour(orange) for floors added in the queue. 
+</br></br>
+3.<strong>Open / close buttons</strong> for DOORS. The open button looks bigger intentionally. It’s one of the buttons I think a lot of people will need to look for immediately (for example, when someone yells “wait!!”).  
+</br></br>
+4. <strong>Prv Fl button</strong> for private floors. (For administrators, workers and VIP’s in the building) 
+</br></br>
+5.  <strong>Card Reader</strong> After clicking the Prv Fl it then requires a card wherein the card will already have the floor the person is going to. 
+</br></br>
+6.  <strong>Alarm help buttons</strong> and a slot to insert the maintenance key. 
+</br></br>
 </p>
 
                                         <hr class="invis">
-							<div class="content boxed-comment clearfix">
+                            <div class="content boxed-comment clearfix">
                                 <div class="comments-list">
                                         <div class="tags-widget">   
                                             <ul class="list-inline">
@@ -253,11 +243,11 @@ o build a social platform PETagram specially just for pets where:</br></br></br>
                         <div class="sidebar col-md-4">
                             <div class="widget clearfix">
                                 <div class="banner-widget">
-					</br></br>
-								<div class="image_image_r">
+                    </br></br>
+                                <div class="image_image_r">
                                     <img src="https://images.vexels.com/media/users/3/127525/isolated/preview/d79fa485e112044702de7470c8a48fc6-cute-meow-emoji-icon-by-vexels.png" alt="" class="img-responsive img-rounded"><h4><center>Lab2-Ragsac</center></h4>
                                 </div>
-								</div>
+                                </div>
                             </div>
 
                             <div class="widget clearfix">
@@ -400,6 +390,6 @@ o build a social platform PETagram specially just for pets where:</br></br></br>
     <script src="js/carousel.js"></script>
     <script src="js/animate.js"></script>
     <script src="js/custom.js"></script>
-	<script src="js/videobg.js"></script>
+    <script src="js/videobg.js"></script>
 </body>
 </html>
