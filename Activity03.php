@@ -195,36 +195,36 @@
 finding a need that you will solve using your innovative strategies. This involves a lot of group work, group design and functionalities that maybe a solution or to identify the problem you are dealing with. </br></br>
  
  
-TSo far in the previous topics we had, need finding is pretty much how it sounds;</br></br>
+So far in the previous topics we had, need finding is pretty much how it sounds;</br></br>
 
 So far in the previous topics we had, need finding is pretty much how it sounds;</br></br>
 
 <strong>These are some of the problems we saw:</strong></br></br>
 o many people show great interest in surfing, watching and even posting about their pets but don’t have an isolated platform for them</br>
-
+</br>
 o not enough help for animal shelters</br>
-
+</br>
 o pets are mostly bought not adopted</br>
-
+</br>
 o there is a great number of mistreated animals</br></br>
-
+</br>
 </strong>To address problems</strong>, we created some goals which our app needs to attain:</br>
 o a social media site to be named: PETagram</br>
+</br>
+o build a social platform PETagram specially just for pets where:</br></br></br>
+1. They can build a community and support group for pet owners.</br></br>
 
-o build a social platform PETagram specially just for pets where:</br>
-1. They can build a community and support group for pet owners.</br>
+2. People can share anything about their pets and share ideas for other pet owners.</br></br>
 
-2. People can share anything about their pets and share ideas for other pet owners.</br>
+3. People can easily donate to animal shelters and organizations.</br></br>
 
-3. People can easily donate to animal shelters and organizations.</br>
+4. It promotes adopting of pet instead of buying.</br></br>
 
-4. It promotes adopting of pet instead of buying.</br>
+5. Promotes different animal shelters for them to be notice and receive help.</br></br>
 
-5. Promotes different animal shelters for them to be notice and receive help.</br>
+6. It gathers possible volunteers for animal shelters and organization.</br></br>
 
-6. It gathers possible volunteers for animal shelters and organization.</br>
-
-7. Allows people to buy and sell products for pets.</br>
+7. Allows people to buy and sell products for pets.</br></br>
 
 </p>
 
