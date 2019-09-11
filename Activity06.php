@@ -263,7 +263,7 @@ Task/Bio - Putting all his effort and` money to give care to animals
                                     <div class="media">
                                         <img src="upload/blog_small_01.jpg" alt="" class="img-responsive alignleft img-rounded">
                                         <div class="media-body">
-                                            <h5 class="mt-0"><a href="blog-single.php">Activity06</a></h5>
+                                            <h5 class="mt-0"><a href="blog-single.php">Activity07</a></h5>
                                             <div class="blog-meta">
                                                 <ul class="list-inline">
                                                     <li><span>by</span> <a href="#">Yours Truly</a></li>
@@ -275,7 +275,7 @@ Task/Bio - Putting all his effort and` money to give care to animals
                                     <div class="media">
                                         <img src="upload/blog_small_02.jpg" alt="" class="img-responsive alignleft img-rounded">
                                         <div class="media-body">
-                                            <h5 class="mt-0"><a href="blog-single.php">Activity07</a></h5>
+                                            <h5 class="mt-0"><a href="blog-single.php">Activity08</a></h5>
                                             <div class="blog-meta">
                                                 <ul class="list-inline">
                                                     <li>5 days ago</li>
@@ -288,7 +288,7 @@ Task/Bio - Putting all his effort and` money to give care to animals
                                     <div class="media">
                                         <img src="upload/blog_small_03.jpg" alt="" class="img-responsive alignleft img-rounded">
                                         <div class="media-body">
-                                            <h5 class="mt-0"><a href="blog-single.php">Activity08</a></h5>
+                                            <h5 class="mt-0"><a href="blog-single.php">Activity09</a></h5>
                                             <div class="blog-meta">
                                                 <ul class="list-inline">
                                                     <li>6 days ago</li>
