@@ -156,7 +156,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="tagline-message page-title text-center">
-                            <h3></br></br>Activity02</h3>
+                            <h3></br></br>Activity03</h3>
                             <ul class="breadcrumb">
                                 <li><a href="javascript:void(0)">Ragsac</a></li>
                                 <li class="active">Activity</li>
@@ -176,7 +176,7 @@
                                 <div class="blog-wrapper clearfix">
                                     <div class="blog-meta">
                                         <small><a href="#">Tips & Tricks</a></small>
-                                        <h3>Activity02</h3>
+                                        <h3>Activity03</h3>
                                         <ul class="list-inline">
                                             <li>6 hours ago</li>
                                             <li><span>written by</span> <a href="#">Paul Anthony Ragsac</a></li>
@@ -242,7 +242,7 @@ This a finance app. The next app that I really loved to use is coinmarketcap itâ
                                     <div class="media">
                                         <img src="upload/blog_small_01.jpg" alt="" class="img-responsive alignleft img-rounded">
                                         <div class="media-body">
-                                            <h5 class="mt-0"><a href="blog-single.php">Activity03</a></h5>
+                                            <h5 class="mt-0"><a href="blog-single.php">Activity04</a></h5>
                                             <div class="blog-meta">
                                                 <ul class="list-inline">
                                                     <li><span>by</span> <a href="#">Yours Truly</a></li>
@@ -254,7 +254,7 @@ This a finance app. The next app that I really loved to use is coinmarketcap itâ
                                     <div class="media">
                                         <img src="upload/blog_small_02.jpg" alt="" class="img-responsive alignleft img-rounded">
                                         <div class="media-body">
-                                            <h5 class="mt-0"><a href="blog-single.php">Activity04</a></h5>
+                                            <h5 class="mt-0"><a href="blog-single.php">Activity05</a></h5>
                                             <div class="blog-meta">
                                                 <ul class="list-inline">
                                                     <li>5 days ago</li>
@@ -267,7 +267,7 @@ This a finance app. The next app that I really loved to use is coinmarketcap itâ
                                     <div class="media">
                                         <img src="upload/blog_small_03.jpg" alt="" class="img-responsive alignleft img-rounded">
                                         <div class="media-body">
-                                            <h5 class="mt-0"><a href="blog-single.php">Activity05</a></h5>
+                                            <h5 class="mt-0"><a href="blog-single.php">Activity06</a></h5>
                                             <div class="blog-meta">
                                                 <ul class="list-inline">
                                                     <li>6 days ago</li>
