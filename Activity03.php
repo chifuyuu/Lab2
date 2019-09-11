@@ -192,7 +192,7 @@
                                         <p>Making our app.</p></br>
 					
 <strong>So far in the previous topics we had, need finding is pretty much how it sounds;</strong></br></br>
-finding a need that you will solve using your innovative strategies. This involves a lot of group work, group design and functionalities that maybe a solution or to identify the problem you are dealing with. </br></br>
+Fnding a need that you will solve using your innovative strategies. This involves a lot of group work, group design and functionalities that maybe a solution or to identify the problem you are dealing with. </br></br>
  
  
 So far in the previous topics we had, need finding is pretty much how it sounds;</br></br>
@@ -200,7 +200,7 @@ So far in the previous topics we had, need finding is pretty much how it sounds;
 So far in the previous topics we had, need finding is pretty much how it sounds;</br></br>
 
 <strong>These are some of the problems we saw:</strong></br></br>
-o many people show great interest in surfing, watching and even posting about their pets but don’t have an isolated platform for them</br>
+o many people show great interest in surfing, watching and even posting about their pets but don’t</br> have an isolated platform for them</br>
 </br>
 o not enough help for animal shelters</br>
 </br>
@@ -208,7 +208,7 @@ o pets are mostly bought not adopted</br>
 </br>
 o there is a great number of mistreated animals</br></br>
 </br>
-</strong>To address problems</strong>, we created some goals which our app needs to attain:</br>
+</strong>To address problems</strong>, we created some goals which our app needs to attain:</br></br>
 o a social media site to be named: PETagram</br>
 </br>
 o build a social platform PETagram specially just for pets where:</br></br></br>
