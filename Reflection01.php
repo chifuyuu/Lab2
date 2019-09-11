@@ -188,15 +188,15 @@
                                     </div><!-- end media -->
 
                                     <div class="blog-desc-big">
-                                        <p class="lead">I think my experience in our first week of USERDES class was a huge success</p>
-                                        <p>because I think everyone in the class are in the same pace which no one is being left behind.
+                                        <p class="lead">I think my experience in our first week of USERDES class </p>
+                                        <p>Was a huge successbecause I think everyone in the class are in the same pace which no one is being left behind.
 
 
 
 
 </p></br><strong>
 <p>
-I also like how the professor approach us to lighten the atmosphere in the class.
+I also like how the professor approach us to lighten the atmosphere in the class.</strong>
 I am not overwhelmed or nervous at all even if I am talking in front of the class and presenting my work.
 The class overall has having a great time in User design class since everyone has the chance to present their work in front and no one is tasked to go there since it’s your choice to either share your ideas in front or not.
 
