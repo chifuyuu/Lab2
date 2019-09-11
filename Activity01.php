@@ -244,7 +244,7 @@ I feel so sleepy most of the time because I can't sleep early, and the class sta
                                     <div class="media">
                                         <img src="upload/blog_small_01.jpg" alt="" class="img-responsive alignleft img-rounded">
                                         <div class="media-body">
-                                            <h5 class="mt-0"><a href="blog-single.php">Activity02</a></h5>
+                                            <h5 class="mt-0"><a href="Activity02.php">Activity02</a></h5>
                                             <div class="blog-meta">
                                                 <ul class="list-inline">
                                                     <li><span>by</span> <a href="#">Yours Truly</a></li>
@@ -256,7 +256,7 @@ I feel so sleepy most of the time because I can't sleep early, and the class sta
                                     <div class="media">
                                         <img src="upload/blog_small_02.jpg" alt="" class="img-responsive alignleft img-rounded">
                                         <div class="media-body">
-                                            <h5 class="mt-0"><a href="blog-single.php">Activity03</a></h5>
+                                            <h5 class="mt-0"><a href="Activity03.php">Activity03</a></h5>
                                             <div class="blog-meta">
                                                 <ul class="list-inline">
                                                     <li>5 days ago</li>
@@ -269,7 +269,7 @@ I feel so sleepy most of the time because I can't sleep early, and the class sta
                                     <div class="media">
                                         <img src="upload/blog_small_03.jpg" alt="" class="img-responsive alignleft img-rounded">
                                         <div class="media-body">
-                                            <h5 class="mt-0"><a href="blog-single.php">Activity04</a></h5>
+                                            <h5 class="mt-0"><a href="Activity04.php">Activity04</a></h5>
                                             <div class="blog-meta">
                                                 <ul class="list-inline">
                                                     <li>6 days ago</li>
