@@ -183,32 +183,17 @@
                                         </ul>
                                     </div><!-- end blog-meta -->
 
-                                    <div class="blog-media">
-                                        <img src="https://scontent.fcrk1-1.fna.fbcdn.net/v/t31.0-8/p960x960/15994835_885984614870492_6893341064443369026_o.jpg?_nc_cat=108&_nc_oc=AQlwQ_Uw71ilL02S7SBWqxfPT-Pqvdu4cXoVRXOn5tvQB1QZlykTTCKrhUQtXEo0Jlk&_nc_ht=scontent.fcrk1-1.fna&oh=d8b6c2bf6516ee9f5c34ac57c9e54119&oe=5DFFA447" alt="" class="img-responsive img-rounded">
-                                    </div><!-- end media -->
-
                                     <div class="blog-desc-big">
-                                        <p class="lead">What I can say is things are great, they've never been better! </p>
-                                        <p>I am Paul Anthony C. Ragsac. I am now 19 years old as of now. I am from Las Piñas City.
+                                        <p class="lead">Reflection – First Half of USERDES </p>
+                                        <p>The whole midterms of attending USERDES.
 
 
 
 
-</p></br><strong>
-Seek stories.</strong></br></br>
-
-I first traveled by myself to Morong, Rizal because I had a special someone to meet and find it quite exciting travelling by myself because you really need to focus on where you are and not to pass over the exact place you want to get off. That day was kind of exhausting in my part but overall it was an experience that I will never forget.</br></br>
- 
-When I started studying in College it was an unexpected adventure for me since there are many things to learn and there are many challenges waiting ahead. The adventure is still on going and as I go along, there are many people I met some stayed and some already left the adventure. For me this adventure is just getting started and I am ready to face my next year in college. Hello 2nd Year!!!</br></br>
-
-“What would I find surprising about how you . . .
-First year was quite alarming for me since I don't have any background in programming and other computer related knowledge which some of my classmates already know. What I did was I studied them on my own and hoping that I will catch up and never left behind in every class I take. Now I am already in 2nd year and the fruit of my hard work paid but it was just getting started.</br></br>
- 
-My summer is a mess. I could not describe it in any fine way since I did not do any good this summer. Well I enjoyed my summer, but it was not a productive summer since I did not learn any new things. What I did? I just played ML and watch Netflix all summer :) 
-</p>
-
-                                        <p></br><strong>Talk about feelings.</br></br></strong> Dig deeper by following up.
-I feel so sleepy most of the time because I can't sleep early, and the class starts at 7:30 in the morning and I need to wake up again early my body can’t comprehend but it is what it is. Well in class I still try to be awake all the time, so I don't miss anything important</p>
+</p></br>
+<p>The whole midterms of attending USERDES class was challenging but also fun. Since, there has been a lot of things going it really needs to put some effort and in the end of the day it was exciting to learn new. The subject gave me insights to what is designing really is. On how to really design and not only that but also to be able to share this among to your groups and classmates. </br></br>
+				The first lab activity that was given to us was quite difficult for me since I don’t have any idea on creating websites at all and how I design it. So, what I did was I created it using the tools I found in the internet and made something that I think was pleasing to see. Then, that’s it I created my first website or webpage I still don’t know what to call it. I have learned a lot of things about designing in the past couple of weeks, what tools to use and website links that is helpful for us to be able to interact with each other. </br></br>
+			My expectations for the finals I think would be much more complicated stuffs so I can go out to my safe zone and discover new things along the way :). </p>
 
                                         <hr class="invis">
 							<div class="content boxed-comment clearfix">
@@ -235,54 +220,13 @@ I feel so sleepy most of the time because I can't sleep early, and the class sta
                         <div class="sidebar col-md-4">
                             <div class="widget clearfix">
                                 <div class="banner-widget">
-								</br></br></br></br></br></br></br></br>
+					</br></br>
+								<div class="image_image_r">
                                     <img src="https://images.vexels.com/media/users/3/127525/isolated/preview/d79fa485e112044702de7470c8a48fc6-cute-meow-emoji-icon-by-vexels.png" alt="" class="img-responsive img-rounded"><h4><center>Lab2-Ragsac</center></h4>
                                 </div>
+								</div>
                             </div>
 
-                            <div class="widget clearfix">
-                                <h3 class="widget-title">Up Next</h3>
-                                <div class="post-widget">
-                                    <div class="media">
-                                        <img src="upload/blog_small_01.jpg" alt="" class="img-responsive alignleft img-rounded">
-                                        <div class="media-body">
-                                            <h5 class="mt-0"><a href="blog-single.php">Reflection07</a></h5>
-                                            <div class="blog-meta">
-                                                <ul class="list-inline">
-                                                    <li><span>by</span> <a href="#">Yours Truly</a></li>
-                                                </ul>
-                                            </div><!-- end blog-meta -->
-                                        </div>
-                                    </div>
-
-                                    <div class="media">
-                                        <img src="upload/blog_small_02.jpg" alt="" class="img-responsive alignleft img-rounded">
-                                        <div class="media-body">
-                                            <h5 class="mt-0"><a href="blog-single.php">Reflection08</a></h5>
-                                            <div class="blog-meta">
-                                                <ul class="list-inline">
-                                                    <li>5 days ago</li>
-                                                    <li><span>by</span> <a href="#">Yours Truly</a></li>
-                                                </ul>
-                                            </div><!-- end blog-meta -->
-                                        </div>
-                                    </div>
-
-                                    <div class="media">
-                                        <img src="upload/blog_small_03.jpg" alt="" class="img-responsive alignleft img-rounded">
-                                        <div class="media-body">
-                                            <h5 class="mt-0"><a href="blog-single.php">Activity01</a></h5>
-                                            <div class="blog-meta">
-                                                <ul class="list-inline">
-                                                    <li>6 days ago</li>
-                                                    <li><span>by</span> <a href="#">Yours Truly</a></li>
-                                                </ul>
-                                            </div><!-- end blog-meta -->
-                                        </div>
-                                    </div>
-                                </div><!-- end post-widget -->
-                            </div><!-- end widget -->
-                        </div><!-- end sidebar -->
                     </div><!-- end row -->
                 </div><!-- end boxed -->
             </div><!-- end container -->
