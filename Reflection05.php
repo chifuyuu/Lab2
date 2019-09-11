@@ -95,8 +95,6 @@
                                                         <li><a href="Activity06.php">Activity06</a></li>
                                                         <li><a href="Activity07.php">Activity07</a></li>
                                                         <li><a href="Activity08.php">Activity08</a></li>
-                                                        <li><a href="Activity09.php">Activity09</a></li>
-														<li><a href="Activity10.php">Activity10</a></li>
                                                     </ul>
                                                 </div>
                                         </div>
