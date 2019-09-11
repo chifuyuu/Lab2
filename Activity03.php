@@ -196,11 +196,11 @@
 (e.g. Hospital), where in many people would always use the elevator daily. Since there would be a lot of people using these elevators, it would be hard for them to go to a floor they wanted to go to since it has a thousand floors and the elevator could also crash or won’t work because of too many people inside. The space should be big enough wherein it could have a space for people to seat while waiting in the elevator.  </br></br>Second, for the medical practitioners and workers in the Hospital. Since, these people need to be prioritized for them to go to a specific part of the hospital.</br></br>
  
 <strong>Solution and design</strong></br></br>
-<div class="image_image"><img src="https://i.imgur.com/9K1BpyA.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
+<div class="image_image"><img src="https://i.imgur.com/PDaw0mk.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
 
 The interface would look like a keypad in a calculator with an LCD screen which you could just type in the floor number you want and there would also be an add and ‘x’ button. After adding the floor, you would want to go you would likely see the floor of the building on the left LCD screen in light green. 
 </br></br>
- <div class="image_image"><img src="https://i.imgur.com/9K1BpyA.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
+ <div class="image_image"><img src="https://i.imgur.com/KUl8451.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
 
  <strong>Simple Summary:</strong> </br></br>
 
