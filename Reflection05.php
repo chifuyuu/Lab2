@@ -225,49 +225,6 @@
 								</div>
                             </div>
 
-                            <div class="widget clearfix">
-                                <h3 class="widget-title">Up Next</h3>
-                                <div class="post-widget">
-                                    <div class="media">
-                                        <img src="upload/blog_small_01.jpg" alt="" class="img-responsive alignleft img-rounded">
-                                        <div class="media-body">
-                                            <h5 class="mt-0"><a href="blog-single.php">Reflection05</a></h5>
-                                            <div class="blog-meta">
-                                                <ul class="list-inline">
-                                                    <li><span>by</span> <a href="#">Yours Truly</a></li>
-                                                </ul>
-                                            </div><!-- end blog-meta -->
-                                        </div>
-                                    </div>
-
-                                    <div class="media">
-                                        <img src="upload/blog_small_02.jpg" alt="" class="img-responsive alignleft img-rounded">
-                                        <div class="media-body">
-                                            <h5 class="mt-0"><a href="blog-single.php">Reflection06</a></h5>
-                                            <div class="blog-meta">
-                                                <ul class="list-inline">
-                                                    <li>5 days ago</li>
-                                                    <li><span>by</span> <a href="#">Yours Truly</a></li>
-                                                </ul>
-                                            </div><!-- end blog-meta -->
-                                        </div>
-                                    </div>
-
-                                    <div class="media">
-                                        <img src="upload/blog_small_03.jpg" alt="" class="img-responsive alignleft img-rounded">
-                                        <div class="media-body">
-                                            <h5 class="mt-0"><a href="blog-single.php">Reflection07</a></h5>
-                                            <div class="blog-meta">
-                                                <ul class="list-inline">
-                                                    <li>6 days ago</li>
-                                                    <li><span>by</span> <a href="#">Yours Truly</a></li>
-                                                </ul>
-                                            </div><!-- end blog-meta -->
-                                        </div>
-                                    </div>
-                                </div><!-- end post-widget -->
-                            </div><!-- end widget -->
-                        </div><!-- end sidebar -->
                     </div><!-- end row -->
                 </div><!-- end boxed -->
             </div><!-- end container -->
