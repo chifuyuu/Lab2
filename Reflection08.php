@@ -87,15 +87,15 @@
                                                 <div class="col-md-6 col-sm-6">
                                                     <h4>Activities</h4>
                                                     <ul>
-                                                        <li><a href="Activity01.php">Activity01</a></li>
-                                                        <li><a href="Activity02.php">Activity02</a></li>
-                                                        <li><a href="Activity03.php">Activity03</a></li>
-                                                        <li><a href="Activity04.php">Activity04</a></li>
-                                                        <li><a href="Activity05.php">Activity05</a></li>
-                                                        <li><a href="Activity06.php">Activity06</a></li>
-                                                        <li><a href="Activity07.php">Activity07</a></li>
-                                                        <li><a href="Activity08.php">Activity08</a></li>
-                                                        <li><a href="Activity09.php">Activity09</a></li>
+                                                        <li><a href="Activity01.php">Activity01 - A1: Introduction & Accounts Creation</a></li>
+                                                        <li><a href="Activity02.php">Activity02 - A2: Tell Me About Your Favorite Application</a></li>
+                                                        <li><a href="Activity03.php">Activity03 - A3: How would you design an interface for a 1000 floor elevator?</a></li>
+                                                        <li><a href="Activity04.php">Activity04 - A4: Need Finding</a></li>
+                                                        <li><a href="Activity05.php">Activity05 - A5: Prototype - Registration and Login Forms</a></li>
+                                                        <li><a href="Activity06.php">Activity06 - A6: Persona</a></li>
+                                                        <li><a href="Activity07.php">Activity07 - A7 : Information Design</a></li>
+                                                        <li><a href="Activity08.php">Activity08 - A8: Grid layout Design</a></li>
+                                                        <li><a href="Activity09.php">Activity09 - A9: 12-Column Grid Design</a></li>
 														<li><a href="Activity10.php">Activity10</a></li>
                                                     </ul>
                                                 </div>
@@ -135,10 +135,12 @@
                                                 <div class="col-md-6 col-sm-6">
                                                     <h4>Learnings</h4>
                                                     <ul>
-                                                        <li><a href="#">Learning01</a></li>
-                                                        <li><a href="#">Learning02</a></li>
-                                                        <li><a href="#">Learning03</a></li>
-                                                        <li><a href="#">Learning04</a></li>
+                                                        <li><a href="Learning01.php">Learning01</a></li>
+                                                        <li><a href="Learning02.php">Learning02</a></li>
+                                                        <li><a href="Learning03.php">Learning03</a></li>
+                                                        <li><a href="Learning04.php">Learning04</a></li>
+							<li><a href="Learning05.php">Learning05</a></li>
+                                                        <li><a href="Learning06.php">Learning06</a></li>
                                                     </ul>
                                                 </div>
                                         </div>
