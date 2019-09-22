@@ -158,7 +158,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="tagline-message page-title text-center">
-                            <h3></br></br>Activity08</h3>
+                            <h3></br></br>Learning Page</h3>
                             <ul class="breadcrumb">
                                 <li><a href="javascript:void(0)">Ragsac</a></li>
                                 <li class="active">Activity</li>
@@ -178,7 +178,7 @@
                                 <div class="blog-wrapper clearfix">
                                     <div class="blog-meta">
                                         <small><a href="#">Tips & Tricks</a></small>
-                                        <h3>Activity08</h3>
+                                        <h3>Learning04</h3>
                                         <ul class="list-inline">
                                             <li>6 hours ago</li>
                                             <li><span>written by</span> <a href="#">Paul Anthony Ragsac</a></li>
