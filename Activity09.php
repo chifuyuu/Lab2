@@ -193,7 +193,7 @@
 
 
 </p></br><strong>
- <div class="image_image"><img src="https://i.imgur.com/23K1WMF.png" alt="" class="img-responsive img-rounded"></div><!-- end media -->
+ <div class="image_image"><img src="https://trello-attachments.s3.amazonaws.com/5d1012c7a2cb287ecc82cf3f/1077x367/7363eed0d8e05d52c08ae9a1b6ff8dff/18_A9_Ragsac.png" alt="" class="img-responsive img-rounded"></div><!-- end media -->
 
                                         <hr class="invis">
 							<div class="content boxed-comment clearfix">
