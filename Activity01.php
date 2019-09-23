@@ -86,7 +86,7 @@
                                             <div class="row-fluid">
                                                 <div class="col-md-6 col-sm-6">
                                                     <h4>Activities</h4>
-                                                    <ul>
+                                                    <ul><small>
                                                         <li><a href="Activity01.php">Activity01 - A1: Introduction & Accounts Creation</a></li>
                                                         <li><a href="Activity02.php">Activity02 - A2: Tell Me About Your Favorite Application</a></li>
                                                         <li><a href="Activity03.php">Activity03 - A3: How would you design an interface for a 1000 floor elevator?</a></li>
@@ -97,7 +97,8 @@
                                                         <li><a href="Activity08.php">Activity08 - A8: Grid layout Design</a></li>
                                                         <li><a href="Activity09.php">Activity09 - A9: 12-Column Grid Design</a></li>
 														<li><a href="Activity10.php">Activity10</a></li>
-                                                    </ul>
+                                                    
+							    </small></ul>
                                                 </div>
                                         </div>
                                     </li>
