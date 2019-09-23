@@ -84,12 +84,12 @@
                                     <li>
                                         <div class="yamm-content clearfix">
                                             <div class="row-fluid">
-                                                <div class="col-md-10 col-sm-10">
+                                                <div class="col-md-12 col-sm-12">
                                                     <h4>Activities</h4>
                                                     <ul>
                                                         <li><a href="Activity01.php"><small>Activity01 - A1: Introduction & Accounts Creation</small></a></li>
-                                                        <li><a href="Activity02.php"><small>Activity02 - A2: Tell Me About Your Favorite Application</small></a></li>
-                                                        <li><a href="Activity03.php"><small>Activity03 - A3: How would you design an interface for a 1000 floor elevator?</small></a></li>
+                                                        <li><a href="Activity02.php"><small>Activity02 - A2: Your Favorite Application</small></a></li>
+                                                        <li><a href="Activity03.php"><small>Activity03 - A3: Design an interface for a 1000 floor elevator?</small></a></li>
                                                         <li><a href="Activity04.php"><small>Activity04 - A4: Need Finding</small></a></li>
                                                         <li><a href="Activity05.php"><small>Activity05 - A5: Prototype - Registration and Login Forms</small></a></li>
                                                         <li><a href="Activity06.php"><small>Activity06 - A6: Persona</small></a></li>
