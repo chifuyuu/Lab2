@@ -89,7 +89,7 @@
                                                     <ul>
                                                         <li><a href="Activity01.php"><small>Activity01 - A1: Introduction & Accounts Creation</small></a></li>
                                                         <li><a href="Activity02.php"><small>Activity02 - A2: Your Favorite Application</small></a></li>
-                                                        <li><a href="Activity03.php"><small>Activity03 - A3: Design a 1000 floor elevator?</small></a></li>
+                                                        <li><a href="Activity03.php"><small>Activity03 - A3: Design an interface for a 1000 floor elevator?</small></a></li>
                                                         <li><a href="Activity04.php"><small>Activity04 - A4: Need Finding</small></a></li>
                                                         <li><a href="Activity05.php"><small>Activity05 - A5: Prototype - Registration and Login Forms</small></a></li>
                                                         <li><a href="Activity06.php"><small>Activity06 - A6: Persona</small></a></li>
@@ -187,13 +187,8 @@
                                     </div><!-- end blog-meta -->
 
                                     <div class="blog-desc-big">
-                                        <p class="lead">What I can say is things are great, they've never been better! </p>
-                                        <p>I am Paul Anthony C. Ragsac. I am now 19 years old as of now. I am from Las Piñas City.
-
-
-
-
-</p></br><strong>
+                                        <p class="lead">What I can say is things are great, they've never been better! 
+                                        I am Paul Anthony C. Ragsac. I am now 19 years old as of now. I am from Las Piñas City.</br><strong>
 <p>Seek stories.</strong></br></br>
 
 I first traveled by myself to Morong, Rizal because I had a special someone to meet and find it quite exciting travelling by myself because you really need to focus on where you are and not to pass over the exact place you want to get off. That day was kind of exhausting in my part but overall it was an experience that I will never forget.</br></br>
@@ -206,7 +201,7 @@ First year was quite alarming for me since I don't have any background in progra
 My summer is a mess. I could not describe it in any fine way since I did not do any good this summer. Well I enjoyed my summer, but it was not a productive summer since I did not learn any new things. What I did? I just played ML and watch Netflix all summer :) 
 </p>
 
-                                        <p></br><strong>Talk about feelings.</br></br></strong> Dig deeper by following up.
+                                        </br><strong>Talk about feelings.</br></br></strong> Dig deeper by following up.
 I feel so sleepy most of the time because I can't sleep early, and the class starts at 7:30 in the morning and I need to wake up again early my body can’t comprehend but it is what it is. Well in class I still try to be awake all the time, so I don't miss anything important</p>
 
                                         <hr class="invis">
