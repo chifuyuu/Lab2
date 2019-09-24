@@ -186,13 +186,8 @@
                                         </ul>
                                     </div><!-- end blog-meta -->
 
-                                    <div class="blog-media">
-                                        <img src="" alt="" class="img-responsive img-rounded">
-                                    </div><!-- end media -->
-
-
                                     <div class="blog-desc-big">
-                                        <p class="lead">3 ROW, 3 COLUMN DESIGN</p>
+                                        <p class="lead">4 ROW, 3 (12) COLUMN DESIGN</p>
                                         <p>Designing using Grids</p></br></br>
 </br><strong>The Design</strong></br>
 </br><strong>
