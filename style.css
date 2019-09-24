@@ -1531,6 +1531,13 @@ BLOG
     margin: 25px 0;
 }
 
+.image_imageu img {
+    width: 400px;
+	height: 600px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 
 .image_image img {
     width: 400px;
