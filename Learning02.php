@@ -15,22 +15,22 @@
     
     <!-- Site Icons -->
 
-    <!-- Google Fonts -->
+	<!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500,700,900" rel="stylesheet"> 
     <link href="https://fonts.googleapis.com/css?family=Droid+Serif:400,400i,700,700i" rel="stylesheet"> 
-    
+	
     <!-- Custom & Default Styles -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/font-awesome.min.css">
     <link rel="stylesheet" href="css/carousel.css">
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="style.css">
 
 
-    <!--[if lt IE 9]>
-        <script src="js/vendor/html5shiv.min.js"></script>
-        <script src="js/vendor/respond.min.js"></script>
-    <![endif]-->
+	<!--[if lt IE 9]>
+		<script src="js/vendor/html5shiv.min.js"></script>
+		<script src="js/vendor/respond.min.js"></script>
+	<![endif]-->
 
 </head>
 <body>  
@@ -39,8 +39,8 @@
     <div id="preloader">
         <img class="preloader" src="images/loader.gif" alt="">
     </div><!-- end loader -->
-    <!-- END LOADER --> 
-    
+    <!-- END LOADER -->	
+	
         <header class="header">
             <div class="topbar clearfix">
                 <div class="container">
@@ -84,26 +84,27 @@
                                     <li>
                                         <div class="yamm-content clearfix">
                                             <div class="row-fluid">
-                                                <div class="col-md-6 col-sm-6">
+                                                <div class="col-md-12 col-sm-12">
                                                     <h4>Activities</h4>
                                                     <ul>
-                                                        <li><a href="Activity01.php">Activity01 - A1: Introduction & Accounts Creation</a></li>
-                                                        <li><a href="Activity02.php">Activity02 - A2: Tell Me About Your Favorite Application</a></li>
-                                                        <li><a href="Activity03.php">Activity03 - A3: How would you design an interface for a 1000 floor elevator?</a></li>
-                                                        <li><a href="Activity04.php">Activity04 - A4: Need Finding</a></li>
-                                                        <li><a href="Activity05.php">Activity05 - A5: Prototype - Registration and Login Forms</a></li>
-                                                        <li><a href="Activity06.php">Activity06 - A6: Persona</a></li>
-                                                        <li><a href="Activity07.php">Activity07 - A7 : Information Design</a></li>
-                                                        <li><a href="Activity08.php">Activity08 - A8: Grid layout Design</a></li>
-                                                        <li><a href="Activity09.php">Activity09 - A9: 12-Column Grid Design</a></li>
-                                                        <li><a href="Activity10.php">Activity10</a></li>
-                                                    </ul>
+                                                        <li><a href="Activity01.php"><small>Activity01 - A1: Introduction & Accounts Creation</small></a></li>
+                                                        <li><a href="Activity02.php"><small>Activity02 - A2: Your Favorite Application</small></a></li>
+                                                        <li><a href="Activity03.php"><small>Activity03 - A3: Design an interface for a 1000 floor elevator?</small></a></li>
+                                                        <li><a href="Activity04.php"><small>Activity04 - A4: Need Finding</small></a></li>
+                                                        <li><a href="Activity05.php"><small>Activity05 - A5: Prototype - Registration and Login Forms</small></a></li>
+                                                        <li><a href="Activity06.php"><small>Activity06 - A6: Persona</small></a></li>
+                                                        <li><a href="Activity07.php"><small>Activity07 - A7 : Information Design</small></a></li>
+                                                        <li><a href="Activity08.php"><small>Activity08 - A8: Grid layout Design</small></a></li>
+                                                        <li><a href="Activity09.php"><small>Activity09 - A9: 12-Column Grid Design</small></a></li>
+														<li><a href="Activity10.php"><small>Activity10</small></a></li>
+                                                    
+							    </ul>
                                                 </div>
                                         </div>
                                     </li>
                                 </ul>
                             </li>
-                            <li class="dropdown yamm-fw yamm-half"><a href="#" data-toggle="dropdown" class="dropdown-toggle active">Reflections<b class="fa fa-angle-down"></b></a>
+							<li class="dropdown yamm-fw yamm-half"><a href="#" data-toggle="dropdown" class="dropdown-toggle active">Reflections<b class="fa fa-angle-down"></b></a>
                                 <ul class="dropdown-menu">
                                     <li>
                                         <div class="yamm-content clearfix">
@@ -139,15 +140,15 @@
                                                         <li><a href="Learning02.php">Learning02</a></li>
                                                         <li><a href="Learning03.php">Learning03</a></li>
                                                         <li><a href="Learning04.php">Learning04</a></li>
-                            <li><a href="Learning05.php">Learning05</a></li>
+							<li><a href="Learning05.php">Learning05</a></li>
                                                         <li><a href="Learning06.php">Learning06</a></li>
                                                     </ul>
                                                 </div>
                                         </div>
                                     </li>
-                        
+					    
                         </ul>
-                    <li><a href="page-contact.php">Contact</a></li>
+				    <li><a href="page-contact.php">Contact</a></li>
                     </div>
                 </nav><!-- end navbar -->
             </div><!-- end container -->
