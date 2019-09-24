@@ -195,6 +195,7 @@
 <strong>
 Anon </strong>
 </br></br>
+<div class="image_image"><img src="https://i.imgur.com/ihidRMH.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
 <strong>>>Archetype</strong> - The person who love web surfing 
 </br></br>
 <strong>>>Job title </strong>- student  
@@ -207,6 +208,7 @@ Anon </strong>
 
 <strong>Anima </strong>
 </br></br>
+<div class="image_image"><img src="https://i.imgur.com/Wyl6JKV.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
 <strong>>>Archetype </strong>- The animal lover and a pet owner 
 </br></br>
 <strong>>>Job title </strong>- office worker 
@@ -218,6 +220,7 @@ Anon </strong>
 
 <strong>Shell </strong> 
 </br></br>
+<div class="image_image"><img src="https://i.imgur.com/iTB47pO.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
 <strong>>>Archetype </strong>- The animal concerned person who’s willing to spend time 
 </br></br>
 <strong>>>Job title </strong>– Organization head and manager 
