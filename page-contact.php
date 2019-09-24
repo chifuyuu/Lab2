@@ -84,18 +84,21 @@
                                     <li>
                                         <div class="yamm-content clearfix">
                                             <div class="row-fluid">
-                                                <div class="col-md-6 col-sm-6">
+                                                <div class="col-md-12 col-sm-12">
                                                     <h4>Activities</h4>
                                                     <ul>
-                                                        <li><a href="Activity01.php">Activity01</a></li>
-                                                        <li><a href="Activity02.php">Activity02</a></li>
-                                                        <li><a href="Activity03.php">Activity03</a></li>
-                                                        <li><a href="Activity04.php">Activity04</a></li>
-                                                        <li><a href="Activity05.php">Activity05</a></li>
-                                                        <li><a href="Activity06.php">Activity06</a></li>
-                                                        <li><a href="Activity07.php">Activity07</a></li>
-                                                        <li><a href="Activity08.php">Activity08</a></li>
-							</ul>
+                                                        <li><a href="Activity01.php"><small>Activity01 - A1: Introduction & Accounts Creation</small></a></li>
+                                                        <li><a href="Activity02.php"><small>Activity02 - A2: Your Favorite Application</small></a></li>
+                                                        <li><a href="Activity03.php"><small>Activity03 - A3: Design an interface for a 1000 floor elevator?</small></a></li>
+                                                        <li><a href="Activity04.php"><small>Activity04 - A4: Need Finding</small></a></li>
+                                                        <li><a href="Activity05.php"><small>Activity05 - A5: Prototype - Registration and Login Forms</small></a></li>
+                                                        <li><a href="Activity06.php"><small>Activity06 - A6: Persona</small></a></li>
+                                                        <li><a href="Activity07.php"><small>Activity07 - A7 : Information Design</small></a></li>
+                                                        <li><a href="Activity08.php"><small>Activity08 - A8: Grid layout Design</small></a></li>
+                                                        <li><a href="Activity09.php"><small>Activity09 - A9: 12-Column Grid Design</small></a></li>
+														<li><a href="Activity10.php"><small>Activity10</small></a></li>
+                                                    
+							    </ul>
                                                 </div>
                                         </div>
                                     </li>
@@ -109,12 +112,15 @@
                                                 <div class="col-md-6 col-sm-6">
                                                     <h4>Reflections</h4>
                                                     <ul>
-                                                        <li><a href="Reflection01.php">Reflection01</a></li>
-                                                        <li><a href="Reflection02.php">Reflection02</a></li>
-                                                        <li><a href="Reflection03.php">Reflection03</a></li>
-                                                        <li><a href="Reflection04.php">Reflection04</a></li>
-                                                        <li><a href="Reflection05.php">Reflection05</a></li>
-                                                        <li><a href="Reflection06.php">Reflection06</a></li>
+                                                        <li><a href="#">Reflection01</a></li>
+                                                        <li><a href="#">Reflection02</a></li>
+                                                        <li><a href="#">Reflection03</a></li>
+                                                        <li><a href="#">Reflection04</a></li>
+                                                        <li><a href="#">Reflection05</a></li>
+                                                        <li><a href="#">Reflection06</a></li>
+                                                        <li><a href="#">Reflection07</a></li>
+                                                        <li><a href="#">Reflection08</a></li>
+                                                        <li><a href="#">Reflection09</a></li>
                                                     </ul>
                                                 </div>
                                         </div>
@@ -130,10 +136,12 @@
                                                 <div class="col-md-6 col-sm-6">
                                                     <h4>Learnings</h4>
                                                     <ul>
-                                                        <li><a href="#">Learning01</a></li>
-                                                        <li><a href="#">Learning02</a></li>
-                                                        <li><a href="#">Learning03</a></li>
-                                                        <li><a href="#">Learning04</a></li>
+                                                        <li><a href="Learning01.php">Learning01</a></li>
+                                                        <li><a href="Learning02.php">Learning02</a></li>
+                                                        <li><a href="Learning03.php">Learning03</a></li>
+                                                        <li><a href="Learning04.php">Learning04</a></li>
+							<li><a href="Learning05.php">Learning05</a></li>
+                                                        <li><a href="Learning06.php">Learning06</a></li>
                                                     </ul>
                                                 </div>
                                         </div>
