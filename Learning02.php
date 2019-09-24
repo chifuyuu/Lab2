@@ -188,10 +188,11 @@
 
                                     <div class="blog-desc-big">
                                         <p class="lead">LinkedIn Learning Certificate 2</p></br></br>
+				    <strong>UX Foundations: Multidevice Design</strong></br></br>
 
 <p>
 
-<div class="image_image"><img src="https://i.imgur.com/hBXzmm9.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
+<div class="image_imageu"><img src="https://i.imgur.com/hBXzmm9.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
 
 </p>
 
