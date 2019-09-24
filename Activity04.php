@@ -188,7 +188,8 @@
 
                                    <div class="blog-desc-big">
                                         <p class="lead">Research and Need Findings</p>
-                                        <p>Making our app.</p></br>
+                                        <p>Making our app.</p></br><div class="image_image"><img src="https://i.imgur.com/o0ZhK0G.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
+					
 					
 <strong>So far in the previous topics we had, need finding is pretty much how it sounds;</strong></br></br>
 Fnding a need that you will solve using your innovative strategies. This involves a lot of group work, group design and functionalities that maybe a solution or to identify the problem you are dealing with. </br></br>
