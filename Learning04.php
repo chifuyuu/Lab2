@@ -188,10 +188,11 @@
 
                                     <div class="blog-desc-big">
                                         <p class="lead">LinkedIn Learning Certificate 4</p></br></br>
+				    <strong>User Experience Design for Wearables</strong></br></br>
 
 <p>
 
-<div class="image_image"><img src="https://i.imgur.com/HVhuIbO.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
+<div class="image_imageu"><img src="https://i.imgur.com/HVhuIbO.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
 
 </p>
 
