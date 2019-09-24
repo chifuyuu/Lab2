@@ -188,10 +188,12 @@
 
                                     <div class="blog-desc-big">
                                         <p class="lead">LinkedIn Learning Certificate 5</p></br></br>
+				    <strong>Learning SQL Programming</strong></br></br>
+				    
 
 <p>
 
-<div class="image_image"><img src="https://i.imgur.com/JFmEBmg.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
+<div class="image_imageu"><img src="https://i.imgur.com/JFmEBmg.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
 
 </p>
 
