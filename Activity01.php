@@ -187,7 +187,7 @@
                                     </div><!-- end blog-meta -->
 
                                     <div class="blog-desc-big">
-                                        <p class="lead">What I can say is things are great, they've never been better! </br></br>
+                                        <p class="lead">What I can say is things are great, they've never been better! </p></br></br>
                                         I am Paul Anthony C. Ragsac. I am now 19 years old as of now. I am from Las Piñas City.</br><strong></br>
 Seek stories.</strong></br></br>
 
