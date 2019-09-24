@@ -188,10 +188,11 @@
 
                                     <div class="blog-desc-big">
                                         <p class="lead">LinkedIn Learning Certificate 6</p></br></br>
+				    <strong>Database Foundations: Administration</strong></br></br>
 
 <p>
 
-<div class="image_image"><img src="https://i.imgur.com/iir0xIm.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
+<div class="image_imageu"><img src="https://i.imgur.com/iir0xIm.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
 
 </p>
 
