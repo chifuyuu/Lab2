@@ -159,10 +159,10 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="tagline-message page-title text-center">
-                            <h3></br></br>Activity10</h3>
+                            <h3></br></br>UNDER MAINTENANCE</h3>
                             <ul class="breadcrumb">
                                 <li><a href="javascript:void(0)">Ragsac</a></li>
-                                <li class="active">Activity</li>
+                                <li class="active">MAINTENANCE</li>
                             </ul>
                         </div>
                     </div><!-- end col -->
@@ -179,7 +179,7 @@
                                 <div class="blog-wrapper clearfix">
                                     <div class="blog-meta">
                                         <small><a href="#">Tips & Tricks</a></small>
-                                        <h3>Activity10</h3>
+                                        <h3>UNDER MAINTENANCE</h3>
                                         <ul class="list-inline">
                                             <li>6 hours ago</li>
                                             <li><span>written by</span> <a href="#">Paul Anthony Ragsac</a></li>
