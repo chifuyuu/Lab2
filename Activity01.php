@@ -112,7 +112,7 @@
                                                     <ul>
                                                         <li><a href="Reflection01.php"><small>First Week of USERDES Class</small></a></li>
                                                         <li><a href="Reflection02.php"><small>Need Finding and Paper Prototyping</small></a></li>
-                                                        <li><a href="Reflection03.php"><small>First Web Application using Github and Heroku</small></a></li>
+                                                        <li><a href="Reflection03.php"><small>First Web App using Github and Heroku</small></a></li>
                                                         <li><a href="Reflection04.php"><small>Userinyerface - Worst UI Practice</small></a></li>
                                                         <li><a href="Reflection05.php"><small>Socit Fest</small></a></li>
                                                         <li><a href="Reflection06.php"><small>First Half of USERDES</small></a></li>
