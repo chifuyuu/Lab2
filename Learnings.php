@@ -127,7 +127,7 @@
                                     </li>
                                 </ul>
                             </li>
-				<li><a href="learnings.php">Learnings</a></li>
+				<li><a href="Learnings.php">Learnings</a></li>
 				    <li><a href="page-contact.php">Contact</a></li>
                     </div>
                 </nav><!-- end navbar -->
