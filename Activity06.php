@@ -202,7 +202,7 @@ He is currently studying in HighSchool.
 </br>
 He loves to surf the web all time for funny and cute things.  
 </br></br>
-Situation:</br>
+<strong>Situation:</strong></br></br>
 <p class="text-align">As a student, Anon is very stressed because of his subject Desalgo. Whenever he rest from school, he surf the web for some relaxation and he enjoy seeing posts about animals. However he is annoyed whenever he see some random posts that is unpleasing or brutal. He want to filter this annoying things. So he use petagram if he feel like stressed and annoyed.</p>
 </br></br>
 
@@ -216,7 +216,7 @@ She is currently working as office worker.
 </br>
 She is very concern to animals, donating and being a volunteer is what she do in her free time. 
   </br></br>
-Situation:</br>
+<strong>Situation:</strong></br></br>
 <p class="text-align">Anima is a petlover and petowner. She also consider her pets as her own family and as an office worker she can provide the needs of her own pets and if there is a chance she also give something to other pets in need. Her problem is that helping other pets take too much time because of the limited information, she want to spread her help as wide as she can. With petagram as a platform, she now can surf and search for different shelters and she can also track her own activities.</p>
 </br></br>
  
@@ -228,7 +228,7 @@ The animal concerned person who’s willing to spend time for taking care of ani
 </br>
 He is an organization head and manager. 
 </br>
-He puts all his effort and` money to give care to animals.</br></br>Situation:</br>
+He puts all his effort and` money to give care to animals.</br></br><strong>Situation:</strong></br></br>
 <p class="text-align">Shell has established his own shelter for dogs. Although there are a lot of people helping the shelter, this is not enough as the number of rescued dogs increased and their medicine became expensive. He also have a problem regarding his volunteers since they can't stay for too long. Shell uses a platform called petagram to advertise his shelter, advice people, allow them to adopt dogs and to gather volunteers to help him run the shelter.</p>
 
                                         <hr class="invis">
