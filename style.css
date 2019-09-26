@@ -1658,22 +1658,16 @@ BLOG
 }
 
 .blog-desc-big .indent {
-    font-size: 18px;
-    font-weight: 700;
-    padding: 0 0 15px;
-    margin: 0;
-    color: black;
 	text-indent: 50px;
 }
-.blog-desc-big .indent {
-    font-size: 18px;
-    font-weight: 700;
-    padding: 0 0 15px;
-    margin: 0;
-    color: black;
+.blog-desc-big .indent2 {
+
 	text-indent: 100px;
 }
 
+.blog-desc-big .text-align {
+text-align: justify;
+}
 
 .blog-desc p {
     padding: 0;
