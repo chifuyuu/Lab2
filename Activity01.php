@@ -188,9 +188,10 @@
 
                                     <div class="blog-desc-big">
                                         <p class="lead">What I can say is things are great, they've never been better! </p></br></br>
-				    <div class="image_images"><img src="https://scontent.fcrk1-2.fna.fbcdn.net/v/t1.0-9/29792828_1156636184471999_4257229680844600450_n.jpg?_nc_cat=110&_nc_eui2=AeHJaDlZk_Y4IsANqe3IJJUar_cxOGHWRkOskh4vCE85KEw2ijrxhPDYuyiP_GBO3FJZuT4YBJfLx_iZv1kAbWO3gFJbCxH9WSTsps8dydqyEA&_nc_oc=AQmYdwqBOkwP9t8wqvgj_ORK0nBI18NpxAdz_dy-UtsZkl1QITigJiBPKmHkS0bdqVQ&_nc_ht=scontent.fcrk1-2.fna&oh=bf6d97828597385d368be17a9e63365c&oe=5E2BD64A" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
-                                        I am Paul Anthony C. Ragsac. I am now 19 years old as of now. I am from Las Piñas City.</br><strong></br>
-Seek stories.</strong></br></br>
+				    <div class="image_images"><img src="https://scontent.fcrk1-2.fna.fbcdn.net/v/t1.0-9/29792828_1156636184471999_4257229680844600450_n.jpg?_nc_cat=110&_nc_eui2=AeHJaDlZk_Y4IsANqe3IJJUar_cxOGHWRkOskh4vCE85KEw2ijrxhPDYuyiP_GBO3FJZuT4YBJfLx_iZv1kAbWO3gFJbCxH9WSTsps8dydqyEA&_nc_oc=AQmYdwqBOkwP9t8wqvgj_ORK0nBI18NpxAdz_dy-UtsZkl1QITigJiBPKmHkS0bdqVQ&_nc_ht=scontent.fcrk1-2.fna&oh=bf6d97828597385d368be17a9e63365c&oe=5E2BD64A" alt="" class="img-responsive img-rounded"></div><!-- end media --></br>
+                                        I am Paul Anthony C. Ragsac and, I am now 19 years old as of now. I am from Las Piñas City. </br><strong></br>
+			    I am passionate enough to learn new things aside from programming. </br>I also trying to learn photography, drawing, design & web development.</br> You can also learn a lot from watching videos and doing it by yourself. </br>From simple DIYs to very useful projects. </br>
+	Seek stories.</strong></br></br>
 
 I first traveled by myself to Morong, Rizal because I had a special someone to meet and find it quite exciting travelling by myself because you really need to focus on where you are and not to pass over the exact place you want to get off. That day was kind of exhausting in my part but overall it was an experience that I will never forget.</br></br>
  
