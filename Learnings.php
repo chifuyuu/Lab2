@@ -163,36 +163,36 @@
 
                                     <div class="blog-desc-big">
 					 </br></br></br>
-                                        <p class="lead">Personal Learning Certificate 1</p></br>
+                                        <p class="lead">Personal Learning Certificate 1</p>
 				    </br></br><strong>Microsoft Office Excel Expert</strong></br></br>
 <p>
 <div class="image_imageu"><img src="https://i.imgur.com/ssgIoLy.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
 </p><br></br>
 
-                                        <p class="lead">Personal Learning Certificate 2</p></br>
+                                        <p class="lead">Personal Learning Certificate 2</p>
 				    </br></br><strong>Learning SQL Programming</strong></br></br>
 <p>
 <div class="image_imageu"><img src="https://i.imgur.com/JFmEBmg.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
 </p></br></br>
 
-                                        <p class="lead">Personal Learning Certificate 3</p></br>
+                                        <p class="lead">Personal Learning Certificate 3</p>
 				    </br></br><strong>Database Foundations: Administration</strong></br></br>
 <p>
 <div class="image_imageu"><img src="https://i.imgur.com/iir0xIm.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
 </p></br></br>
 
-                                        <p class="lead">UI/UX Learning Certificate 1</p></br>
+                                        <p class="lead">UI/UX Learning Certificate 1</p>
 				    </br></br><strong>UX Foundations: Multidevice Design</strong></br></br>
 <p>
 <div class="image_imageu"><img src="https://i.imgur.com/hBXzmm9.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
 </p></br></br>
-                                        <p class="lead">UI/UX Learning Certificate 2</p></br>
+                                        <p class="lead">UI/UX Learning Certificate 2</p>
 				    </br></br><strong>User Design for Web Design</strong></br></br>
 <p>
 <div class="image_imageu"><img src="https://i.imgur.com/Fvk2syN.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
 </p></br></br>
 
-                                        <p class="lead">UI/UX Learning Certificate 3</p></br>
+                                        <p class="lead">UI/UX Learning Certificate 3</p>
 				    </br></br><strong>User Experience Design for Wearables</strong></br></br>
 <p>
 <div class="image_imageu"><img src="https://i.imgur.com/HVhuIbO.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
