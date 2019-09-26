@@ -191,16 +191,15 @@
                                         <p>Different Personas in our Project</p></br></br>
 
 <p>
-These are our made up personas who will use our application. They have different characterisitcs, with different problems dealing with Petagram
-<strong>
-Anon </strong>
+These are our made up personas who will use our application. They have different characterisitcs, with different problems dealing with Petagram.
+</br></br><strong>Anon </strong>
 </br></br>
 <div class="image_images"><img src="https://i.imgur.com/ihidRMH.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
-The person who love web surfing 
-</br></br>
-He is a student  
-</br></br>
-He loves to surf the web all time for funny and cute things  
+The person who love web surfing.
+</br>
+He is currently studying in HighSchool.
+</br>
+He loves to surf the web all time for funny and cute things.  
 </br></br>
 </br></br>
 
@@ -209,10 +208,10 @@ He loves to surf the web all time for funny and cute things
 <strong>Anima </strong>
 </br></br>
 <div class="image_images"><img src="https://i.imgur.com/Wyl6JKV.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
-The animal lover and a pet owner 
-</br></br>
-She is a office worker 
-</br></br>
+The animal lover and a pet owner. 
+</br>
+She is currently working as office worker. 
+</br>
 She is very concern to animals and always give advices to other people. Donating and being a volunteer is what she do in her free time. 
   </br></br>
 </br></br>
@@ -221,11 +220,11 @@ She is very concern to animals and always give advices to other people. Donating
 <strong>Shell </strong> 
 </br></br>
 <div class="image_images"><img src="https://i.imgur.com/iTB47pO.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
-The animal concerned person who’s willing to spend time 
-</br></br>
-He is an organization head and manager 
-</br></br>
-He puts all his effort and` money to give care to animals  				    </p>
+The animal concerned person who’s willing to spend time. 
+</br>
+He is an organization head and manager. 
+</br>
+He puts all his effort and` money to give care to animals.  				    </p>
 
                                         <hr class="invis">
                             <div class="content boxed-comment clearfix">
