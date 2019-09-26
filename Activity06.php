@@ -207,7 +207,7 @@ He loves to surf the web all time for funny and cute things.
  
 
 <div class="image_images"><img src="https://i.imgur.com/Wyl6JKV.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
-This is<strong>Anima. </strong></br></br>
+This is <strong>Anima. </strong></br></br>
 The animal lover and a pet owner. 
 </br>
 She is currently working as office worker. 
