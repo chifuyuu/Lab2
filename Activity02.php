@@ -195,11 +195,11 @@
 </p></br><strong>
 I love browsing the internet.</strong></br></br>
  I don’t want to get outdated in news or updates specially the things I wanted to follow. So, for me, the best app in my phone right now is Chrome browser. Chrome offers a simple user’s interface. This means there is not a lot of complicated stuffs when you opened it up. I recommend this app rather than any other browser because it’s a lot faster in the sense that if you really need it just type the word even just a keyword you can find what you search for. I also used this app when finding something that I can make out of. </br></br>
- <div class="image_image"><img src="https://i.imgur.com/ioNHA3A.png" alt="" class="img-responsive img-rounded"></div><!-- end media --><strong>image of Chrome Browser</strong></br></br>
+ <div class="image_image"><img src="https://i.imgur.com/ioNHA3A.png" alt="" class="img-responsive img-rounded"></div><!-- end media --><p class="text-align2"><strong>Image of Chrome Browser</strong></br></br>
  
  
 This a finance app. The next app that I really loved to use is coinmarketcap it’s available in the app store or in the google play store and also in their website www.coinmarketcap.com. Why do I love this app? And what is this app anyway? This app serves like a price tracker for all of the crypto currency that available in the market. It is hard to keep track of the prices of crypto currency because it always updates every minute and unlike the regular foreign exchange market, crypto currency market is much more changing. This application already gives you the average price of the crypto currencies out there from any other exchanges because this currency varies in prices at any other exchanges that listed on the app.</br></br>
- <div class="image_image"><img src="https://i.imgur.com/9K1BpyA.png" alt="" class="img-responsive img-rounded"></div><!-- end media --><strong>image of Coinmarketcap.com</strong></br></br>
+ <div class="image_image"><img src="https://i.imgur.com/9K1BpyA.png" alt="" class="img-responsive img-rounded"></div><!-- end media --><p class="text-align2"><strong>Image of Coinmarketcap.com</strong></br></br>
 </p>
 
                                         <hr class="invis">
