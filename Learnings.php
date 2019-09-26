@@ -137,7 +137,7 @@
                             <h3></br></br>Learning Page</h3>
                             <ul class="breadcrumb">
                                 <li><a href="javascript:void(0)">Ragsac</a></li>
-                                <li class="active">Activity</li>
+                                <li class="active">Learnings</li>
                             </ul>
                         </div>
                     </div><!-- end col -->
