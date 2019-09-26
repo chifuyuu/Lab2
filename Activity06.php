@@ -192,10 +192,11 @@
 
 <p>
 These are our made up personas who will use our application. They have different characterisitcs, with different problems dealing with Petagram.
-</br></br><strong>Anon </strong>
+</br></br>
 </br></br>
 <div class="image_images"><img src="https://i.imgur.com/ihidRMH.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
-The person who love web surfing.
+This is <strong>Anon. </strong></br>
+	The person who love web surfing.
 </br>
 He is currently studying in HighSchool.
 </br>
@@ -205,9 +206,8 @@ He loves to surf the web all time for funny and cute things.
 
  
 
-<strong>Anima </strong>
-</br></br>
 <div class="image_images"><img src="https://i.imgur.com/Wyl6JKV.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
+This is<strong>Anima. </strong>
 The animal lover and a pet owner. 
 </br>
 She is currently working as office worker. 
@@ -217,9 +217,9 @@ She is very concern to animals and always give advices to other people. Donating
 </br></br>
  
 
-<strong>Shell </strong> 
-</br></br>
+
 <div class="image_images"><img src="https://i.imgur.com/iTB47pO.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
+This is <strong>Shell. </strong> </br>
 The animal concerned person who’s willing to spend time. 
 </br>
 He is an organization head and manager. 
