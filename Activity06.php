@@ -208,7 +208,7 @@ He loves to surf the web all time for funny and cute things
 
 <strong>Anima </strong>
 </br></br>
-<div class="image_imageu"><img src="https://i.imgur.com/Wyl6JKV.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
+<div class="image_images"><img src="https://i.imgur.com/Wyl6JKV.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
 The animal lover and a pet owner 
 </br></br>
 She is a office worker 
@@ -220,7 +220,7 @@ She is very concern to animals and always give advices to other people. Donating
 
 <strong>Shell </strong> 
 </br></br>
-<div class="image_imageu"><img src="https://i.imgur.com/iTB47pO.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
+<div class="image_images"><img src="https://i.imgur.com/iTB47pO.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
 The animal concerned person who’s willing to spend time 
 </br></br>
 He is an organization head and manager 
