@@ -205,7 +205,7 @@ To address the stated problems, this project seeks to attain the following:
 <p class="indent">• a social media site to be name: PETagram</br>
 <p class="indent">• build a isolated social platform PETagram where:</br></p>
 <p class="indent2">1. build a community and support group for pet owners.</br>
-<p class="indent2">2. people can share anything about their pets and offer help for those pet owners in need.</br>
+<p class="indent2">2. people share anything about their pets and offer help to those in need.</br>
 <p class="indent2">3. People can easily donate to animal shelters and organizations.</br>
 <p class="indent2">4. It promotes adopting of pet instead of buying.</br>
 <p class="indent2">5. Promotes different animal shelters for them to be notice and receive help.</br>
