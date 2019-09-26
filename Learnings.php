@@ -162,6 +162,7 @@
                                     </div><!-- end blog-meta -->
 
                                     <div class="blog-desc-big">
+					 </br></br></br>
                                         <p class="lead">LinkedIn Learning Certificate 1</p></br></br>
 				    </br></br><strong>Microsoft Office Excel Expert</strong></br></br>
 <p>
