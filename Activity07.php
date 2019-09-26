@@ -192,6 +192,7 @@
 
 <p>
 <strong>1. How can we improve this? </strong> 
+<div class="image_image"><img src="https://usserdes-casabuena.herokuapp.com/images/a7.png" alt="" class="img-responsive img-rounded">    
 </br></br>
 At first glance you could see that everything is mixed up and don’t know what is highlighted in the invitation. So, what I did is I increased the font size of the Important part which is what is it all about. Then, I made smaller font for the succeeding information. 
 </br></br>
@@ -202,7 +203,7 @@ At first glance you could see that everything is mixed up and don’t know what 
 I think the objective of the passage is it is inviting people to come into an event and letting them to know what, when and where the event will be going to happen. </br></br>
 
 <strong>3. Create your own design/version of the passage. </strong> </br></br>
-<div class="image_image"><img src="https://i.imgur.com/LTbPiJI.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
+<div class="image_images"><img src="https://i.imgur.com/LTbPiJI.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
 
 </p>
 
