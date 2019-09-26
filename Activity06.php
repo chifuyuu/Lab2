@@ -191,16 +191,16 @@
                                         <p>Different Personas in our Project</p></br></br>
 
 <p>
-
+These are our made up personas who will use our application. They have different characterisitcs, with different problems dealing with Petagram
 <strong>
 Anon </strong>
 </br></br>
-<div class="image_imageu"><img src="https://i.imgur.com/ihidRMH.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
-<strong>>>Archetype</strong> - The person who love web surfing 
+<div class="image_images"><img src="https://i.imgur.com/ihidRMH.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
+The person who love web surfing 
 </br></br>
-<strong>>>Job title </strong>- student  
+He is a student  
 </br></br>
-<strong>>>Task/Bio </strong>- Just love to surf the web all time for funny and cute things  
+He loves to surf the web all time for funny and cute things  
 </br></br>
 </br></br>
 
@@ -209,11 +209,11 @@ Anon </strong>
 <strong>Anima </strong>
 </br></br>
 <div class="image_imageu"><img src="https://i.imgur.com/Wyl6JKV.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
-<strong>>>Archetype </strong>- The animal lover and a pet owner 
+The animal lover and a pet owner 
 </br></br>
-<strong>>>Job title </strong>- office worker 
+She is a office worker 
 </br></br>
-<strong>>>Task/Bio </strong>- Very concern to animals and always give advices to other people. Donating and being a volunteer is what she do in her free time. 
+She is very concern to animals and always give advices to other people. Donating and being a volunteer is what she do in her free time. 
   </br></br>
 </br></br>
  
@@ -221,11 +221,11 @@ Anon </strong>
 <strong>Shell </strong> 
 </br></br>
 <div class="image_imageu"><img src="https://i.imgur.com/iTB47pO.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
-<strong>>>Archetype </strong>- The animal concerned person who’s willing to spend time 
+The animal concerned person who’s willing to spend time 
 </br></br>
-<strong>>>Job title </strong>– Organization head and manager 
+He is an organization head and manager 
 </br></br>
-<strong>>>Task/Bio </strong>- Putting all his effort and` money to give care to animals  				    </p>
+He puts all his effort and` money to give care to animals  				    </p>
 
                                         <hr class="invis">
                             <div class="content boxed-comment clearfix">
