@@ -195,7 +195,7 @@ These are our made up personas who will use our application. They have different
 </br></br>
 </br></br>
 <div class="image_images"><img src="https://i.imgur.com/ihidRMH.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
-This is <strong>Anon. </strong></br>
+This is <strong>Anon. </strong></br></br>
 	The person who love web surfing.
 </br>
 He is currently studying in HighSchool.
@@ -207,7 +207,7 @@ He loves to surf the web all time for funny and cute things.
  
 
 <div class="image_images"><img src="https://i.imgur.com/Wyl6JKV.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
-This is<strong>Anima. </strong>
+This is<strong>Anima. </strong></br></br>
 The animal lover and a pet owner. 
 </br>
 She is currently working as office worker. 
@@ -219,8 +219,8 @@ She is very concern to animals and always give advices to other people. Donating
 
 
 <div class="image_images"><img src="https://i.imgur.com/iTB47pO.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
-This is <strong>Shell. </strong> </br>
-The animal concerned person who’s willing to spend time. 
+This is <strong>Shell. </strong> </br></br>
+The animal concerned person who’s willing to spend time for taking care of animals. 
 </br>
 He is an organization head and manager. 
 </br>
