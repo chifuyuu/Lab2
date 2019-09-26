@@ -189,19 +189,19 @@
                                    <div class="blog-desc-big">
                                         <p class="lead">Research and Need Findings</p>
                                         <p>Making our app.</p></br>				
-<strong>PROBLEM:</strong>
-The following problems were observed and became the basis of the project, this includes:
+<strong>PROBLEM:</strong></br>
+The following problems were observed and became the basis of the project, this includes:</br></br>
 <p class="indent">• Lack of awareness that there is a great number of mistreated animals</br>
-<p class="indent">• people show a great interest in surfing,watching and posting about pets but don't have a isolatedplatform for them.</br>
+<p class="indent">• people don't have a isolated platform for pets.</br>
 <p class="indent">• insufficient support for animal shelters.</br>
 <p class="indent">• pets are mostly bought not adopted.</br></p>
-<strong>FOCUS:</strong>
-The proposed project mainly focuses on the following:
+<strong>FOCUS:</strong></br>
+The proposed project mainly focuses on the following:</br></br>
 <p class="indent">• Advocacy for animal rights.
 <p class="indent">• watching and surfing animals are therapeutic in some ways.</br>
 <p class="indent">• The therepeutic way of waching and surfing animal posts.</br></br></p>
-<strong>SOLUTION:</strong>
-To address the stated problems, this project seeks to attain the following:
+<strong>SOLUTION:</strong></br>
+To address the stated problems, this project seeks to attain the following:</br></br>
 <p class="indent">• a social media site to be name: PETagram</br>
 <p class="indent">• build a isolated social platform PETagram where:</br></p>
 <p class="indent2">1. build a community and support group for pet owners.</br>
