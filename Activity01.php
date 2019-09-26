@@ -188,7 +188,7 @@
 
                                     <div class="blog-desc-big">
                                         <p class="lead">What I can say is things are great, they've never been better! </p></br></br>
-				    <div class="image_imageu"><img src="https://scontent.fcrk1-2.fna.fbcdn.net/v/t1.0-9/29792828_1156636184471999_4257229680844600450_n.jpg?_nc_cat=110&_nc_eui2=AeHJaDlZk_Y4IsANqe3IJJUar_cxOGHWRkOskh4vCE85KEw2ijrxhPDYuyiP_GBO3FJZuT4YBJfLx_iZv1kAbWO3gFJbCxH9WSTsps8dydqyEA&_nc_oc=AQmYdwqBOkwP9t8wqvgj_ORK0nBI18NpxAdz_dy-UtsZkl1QITigJiBPKmHkS0bdqVQ&_nc_ht=scontent.fcrk1-2.fna&oh=bf6d97828597385d368be17a9e63365c&oe=5E2BD64A" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
+				    <div class="image_images"><img src="https://scontent.fcrk1-2.fna.fbcdn.net/v/t1.0-9/29792828_1156636184471999_4257229680844600450_n.jpg?_nc_cat=110&_nc_eui2=AeHJaDlZk_Y4IsANqe3IJJUar_cxOGHWRkOskh4vCE85KEw2ijrxhPDYuyiP_GBO3FJZuT4YBJfLx_iZv1kAbWO3gFJbCxH9WSTsps8dydqyEA&_nc_oc=AQmYdwqBOkwP9t8wqvgj_ORK0nBI18NpxAdz_dy-UtsZkl1QITigJiBPKmHkS0bdqVQ&_nc_ht=scontent.fcrk1-2.fna&oh=bf6d97828597385d368be17a9e63365c&oe=5E2BD64A" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
                                         I am Paul Anthony C. Ragsac. I am now 19 years old as of now. I am from Las Piñas City.</br><strong></br>
 Seek stories.</strong></br></br>
 
