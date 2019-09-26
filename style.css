@@ -1658,11 +1658,10 @@ BLOG
 }
 
 .blog-desc-big .indent {
-	text-indent: 50px;
+text-indent: 50px;
 }
 .blog-desc-big .indent2 {
-
-	text-indent: 100px;
+text-indent: 100px;
 }
 
 .blog-desc-big .text-align {
