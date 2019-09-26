@@ -179,7 +179,7 @@
                                 <div class="blog-wrapper clearfix">
                                     <div class="blog-meta">
                                         <small><a href="#">Tips & Tricks</a></small>
-                                        <h3>Learning 01</h3>
+                                        <h3>Welcome to my Linkedin Learning Page</h3>
                                         <ul class="list-inline">
                                             <li>6 hours ago</li>
                                             <li><span>written by</span> <a href="#">Paul Anthony Ragsac</a></li>
@@ -189,12 +189,37 @@
                                     <div class="blog-desc-big">
                                         <p class="lead">LinkedIn Learning Certificate 1</p></br></br>
 				    </br></br><strong>Microsoft Office Excel Expert</strong></br></br>
-
 <p>
-
 <div class="image_imageu"><img src="https://i.imgur.com/ssgIoLy.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
+</p><br></br>
+                                        <p class="lead">LinkedIn Learning Certificate 2</p></br></br>
+				    </br></br><strong>UX Foundations: Multidevice Design</strong></br></br>
+<p>
+<div class="image_imageu"><img src="https://i.imgur.com/hBXzmm9.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
+</p>br></br>
+                                        <p class="lead">LinkedIn Learning Certificate 3</p></br></br>
+				    </br></br><strong>User Design for Web Design</strong></br></br>
+<p>
+<div class="image_imageu"><img src="https://i.imgur.com/Fvk2syN.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
+</p>br></br>
 
-</p>
+                                        <p class="lead">LinkedIn Learning Certificate 4</p></br></br>
+				    </br></br><strong>User Experience Design for Wearables</strong></br></br>
+<p>
+<div class="image_imageu"><img src="https://i.imgur.com/HVhuIbO.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
+</p>br></br>
+
+                                        <p class="lead">LinkedIn Learning Certificate 5</p></br></br>
+				    </br></br><strong>Learning SQL Programming</strong></br></br>
+<p>
+<div class="image_imageu"><img src="https://i.imgur.com/JFmEBmg.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
+</p>br></br>
+
+                                        <p class="lead">LinkedIn Learning Certificate 6</p></br></br>
+				    </br></br><strong>Database Foundations: Administration</strong></br></br>
+<p>
+<div class="image_imageu"><img src="https://i.imgur.com/iir0xIm.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
+</p>br></br>
 
                                         <hr class="invis">
                             <div class="content boxed-comment clearfix">
