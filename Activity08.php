@@ -192,17 +192,17 @@
 
 <p>
 <p class="text-align">The following grid designs are the representation on how text and images should be plot in the website in a 3x4 grid. The design is based on my idea on how I want text and images should be placed in a webpage. Images is was symbolize through the use of dark colored boxes and light colored boxes for the the text area.</p></br></br>
-<div class="image_image"><img src="https://i.imgur.com/Cmgc0RL.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
-<p class="text-align2"><strong><small>3x4 A PART 1</small></strong>
+<div class="image_image"><img src="https://i.imgur.com/Cmgc0RL.png" alt="" class="img-responsive img-rounded"></div><!-- end media -->
+<p class="text-align2"><strong><small>3x4 A PART 1</small></strong></br></br>
 
-<div class="image_image"><img src="https://i.imgur.com/Xqmbip3.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
-<p class="text-align2"><strong><small>3x4 A PART 1</small></strong>
+<div class="image_image"><img src="https://i.imgur.com/Xqmbip3.png" alt="" class="img-responsive img-rounded"></div><!-- end media -->
+<p class="text-align2"><strong><small>3x4 A PART 1</small></strong></br></br>
 
-<div class="image_image"><img src="https://i.imgur.com/HDnLVbi.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
-<p class="text-align2"><strong><small>3x4 A PART 2</small></strong>
+<div class="image_image"><img src="https://i.imgur.com/HDnLVbi.png" alt="" class="img-responsive img-rounded"></div><!-- end media -->
+<p class="text-align2"><strong><small>3x4 A PART 2</small></strong></br></br>
 
-<div class="image_image"><img src="https://i.imgur.com/uG3HPTD.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
-<p class="text-align2"><strong><small>3x4 A PART 2</small></strong>
+<div class="image_image"><img src="https://i.imgur.com/uG3HPTD.png" alt="" class="img-responsive img-rounded"></div><!-- end media -->
+<p class="text-align2"><strong><small>3x4 A PART 2</small></strong></br></br>
 </p>
 
                                         <hr class="invis">
