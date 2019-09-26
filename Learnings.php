@@ -127,27 +127,7 @@
                                     </li>
                                 </ul>
                             </li>
-                            
-                            <li class="dropdown yamm-fw yamm-half"><a href="#" data-toggle="dropdown" class="dropdown-toggle active">Learnings<b class="fa fa-angle-down"></b></a>
-                                <ul class="dropdown-menu">
-                                    <li>
-                                        <div class="yamm-content clearfix">
-                                            <div class="row-fluid">
-                                                <div class="col-md-6 col-sm-6">
-                                                    <h4>Learnings</h4>
-                                                    <ul>
-                                                        <li><a href="Learning01.php">Learning01</a></li>
-                                                        <li><a href="Learning02.php">Learning02</a></li>
-                                                        <li><a href="Learning03.php">Learning03</a></li>
-                                                        <li><a href="Learning04.php">Learning04</a></li>
-							<li><a href="Learning05.php">Learning05</a></li>
-                                                        <li><a href="Learning06.php">Learning06</a></li>
-                                                    </ul>
-                                                </div>
-                                        </div>
-                                    </li>
-					    
-                        </ul>
+				<li><a href="learnings.php">Learnings</a></li>
 				    <li><a href="page-contact.php">Contact</a></li>
                     </div>
                 </nav><!-- end navbar -->
