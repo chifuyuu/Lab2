@@ -189,9 +189,9 @@
                                     <div class="blog-desc-big">
                                         <p class="lead">What I can say is things are great, they've never been better! </p></br></br>
 				    <div class="image_images"><img src="https://scontent.fcrk1-2.fna.fbcdn.net/v/t1.0-9/29792828_1156636184471999_4257229680844600450_n.jpg?_nc_cat=110&_nc_eui2=AeHJaDlZk_Y4IsANqe3IJJUar_cxOGHWRkOskh4vCE85KEw2ijrxhPDYuyiP_GBO3FJZuT4YBJfLx_iZv1kAbWO3gFJbCxH9WSTsps8dydqyEA&_nc_oc=AQmYdwqBOkwP9t8wqvgj_ORK0nBI18NpxAdz_dy-UtsZkl1QITigJiBPKmHkS0bdqVQ&_nc_ht=scontent.fcrk1-2.fna&oh=bf6d97828597385d368be17a9e63365c&oe=5E2BD64A" alt="" class="img-responsive img-rounded"></div><!-- end media --></br>
-                                        I am Paul Anthony C. Ragsac and, I am now 19 years old as of now. I am from Las Piñas City. </br>
-			    I am passionate enough to learn new things aside from programming. I also trying to learn photography, drawing, design & web development. You can also learn a lot from watching videos and doing it by yourself. From simple DIYs to very useful projects. </br>
-	<strong>Seek stories.</strong></br></br>
+                                        I am Paul Anthony C. Ragsac and, I am now 19 years old as of now. I am from Las Piñas City. </br></br>
+			    I am passionate enough to learn new things aside from programming. I also trying to learn photography, drawing, design & web development. You can also learn a lot from watching videos and doing it by yourself. From simple DIYs to very useful projects. </br></br>
+
 
 I first traveled by myself to Morong, Rizal because I had a special someone to meet and find it quite exciting travelling by myself because you really need to focus on where you are and not to pass over the exact place you want to get off. That day was kind of exhausting in my part but overall it was an experience that I will never forget.</br></br>
  
@@ -202,7 +202,7 @@ First year was quite alarming for me since I don't have any background in progra
  
 My summer is a mess. I could not describe it in any fine way since I did not do any good this summer. Well I enjoyed my summer, but it was not a productive summer since I did not learn any new things. What I did? I just played ML and watch Netflix all summer :) 
 
-                                        </br><strong>Talk about feelings.</br></br></strong> Dig deeper by following up.
+                                        </br></br></br> Dig deeper by following up.
 I feel so sleepy most of the time because I can't sleep early, and the class starts at 7:30 in the morning and I need to wake up again early my body can’t comprehend but it is what it is. Well in class I still try to be awake all the time, so I don't miss anything important</p>
 
                                         <hr class="invis">
