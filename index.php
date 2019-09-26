@@ -228,49 +228,6 @@
                 </div><!-- end row -->
             </div><!-- end container -->
         </section>
-        <section class="section db p120">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="tagline-message text-center">
-                            <h3>Tootsie roll jelly jelly dessert candy. Sweet roll sweet roll carrot cake chocolate bar lollipop toffee toffee gingerbread halvah. </h3>
-                        </div>
-                    </div><!-- end col -->
-                </div><!-- end row -->
-            </div><!-- end container -->
-        </section><!-- end section -->
-
-        <section class="section gb nopadtop">
-            <div class="container">
-                <div class="row">
-                    <div class="col-md-3">
-                        <div class="box m30">
-                            <i class="flaticon-computer-tool-for-education"></i>
-                            <h4>Tootsie roll.</h4>
-                            <p>Candy canes pastry cake tart bonbon carrot cake apple pie sweet roll.</p>
-                            <a href="#" class="readmore">Read more</a>
-                        </div>
-                    </div><!-- end col -->
-
-                    <div class="col-md-6">
-                        <div class="box m30">
-                            <i class="flaticon-monitor-tablet-and-smartohone"></i>
-                            <h4>Works all mobile devices</h4>
-                            <p>Topping dessert candy. Sweet roll sesame snaps fruitcake sugar plum gingerbread cupcake..</p>
-                            <a href="#" class="readmore">Read more</a>
-                        </div>
-                    </div><!-- end col -->
-
-                    <div class="col-md-3">
-                        <div class="box m30">
-                            <i class="flaticon-download-business-statistics-symbol-of-a-graphic"></i>
-                            <h4>User Dashboard</h4>
-                            <p>Cupcake icing biscuit. Candy soufflé macaroon sesame snaps toffee biscuit sweet marzipan. </p>
-                            <a href="#" class="readmore">Read more</a>
-                        </div>
-                    </div><!-- end col -->
-                </div><!-- end row -->
-
                 <hr class="invis">
 
                 <div class="row">
