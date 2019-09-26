@@ -192,7 +192,7 @@
 
 <p>
 <strong>1. How can we improve this? </strong> 
-<div class="image_image"><img src="https://i.imgur.com/4KoDJh7.png" alt="" class="img-responsive img-rounded">    
+<div class="image_images"><img src="https://i.imgur.com/4KoDJh7.png" alt="" class="img-responsive img-rounded">  
 </br></br>
 At first glance you could see that everything is mixed up and don’t know what is highlighted in the invitation. So, what I did is I increased the font size of the Important part which is what is it all about. Then, I made smaller font for the succeeding information. 
 </br></br>
