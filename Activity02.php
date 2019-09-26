@@ -107,7 +107,7 @@
                                     <li>
                                         <div class="yamm-content clearfix">
                                             <div class="row-fluid">
-                                                <div class="col-md-6 col-sm-6">
+                                                <div class="col-md-12 col-sm-12">
                                                     <h4>Reflections</h4>
                                                     <ul>
                                                         <li><a href="Reflection01.php"><small>First Week of USERDES Class</small></a></li>
