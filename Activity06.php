@@ -229,7 +229,7 @@ The animal concerned person who’s willing to spend time for taking care of ani
 He is an organization head and manager. 
 </br>
 He puts all his effort and` money to give care to animals.</br></br>Situation #3:</br>
-<p class="text-align">Shell has established his own shelter for dogs. Although there are a lot of people helping the shelter, this is not enough as the number of rescued dogs increased and their medicine became expensive. He also have a problem regarding his volunteers since they can't stay for too long. Shell uses a platform called petagram to advertise his shelter, advice people, allow them to adopt dogs and to gather volunteers to help him run the shelter.  				</p>
+<p class="text-align">Shell has established his own shelter for dogs. Although there are a lot of people helping the shelter, this is not enough as the number of rescued dogs increased and their medicine became expensive. He also have a problem regarding his volunteers since they can't stay for too long. Shell uses a platform called petagram to advertise his shelter, advice people, allow them to adopt dogs and to gather volunteers to help him run the shelter.</p>
 
                                         <hr class="invis">
                             <div class="content boxed-comment clearfix">
