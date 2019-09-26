@@ -190,87 +190,12 @@
                                         <p class="lead">Project Prototype</p>
                                         <p>Initial designs for our website</p></br></br>
 
-<p>LOG IN PAGE
+<p>This is our initial design for our proposed project. The colors and the design were discussed as a group and everyone did their part in the group in creating the design</p>
 </br></br>
-<div class="image_image"><img src="https://i.imgur.com/nqcHoa0.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
+<div class="image_image"><img src="https://i.imgur.com/nqcHoa0.png" alt="" class="img-responsive img-rounded"></div><!-- end media --><p class="text-align2"><strong><small>Image of Login Page</small></strong></br></br>
 
-Input boxes: 
-</br></br>
-<strong>Email/username</strong> – to log-in, the user have to input his/her email or username which is used when she/he registered for Petagram. 
-</br></br>
-<strong>Password</strong> – along with the email/username, the user also have to input his/her password for verification and account security.  
-</br></br>
-Links: 
-</br></br>
-<strong>forgot password </strong>– incase the user forgot his/her password, this link can be clicked to send a verification code to the user’s mobile number and/or email, so she can change her password.  
-</br></br>
-<strong>log-in with Gmail </strong>– if the user doesn’t want to create a new account and want to use her/his gmail account to be connected, the user can click this link to log-in his/her Gmail account.  
-</br></br>
- 
+ <div class="image_image"><img src="https://i.imgur.com/8qhxzGo.png" alt="" class="img-responsive img-rounded"></div><!-- end media --><p class="text-align2"><strong><small>Image of Registration Page</small></strong></br></br>
 
-Buttons: 
-</br></br>
-<strong>log in</strong> – after providing the primary data (email/username and password), the user can click the log-in button so the provided data can be verified and the user can log-in to his/her account.  
-</br></br>
-<strong>sign up </strong>– incase the user is a first time user of petagram and wanted to have an own account, he/she can click this button to go to the sign-up page and fill-out the needed information.   
-</br></br>
-
- <div class="image_image"><img src="https://i.imgur.com/8qhxzGo.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
-
-<strong>Input boxes:</strong> </br></br>
-
-<strong>Full name / Organization name: </strong>To register, the user needs to provide full name (if for personal use) or Organization name (if for organizational use).  </br></br>
-
-<strong>Username: </strong>the user will choose an available username to be use whenever he/she will log-in, username will also be displayed to their posts instead of their name for security. 
-</br></br>
-<strong>Email / mobile number: </strong>This will be use for the user’s security and retrieval of account.  
-</br></br>
-<strong>Password: </strong>for security, password is required. Chosen password must be 8 characters and above to make sure that the password is strong.  
-</br></br>
- 
-
-Check box: 
-</br></br>
-<strong>Check if for organization: </strong>this will check if the account that will be created is for personal use or organizational use.  
-</br></br>
- 
-
-<strong>*If the user checked the box or specify that the account that will be created is for organization, the following field will be required to be filled out.  </strong>
-</br></br>
-<strong>Organization Head: </strong>This will ask for the name of the current head of the organization as a reference person and also for background checking.   
-</br></br>
-<strong>>>First name 
-</br></br>
->>Last name 
-</br></br>
->>Address: </strong>This will ask for the organization’s address as a proof and reference of the organization. To be specific this will include the following: 
-</br></br>
-<strong>>>Street Address
-</br></br>
->>City 
-</br></br>
->>State / Province
-</br></br>
->>Postal Code 
-</br></br>
->>Country (drop down button) </strong>
-</br></br>
-<strong>oMessage: </strong>This field is for describing the organization process and their importance for the animals. This will also be one of the basis if the organization is fitted for the petagram’s advocacy for animals.  
-</br></br>
-Links: 
-</br></br>
-<strong>oRequirements: </strong>when clicked, this link will show a page that contains all the requirements needed for the verification and confirmation of the organizational account.  
-</br></br>
-<strong>oPetagram@email.com :</strong> this link will be use for the submission of the requirements.  
-</br></br>
-<strong>oTerms and conditions: </strong>when clicked, this link will provide a pop-out box that contains the terms and condition of the petagram website.  
-</br></br>
-<strong>oLog-in: </strong>this will link the user to the Log-in page, incase that he/she already have an account. 
-</br></br>
-<strong>Buttons: </strong>
-</br></br>
-<strong>oCreate account: </strong>after filling out the required fields, this button will be clicked to submit all the information and to proceed to verification and creation of the new account.  
-</p>
 
                                         <hr class="invis">
                             <div class="content boxed-comment clearfix">
