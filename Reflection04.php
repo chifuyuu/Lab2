@@ -170,7 +170,7 @@
 
 </p></br>
 <p>
-<div class="image_image"><img src="https://trello-attachments.s3.amazonaws.com/5d1012c7a2cb287ecc82cf3f/615x583/25dfac63a00615e55cfceb0e32382dfa/second.png" alt="" class="img-responsive img-rounded"></div><p class="text-align2"><strong><small>Image of my last attempt on Userinyerface</small></strong></br></br>
+<div class="image_image"><img src="https://trello-attachments.s3.amazonaws.com/5d1012c7a2cb287ecc82cf3f/615x583/25dfac63a00615e55cfceb0e32382dfa/second.png" alt="" class="img-responsive img-rounded"><p class="text-align2"><strong><small>Image of my last attempt on Userinyerface</small></strong></div></br></br>
 To start, our first quiz was unexpected, and I thought it was a good way to pointing on how important it is for a website having a very well-designed UI and UX.
 Taking this quiz, makes me realize that as an end user, we sometimes don’t read what we click on a website. We just click what we think is common or already experienced before on navigating through websites.
 In the first few minutes of the quiz, I really don’t know what is happening. I just became pressured when everyone is already done and know what the steps navigating through it.
