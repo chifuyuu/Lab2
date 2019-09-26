@@ -189,7 +189,8 @@
                                     <div class="blog-desc-big">
                                         <p class="lead">4 ROW, 3 (12) COLUMN DESIGN</p>
                                         <p>Designing using Grids</p>
-</br><strong>The Design</strong></br>
+					    <p class="text-align">Acitivity 9 is for designing webpage with the use of 12 column guide. 12 column guide in this activity were set as guide for the 12 combinations of text and image layout of the webpage. This also gives an idea on how to easily divide your space when coding the format or design of your webpage. For the representation, dark colored boxes represents image field and blue colored boxes are for texts fields.</p>
+</br></br><strong>The Design</strong></br>
 </br><strong>
  <div class="image_image"><img src="https://userdes-cortez.herokuapp.com/Images/4th9.PNG" alt="" class="img-responsive img-rounded"></div><!-- end media --><p class="text-align2"><strong><small>First example for 4x12 Grid Design</small></strong> </br></br>
  <div class="image_image"><img src="https://userdes-cortez.herokuapp.com/Images/12th9.PNG" alt="" class="img-responsive img-rounded"></div><!-- end media --><p class="text-align2"><strong><small>Second example for 4x12 Grid Design</small></strong> </br></br>
