@@ -134,7 +134,8 @@
             <div class="home-text-wrapper relative container">
                 <div class="home-message">
                     <p>Welcome to my Website</p>
-                    <small></small>
+                    <p class="color-b"><small>This website was created for me to learn how to create and make my own.</br>
+Which can be used for future purposes</small></p>
                     <div class="btn-wrapper">
                         <div class="text-center">
                             <a href="#" class="btn btn-primary wow slideInLeft">Read More</a><a href="#" class="btn btn-default wow slideInRight">Learn How</a>
