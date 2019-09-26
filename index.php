@@ -228,29 +228,6 @@
                 </div><!-- end row -->
             </div><!-- end container -->
         </section>
-                <hr class="invis">
-
-                <div class="row">
-                    <div class="col-md-6">
-                        <div class="box">
-                            <i class="flaticon-html5"></i> <i class="flaticon-css-3"></i>
-                            <h4>Compatible HTML5 & CSS3</h4>
-                            <p>HTML5 is a markup language used for structuring and presenting content on the World Wide Web. It is the fifth and current version of the HTML standard.</p>
-                            <a href="#" class="readmore">Read more</a>
-                        </div>
-                    </div><!-- end col -->
-
-                    <div class="col-md-6">
-                        <div class="box">
-                            <i class="flaticon-html-coding"></i>
-                            <h4>Bootstrap Framework</h4>
-                            <p>Bootstrap is a technique of loading a program into a computer by means of a few initial instructions which enable the introduction of the rest of the program from an input device.</p>
-                            <a href="#" class="readmore">Read more</a>
-                        </div>
-                    </div><!-- end col -->
-                </div><!-- end row -->
-            </div><!-- end container -->
-        </section>
 
         <footer class="section footer noover">
             <div class="container">
