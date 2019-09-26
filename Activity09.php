@@ -191,7 +191,18 @@
                                         <p>Designing using Grids</p>
 </br><strong>The Design</strong></br>
 </br><strong>
- <div class="image_image"><img src="https://trello-attachments.s3.amazonaws.com/5d1012c7a2cb287ecc82cf3f/1077x367/7363eed0d8e05d52c08ae9a1b6ff8dff/18_A9_Ragsac.png" alt="" class="img-responsive img-rounded"></div><!-- end media -->
+ <div class="image_image"><img src="https://userdes-cortez.herokuapp.com/Images/4th9.PNG" alt="" class="img-responsive img-rounded"></div><!-- end media --><p class="text-align2"><strong><small>First example for 4x12 Grid Design</small></strong> </br></br>
+ <div class="image_image"><img src="https://userdes-cortez.herokuapp.com/Images/12th9.PNG" alt="" class="img-responsive img-rounded"></div><!-- end media --><p class="text-align2"><strong><small>Second example for 4x12 Grid Design</small></strong> </br></br>
+ <div class="image_image"><img src="https://userdes-cortez.herokuapp.com/Images/11th9.PNG" alt="" class="img-responsive img-rounded"></div><!-- end media --><p class="text-align2"><strong><small>Third example for 4x12 Grid Design</small></strong> </br></br>
+	 <div class="image_image"><img src="https://userdes-cortez.herokuapp.com/Images/8th9.PNG" alt="" class="img-responsive img-rounded"></div><!-- end media --><p class="text-align2"><strong><small>Fourth example for 4x12 Grid Design</small></strong> </br></br>
+ <div class="image_image"><img src="https://userdes-cortez.herokuapp.com/Images/7th9.PNG" alt="" class="img-responsive img-rounded"></div><!-- end media --><p class="text-align2"><strong><small>Fifth example for 4x12 Grid Design</small></strong> </br></br>
+ <div class="image_image"><img src="https://userdes-cortez.herokuapp.com/Images/6th9.PNG" alt="" class="img-responsive img-rounded"></div><!-- end media --><p class="text-align2"><strong><small>Sixth example for 4x12 Grid Design</small></strong> </br></br>
+ <div class="image_image"><img src="https://userdes-cortez.herokuapp.com/Images/5th9.PNG" alt="" class="img-responsive img-rounded"></div><!-- end media --><p class="text-align2"><strong><small>Seventh example for 4x12 Grid Design</small></strong> </br></br>
+ <div class="image_image"><img src="https://userdes-cortez.herokuapp.com/Images/3rd9.PNG" alt="" class="img-responsive img-rounded"></div><!-- end media --><p class="text-align2"><strong><small>Eighth example for 4x12 Grid Design</small></strong> </br></br>
+ <div class="image_image"><img src="https://userdes-cortez.herokuapp.com/Images/2nd9.PNG" alt="" class="img-responsive img-rounded"></div><!-- end media --><p class="text-align2"><strong><small>Nineth example for 4x12 Grid Design</small></strong> </br></br>
+ <div class="image_image"><img src="https://userdes-cortez.herokuapp.com/Images/1st9.PNG" alt="" class="img-responsive img-rounded"></div><!-- end media --><p class="text-align2"><strong><small>Tenth example for 4x12 Grid Design</small></strong> </br></br>
+ <div class="image_image"><img src="https://userdes-cortez.herokuapp.com/Images/10th9.PNG" alt="" class="img-responsive img-rounded"></div><!-- end media --><p class="text-align2"><strong><small>Eleventh example for 4x12 Grid Design</small></strong> </br></br>
+ <div class="image_image"><img src="https://userdes-cortez.herokuapp.com/Images/9th9.PNG" alt="" class="img-responsive img-rounded"></div><!-- end media --><p class="text-align2"><strong><small>Twelveth example for 4x12 Grid Design</small></strong> </br></br>
 
 </p>
 
