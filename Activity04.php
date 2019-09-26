@@ -188,10 +188,32 @@
 
                                    <div class="blog-desc-big">
                                         <p class="lead">Research and Need Findings</p>
-                                        <p>Making our app.</p></br><div class="image_image"><img src="https://i.imgur.com/o0ZhK0G.png" alt="" class="img-responsive img-rounded"></div><!-- end media --></br></br>
-
+                                        <p>Making our app.</p></br>				
+<strong>PROBLEM:</strong>
+The following problems were observed and became the basis of the project, this includes:
+<p class="indent">• Lack of awareness that there is a great number of mistreated animals
+• people show a great interest in surfing,watching and posting about pets but don't have a isolatedplatform for them.
+• insufficient support for animal shelters.
+• pets are mostly bought not adopted.</p>
+<strong>FOCUS:</strong>
+The proposed project mainly focuses on the following:
+<p class="indent">• Advocacy for animal rights.
+• watching and surfing animals are therapeutic in some ways.
+• The therepeutic way of waching and surfing animal posts.</p>
+<strong>SOLUTION:</strong>
+To address the stated problems, this project seeks to attain the following:
+<p class="indent2">• a social media site to be name: PETagram
+• build a isolated social platform PETagram where:</p>
+<p class="indent">1. build a community and support group for pet owners.
+2. people can share anything about their pets and offer help for those pet owners in need.
+3. People can easily donate to animal shelters and organizations.
+4. It promotes adopting of pet instead of buying.
+5. Promotes different animal shelters for them to be notice and receive help.
+6. It gathers possible volunteers for animal shelters and organization.
+7. Allows pet owners and non-pet owners to surf animal posts.
+8. Allows people to buy and sell products for pets.
 </p>
-
+Solving the said problems using PETAGRAM will benefit most of the animals and their right as a living creature. It will also help the people to think differently about animals and give them an idea how to treat animals as a living creature that have feelings. We also emphasize the idea of buying vs. adopting, that when people realize that adopting is more reasonable, breeders will put their business into end and there will be no animals that will suffer because of force breeding. Moreover, with PETAGRAM as a solution to the problem, different shelters will have more opportunity to receive help and these shelters will become the bridge of common people to help each animal in need. In the brainstorming of the project, we, the proponents discuss our common thing and we come up about the things that we care and what make us entertain in our free time. With this, we notice our common thing which is our affection and interest to our pets and other animals and from here we try to discuss what we want and that is too surf the net with only pets and animals in our feeds or walls. In here, the issue and the problem regarding shelters that beg for donations rise up and animal situation from the zoo, laboratories, shelters and streets were also notice. As we want to answer this problem, we thought of something where people’s attention can be caught easily, and that is through social media. However, social media is a wide platform so we think of a way to narrow it down and that is by restricting a social media for animals and pets that leads to PETAGRAM. Other solution we suggest is to make a simple website or platform where people can find shelters to donate or be a volunteer. Just like how grab car works, this platform is for finding a nearest shelter where they can send help. However, this idea will not work based on our observation. As a group, we observed that people will just surf or read an information if there is a video or picture included to the information. We also observed that people are more active when it comes to socializing, talking to another user or having someone new as a friend. This observation soon leads to the idea of the PETAGRAM.
                                         <hr class="invis">
 							<div class="content boxed-comment clearfix">
                                 <div class="comments-list">
