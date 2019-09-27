@@ -1540,6 +1540,13 @@ BLOG
 	margin-right: auto;
 }
 
+.image_imagez img {
+    width: 400px;
+	height: 460px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 .image_imageu img {
     width: 600px;
 	height: 400px;
