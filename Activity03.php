@@ -168,16 +168,16 @@
 <p>
     <strong>Problem:</strong></br></br> First, if the building would be an INSTITUTIONAL BUILDING (e.g. Hospital), where in many people would always use the elevator daily. Since there would be a lot of people using these elevators, it would be hard for them to go to a floor they wanted to go to since it has a thousand floors and the elevator could also crash or won’t work because of too many people inside. The space should be big enough wherein it could have a space for people to seat while waiting in the elevator.  </br></br>Second, for the medical practitioners and workers in the Hospital. Since, these people need to be prioritized for them to go to a specific part of the hospital.</br></br>
             <strong>Solution and design</strong></br></br>
-<div class="image_image"><img src="https://i.imgur.com/PDaw0mk.png" alt="" class="img-responsive img-rounded"><p class="text-align2"><strong><small>Design of the Elevator</small></strong></div></br></br>
+<div class="image_image"><img src="https://i.imgur.com/PDaw0mk.png" alt="" class="img-responsive img-rounded"><p class="text-align2"><strong><small>Design of the Elevator</small></strong></div></p></br></br>
 The interface would look like a keypad in a calculator with an LCD screen which you could just type in the floor number you want and there would also be an add and ‘x’ button. After adding the floor, you would want to go you would likely see the floor of the building on the left LCD screen in light green. </br></br>
-<div class="image_images"><img src="https://i.imgur.com/IecWD3H.png" alt="" class="img-responsive img-rounded"><p class="text-align2"><strong><small>Design of the Interface</small></strong></div></br></br>
+<div class="image_images"><img src="https://i.imgur.com/IecWD3H.png" alt="" class="img-responsive img-rounded"><p class="text-align2"><strong><small>Design of the Interface</small></strong></div></p></br></br>
 <strong>Simple Summary:</strong> </br></br>
-1. 16 button numeric keypad</strong> with an LCD screen above it. Type in the floor number you want to go to, and then press add.</br></br>
-2.<strong>An LCD screen</strong> to the right which shows a visual of the floors the elevator is going. Pressing “add” on the keypad adds your floor to the LCD screen, giving you feedback for your input. Current floor is highlighted in a different colour (light green) and colour(orange) for floors added in the queue. </br></br>
-3.<strong>Open / close buttons</strong> for DOORS. The open button looks bigger intentionally. It’s one of the buttons I think a lot of people will need to look for immediately (for example, when someone yells “wait!!”).  </br></br>
-4. <strong>Prv Fl button</strong> for private floors. (For administrators, workers and VIP’s in the building) </br></br>
-5.  <strong>Card Reader</strong> After clicking the Prv Fl it then requires a card wherein the card will already have the floor the person is going to. </br></br>
-6.  <strong>Alarm help buttons</strong> and a slot to insert the maintenance key. </br></br>
+1.) 16 button numeric keypad</strong> with an LCD screen above it. Type in the floor number you want to go to, and then press add.</br></br>
+2.) <strong>An LCD screen</strong> to the right which shows a visual of the floors the elevator is going. Pressing “add” on the keypad adds your floor to the LCD screen, giving you feedback for your input. Current floor is highlighted in a different colour (light green) and colour(orange) for floors added in the queue. </br></br>
+3.) <strong>Open / close buttons</strong> for DOORS. The open button looks bigger intentionally. It’s one of the buttons I think a lot of people will need to look for immediately (for example, when someone yells “wait!!”).  </br></br>
+4.) <strong>Prv Fl button</strong> for private floors. (For administrators, workers and VIP’s in the building) </br></br>
+5.) <strong>Card Reader</strong> After clicking the Prv Fl it then requires a card wherein the card will already have the floor the person is going to. </br></br>
+6.) <strong>Alarm help buttons</strong> and a slot to insert the maintenance key. </br></br>
 </p>
 
                                         <hr class="invis">
