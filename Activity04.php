@@ -164,12 +164,13 @@
                                    <div class="blog-desc-big">
                                         <p class="lead">Research and Need Findings</p>
                                         <p>Making our app.</p></br>				
-<strong>PROBLEM:</strong></br></br>
+</br></br><strong>PROBLEM:</strong></br></br>
 The following problems were observed and became the basis of the project, this includes:</br></br>
 <p class="indent">• Lack of awareness that there is a great number of mistreated animals</br>
 <p class="indent">• people don't have a isolated platform for pets.</br>
 <p class="indent">• insufficient support for animal shelters.</br>
 <p class="indent">• pets are mostly bought not adopted.</br></p>
+</br></br>
 <strong>FOCUS:</strong></br></br>
 The proposed project mainly focuses on the following:</br></br>
 <p class="indent">• Advocacy for animal rights.
