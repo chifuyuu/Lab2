@@ -175,7 +175,7 @@ The following problems were observed and became the basis of the project, this i
 The proposed project mainly focuses on the following:</br></br>
 <p class="indent">• Advocacy for animal rights.
 <p class="indent">• watching and surfing animals are therapeutic in some ways.</br>
-<p class="indent">• The therepeutic way of waching and surfing animal posts.</br></br></p>
+<p class="indent">• The therepeutic way of waching and surfing animal posts.</br></br></p></br>
 <strong>SOLUTION:</strong></br></br>
 To address the stated problems, this project seeks to attain the following:</br></br>
 <p class="indent">• a social media site to be name: PETagram</br>
